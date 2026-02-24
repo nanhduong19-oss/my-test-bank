@@ -1,0 +1,793 @@
+{
+  "metadata": {
+    "testId": "RICHMOND_B1_T01",
+    "testName": "B1 Richmond Test 1",
+    "description": "Bài thi B1 Preliminary - Richmond Test 1 bao gồm Nghe, Đọc, Viết."
+  },
+  "content": {
+    "listening": [
+      {
+        "part": 1,
+        "title": "Part 1: Multiple Choice (Pictures)",
+        "instruction": "Questions 1-7. For each question, choose the correct answer.",
+        "media": {
+          "type": "audio",
+          "url": "https://www.dropbox.com/scl/fi/mmun728ggcp3pvivka3np/Pre-Test-1-Part-01.mp3?rlkey=rroecxiklo5meh9noxayl5fxg&st=hi4kk5ke&dl=0"
+        },
+        "transcript": "Question 1: What activity will the friends do first?\nWoman: I'm really looking forward to our trip tomorrow.\nMan: Yeah. What shall we do first?\nWoman: I'd really like to go shopping if we can.\nMan: Me too, but we should leave that till last. Queen Square, with the amazing fountain, won't be so busy early on, so we could go and see that.\nWoman: Before we see anything else?\nMan: Good idea.\n\nQuestion 2: What is wrong with Jack?\nWoman: You don't look well, Jack. Is something the matter?\nJack: I'm not feeling great.\nWoman: Is it the same problem you had last week? Didn't you go to the doctor about your ears... (See full script in PDF)",
+        "questions": [
+          {
+            "id": "RB1-T01-L-P1-Q01",
+            "displayNumber": 1,
+            "type": "multiple-choice-image",
+            "image": "https://www.dropbox.com/scl/fi/fz4fcthkjcw97vmb0g90m/Q1-3.png?rlkey=ef7lwlpe7r7jzi8gmthpvuvx2&st=ncncb8wy&dl=0",
+            "text": "What activity will the friends do first?",
+            "options": {
+              "A": "Option A",
+              "B": "Option B",
+              "C": "Option C"
+            },
+            "correctAnswer": "B",
+            "explanation": "Đúng (B): Họ quyết định đi xem Queen Square (fountain) trước. Script: '...leave [shopping] till last. Queen Square, with the amazing fountain... we could go and see that.'\nSai:\n- A: Shopping được nói rõ ‘leave till last’ nên không phải lựa chọn đầu tiên.\n- C: Ăn trưa/đi bộ ven sông là sau khi đã đi xem fountain."
+          },
+          {
+            "id": "RB1-T01-L-P1-Q02",
+            "displayNumber": 2,
+            "type": "multiple-choice-image",
+            "image": "https://www.dropbox.com/scl/fi/fz4fcthkjcw97vmb0g90m/Q1-3.png?rlkey=ef7lwlpe7r7jzi8gmthpvuvx2&st=ncncb8wy&dl=0",
+            "text": "What problem does the man have? (Jack)",
+            "options": {
+              "A": "Option A",
+              "B": "Option B",
+              "C": "Option C"
+            },
+            "correctAnswer": "B",
+            "explanation": "Đúng (B): Vấn đề hiện tại là headache. Script: '...pills... got rid of the earache. But they do give me headaches, which is what I’ve got now.'\nSai:\n- A: Earache đã ‘got rid of’.\n- C: Stomach chỉ nhắc ‘empty’ (đói) nhưng không phải vấn đề chính."
+          },
+          {
+            "id": "RB1-T01-L-P1-Q03",
+            "displayNumber": 3,
+            "type": "multiple-choice-image",
+            "image": "https://www.dropbox.com/scl/fi/fz4fcthkjcw97vmb0g90m/Q1-3.png?rlkey=ef7lwlpe7r7jzi8gmthpvuvx2&st=ncncb8wy&dl=0",
+            "text": "Which job is the man's cousin doing at the moment?",
+            "options": {
+              "A": "Option A",
+              "B": "Option B",
+              "C": "Option C"
+            },
+            "correctAnswer": "A",
+            "explanation": "Đúng (A): Cousin đang làm ở café. Script: '...wanted to be going round explaining things to tourists. But she got work in the café instead. ...making bread and cakes...'\nSai:\n- B: Tour guide chỉ là mong muốn, không phải công việc hiện tại."
+          },
+          {
+            "id": "RB1-T01-L-P1-Q04",
+            "displayNumber": 4,
+            "type": "multiple-choice-image",
+            "image": "https://www.dropbox.com/scl/fi/ykrebgsymeptcsm4ujvs0/Q4-7.png?rlkey=m312ka906c5zo6zrq8r2w5m0u&st=tn3ntgce&dl=0",
+            "text": "Which dish will the woman have for lunch?",
+            "options": {
+              "A": "Option A",
+              "B": "Option B",
+              "C": "Option C"
+            },
+            "correctAnswer": "C",
+            "explanation": "Đúng (C): Anh ấy quay về món quen thuộc grilled chicken. Script: '...I’m quite hungry, so I think I’ll get what I usually have after all.'\nSai:\n- A: Soup nghe hay nhưng ‘spicy’ không hợp.\n- B: Fish salad chỉ được nhắc như lựa chọn healthy, không chọn."
+          },
+          {
+            "id": "RB1-T01-L-P1-Q05",
+            "displayNumber": 5,
+            "type": "multiple-choice-image",
+            "image": "https://www.dropbox.com/scl/fi/ykrebgsymeptcsm4ujvs0/Q4-7.png?rlkey=m312ka906c5zo6zrq8r2w5m0u&st=tn3ntgce&dl=0",
+            "text": "What time do the friends agree to meet this evening?",
+            "options": {
+              "A": "Option A",
+              "B": "Option B",
+              "C": "Option C"
+            },
+            "correctAnswer": "B",
+            "explanation": "Đúng (B): Họ chốt gặp lúc 6:15. Script: '...meet... at the café... at 6.15?' - 'Fine. See you then.'\nSai:\n- A: 6:00 chỉ là đề xuất ăn tối, bị từ chối do không đủ thời gian.\n- C: 7:30 show sold out, không phải giờ hẹn."
+          },
+          {
+            "id": "RB1-T01-L-P1-Q06",
+            "displayNumber": 6,
+            "type": "multiple-choice-image",
+            "image": "https://www.dropbox.com/scl/fi/ykrebgsymeptcsm4ujvs0/Q4-7.png?rlkey=m312ka906c5zo6zrq8r2w5m0u&st=tn3ntgce&dl=0",
+            "text": "What will the weather be like tomorrow afternoon?",
+            "options": {
+              "A": "Option A",
+              "B": "Option B",
+              "C": "Option C"
+            },
+            "correctAnswer": "A",
+            "explanation": "Đúng (A): Buổi chiều trở lại đẹp, trời quang. Script: '...tomorrow morning... start foggy... but from midday until sunset, it’ll be back to the same lovely conditions as today.'\nSai:\n- B: Không nói có gió mạnh chiều mai.\n- C: Sương mù chỉ nói vào buổi sáng."
+          },
+          {
+            "id": "RB1-T01-L-P1-Q07",
+            "displayNumber": 7,
+            "type": "multiple-choice-image",
+            "image": "https://www.dropbox.com/scl/fi/ykrebgsymeptcsm4ujvs0/Q4-7.png?rlkey=m312ka906c5zo6zrq8r2w5m0u&st=tn3ntgce&dl=0",
+            "text": "What does the man decide to buy?",
+            "options": {
+              "A": "Option A",
+              "B": "Option B",
+              "C": "Option C"
+            },
+            "correctAnswer": "A",
+            "explanation": "Đúng (A): Cuối cùng mua mugs. Script: '...prefer plates... but I think those [mugs] will be fine.'\nSai:\n- B: Dinner plates không đủ số lượng (‘only a couple left’).\n- C: Bowls chỉ hỏi xem có không, không quyết định mua."
+          }
+        ]
+      },
+      {
+        "part": 2,
+        "title": "Part 2: Multiple Choice (Short Dialogues)",
+        "instruction": "Questions 8-13. For each question, choose the correct answer.",
+        "media": {
+          "type": "audio",
+          "url": "https://www.dropbox.com/scl/fi/jf2otk9lwu7qdinw3nxpx/Pre-Test-1-Part-02.mp3?rlkey=pmmd24hyh6ra1qs5h0o34kaky&st=5ft4i6ph&dl=0"
+        },
+        "transcript": "[Refer to listening script PDF for full dialogue text]",
+        "questions": [
+          {
+            "id": "RB1-T01-L-P2-Q08",
+            "displayNumber": 8,
+            "type": "multiple-choice",
+            "text": "You will hear two friends talking about a new shop. What does the woman think about it?",
+            "options": {
+              "A": "Its range of books is limited.",
+              "B": "The atmosphere there is welcoming.",
+              "C": "The staff's knowledge of books is good."
+            },
+            "correctAnswer": "C",
+            "explanation": "Đúng (C): Điểm được chốt rõ nhất là staff know a lot about books. Script: Man: ‘...very welcoming... know a lot about books.’\nSai:\n- A: Ngược lại, woman nói ‘wider range of books’.\n- B: ‘welcoming’ là nhận xét của man, woman nhấn thêm cải thiện ánh sáng/posters."
+          },
+          {
+            "id": "RB1-T01-L-P2-Q09",
+            "displayNumber": 9,
+            "type": "multiple-choice",
+            "text": "You will hear two friends talking about a badminton competition. Why has the woman come to talk to the man?",
+            "options": {
+              "A": "to warn him not to arrive late",
+              "B": "to ask him to do some extra practice",
+              "C": "to explain her worries about playing"
+            },
+            "correctAnswer": "B",
+            "explanation": "Đúng (B): Cô ấy tới để bàn việc luyện thêm trước giải. Script: Man: ‘...it’d be good if we could fit a session in this afternoon.’\nSai:\n- A: Chỉ nói giờ bắt đầu 6:45 và thường đến sớm, không ‘cảnh báo’.\n- C: Woman không nói lo lắng; man mới là người đề xuất session."
+          },
+          {
+            "id": "RB1-T01-L-P2-Q10",
+            "displayNumber": 10,
+            "type": "multiple-choice",
+            "text": "You will hear two friends talking about a day trip. How does the man feel about it?",
+            "options": {
+              "A": "annoyed that they are setting off too early",
+              "B": "worried that the roads will be busy",
+              "C": "disappointed with the people going on the trip"
+            },
+            "correctAnswer": "B",
+            "explanation": "Đúng (B): Anh ấy lo kẹt xe/đường đông vì đi cuối tuần lễ. Script: ‘...That beach is not the best place to go on a holiday weekend.’\nSai:\n- A: Anh ấy không bực vì đi sớm; còn ước gì xuất phát sớm hơn.\n- C: Anh ấy nói ‘great group of people’ nên không thất vọng."
+          },
+          {
+            "id": "RB1-T01-L-P2-Q11",
+            "displayNumber": 11,
+            "type": "multiple-choice",
+            "text": "You will hear two friends talking about learning Spanish. What do they agree is most difficult?",
+            "options": {
+              "A": "writing essays",
+              "B": "speaking with classmates",
+              "C": "listening to programmes"
+            },
+            "correctAnswer": "C",
+            "explanation": "Đúng (C): Cả hai đồng ý nghe chương trình (TV/radio) là khó nhất. Script: Man: ‘hardest... when people are speaking quickly, especially on TV or the radio.’ Woman: ‘Me too...’\nSai:\n- A: Woman nói ‘I enjoy those [essays]’.\n- B: Không nhắc khó ở speaking với classmates."
+          },
+          {
+            "id": "RB1-T01-L-P2-Q12",
+            "displayNumber": 12,
+            "type": "multiple-choice",
+            "text": "You will hear a woman talking to her friend about a pair of shoes. What is wrong with the shoes?",
+            "options": {
+              "A": "They don't fit properly.",
+              "B": "The colour isn't suitable.",
+              "C": "The material is poor quality."
+            },
+            "correctAnswer": "A",
+            "explanation": "Đúng (A): Vấn đề là chật/không vừa. Script: ‘...exactly the right blue, but... really too tight around the toes... top-quality leather...’\nSai:\n- B: Ngược lại: ‘exactly the right blue’.\n- C: Chất liệu còn được khen ‘top-quality leather’."
+          },
+          {
+            "id": "RB1-T01-L-P2-Q13",
+            "displayNumber": 13,
+            "type": "multiple-choice",
+            "text": "You will hear a man talking to his friend about his flat. He thinks it would be better if",
+            "options": {
+              "A": "it had a different view.",
+              "B": "the rent was a bit cheaper.",
+              "C": "there were more frequent buses."
+            },
+            "correctAnswer": "A",
+            "explanation": "Đúng (A): Anh ấy nhớ view công viên nên muốn view khác. Script: ‘...I miss waking up and looking out on the park every morning...’\nSai:\n- B: Rent hiện tại ‘lower’ nên không phải vấn đề.\n- C: Có bus stop gần, không phàn nàn tần suất."
+          }
+        ]
+      },
+      {
+        "part": 3,
+        "title": "Part 3: Fill in the Blanks",
+        "instruction": "Questions 14-19. Write one or two words, or a number, or a date, or a time.",
+        "media": {
+          "type": "audio",
+          "url": "https://www.dropbox.com/scl/fi/u58ln0xadswao9askaq2j/Pre-Test-1-Part-03.mp3?rlkey=jrm1v85n8ilyf7zpi2m35vkzh&st=oxujyji7&dl=0"
+        },
+        "transcript": "Hi everyone.\nThis morning I want to give you a brief summary of the great walking trip we had last weekend, hiking in the hills of Todmore.\nThere were twelve of us in the group, and we set off at 7.30 on Saturday. The weather at the beginning was beautiful - very sunny - but it had been raining a lot before that.\nThe paths had already dried out, so they weren’t a problem, but the streams were very full and getting across them was a challenge - a lot of wet feet!\nWe walked eight miles in the morning and saw lots of wildlife. There were the usual rabbits and plenty of beautiful birds. And we were even lucky enough to see a kind of flower that’s hardly ever seen these days, especially in this part of the world.\nWe stopped off to visit a castle and stayed a while to enjoy the beautiful views from the top.\nAfter another hour’s walk, we stopped for our picnic lunch by a farm which has been ruined for many years - a very beautiful and peaceful place.\nHowever, just after we had packed away our things, the weather suddenly changed and there was a thunderstorm, which meant we couldn’t start walking again for about twenty minutes.\nBut once it had finished, we were able to carry on along the route that we had planned for the afternoon. We saw the famous cliff above the river, but the thing people said they enjoyed the most was the waterfall, which is one of the highest in the country.\nWe finished the hike by taking a great picture of the group outside the café where we’d stopped for an excellent tea at the end of the walk, before getting the coach back at 5.30.",
+        "questions": [
+          {
+            "id": "RB1-T01-L-P3-Q14",
+            "displayNumber": 14,
+            "type": "fill-in-blank",
+            "text": "At the beginning of the walk it was difficult to cross the (14) ________.",
+            "correctAnswer": "STREAMS",
+            "explanation": "Script: ‘...the streams were very full and getting across them was a challenge...’"
+          },
+          {
+            "id": "RB1-T01-L-P3-Q15",
+            "displayNumber": 15,
+            "type": "fill-in-blank",
+            "text": "The group saw a rare type of (15) ________ in the morning.",
+            "correctAnswer": "FLOWER",
+            "explanation": "Script: ‘...lucky enough to see a kind of flower that’s hardly ever seen...’"
+          },
+          {
+            "id": "RB1-T01-L-P3-Q16",
+            "displayNumber": 16,
+            "type": "fill-in-blank",
+            "text": "The group had lunch by a ruined (16) ________.",
+            "correctAnswer": "FARM",
+            "explanation": "Script: ‘...picnic lunch by a farm which has been ruined for many years...’"
+          },
+          {
+            "id": "RB1-T01-L-P3-Q17",
+            "displayNumber": 17,
+            "type": "fill-in-blank",
+            "text": "After lunch, the walk was delayed because of a (17) ________.",
+            "correctAnswer": "THUNDERSTORM",
+            "explanation": "Script: ‘...weather suddenly changed and there was a thunderstorm, which meant we couldn’t start walking again...’"
+          },
+          {
+            "id": "RB1-T01-L-P3-Q18",
+            "displayNumber": 18,
+            "type": "fill-in-blank",
+            "text": "The most popular part of the walk in the afternoon was seeing the (18) ________.",
+            "correctAnswer": "WATERFALL",
+            "explanation": "Script: ‘...the thing people said they enjoyed the most was the waterfall...’"
+          },
+          {
+            "id": "RB1-T01-L-P3-Q19",
+            "displayNumber": 19,
+            "type": "fill-in-blank",
+            "text": "The group photograph was taken in front of a (19) ________ at the end of the walk.",
+            "correctAnswer": "CAFE",
+            "explanation": "Script: ‘...picture of the group outside the café... at the end of the walk...’"
+          }
+        ]
+      },
+      {
+        "part": 4,
+        "title": "Part 4: Multiple Choice (Interview)",
+        "instruction": "Questions 20-25. For each question, choose the correct answer.",
+        "media": {
+          "type": "audio",
+          "url": "https://www.dropbox.com/scl/fi/83oewe10ynalghxl4vb95/Pre-Test-1-Part-04.mp3?rlkey=bml73f54vdhurrdd869vbscec&st=k99d8del&dl=0"
+        },
+        "transcript": "Our guest today is Alfie Jones, who’s a journalist. How did you get the job, Alfie?\nI thought I’d become a librarian after finishing university. But at university, I did some part-time work serving customers in a department store, and the boss asked me to write some articles about the business. I enjoyed it and decided to apply for the job I do now on a local newspaper, reporting on businesses in the region.\n\nInterviewer: What do you find most difficult about your job?\nAlfie: Sometimes it's really difficult to get the facts I need for a story. That takes time.\n\nInterviewer: What has changed for journalists in the last 20 years?\nAlfie: ...same number of employees... but in the past... half... outside the office. That’s very rare nowadays.\n\nInterviewer: How do you feel about being the youngest member of staff?\nAlfie: When I got the job, I'd expected there to be lots of staff my age at the office, but it didn't bother me when I found there weren't any. Someone has to be the youngest, and no one should feel bad about having the chance to learn from more experienced people. It's amazing, but people sometimes ask me things, like how to use new technologies.\n\nInterviewer: So if someone wants to be a journalist, what should this person do?\nAlfie: Well, some people say the most important thing is to be confident and put lots of stuff online. That's what everyone does these days and it won't make you different. Instead, you need to be curious and look at what's written about in the news. So when you come to apply to newspapers or other media, you'll be able to show how much you know.\n\nInterviewer: What are your plans for the future?\nAlfie: If possible, I'd like to work as a radio journalist. I think I'd have more freedom and be able to choose my own stories. It's not that I want to change direction and move into something like international news. I'm happy writing about business, and I think I'm good at it.",
+        "questions": [
+          {
+            "id": "RB1-T01-L-P4-Q20",
+            "displayNumber": 20,
+            "type": "multiple-choice",
+            "text": "What was Alfie's previous job?",
+            "options": {
+              "A": "He was a shop assistant.",
+              "B": "He was a businessman.",
+              "C": "He was a librarian."
+            },
+            "correctAnswer": "A",
+            "explanation": "Đúng (A): Previous job thực tế là làm ở department store (shop assistant). Script: ‘...part-time work serving customers in a department store...’\nSai:\n- B: ‘business’ chỉ là chủ đề bài báo/được yêu cầu viết.\n- C: Librarian chỉ là dự định (‘I thought I’d become...’)."
+          },
+          {
+            "id": "RB1-T01-L-P4-Q21",
+            "displayNumber": 21,
+            "type": "multiple-choice",
+            "text": "What does Alfie find most difficult about his job?",
+            "options": {
+              "A": "talking to people",
+              "B": "researching information",
+              "C": "meeting deadlines"
+            },
+            "correctAnswer": "B",
+            "explanation": "Đúng (B): Khó nhất là lấy đủ facts/ thông tin. Script: ‘Sometimes it's really difficult to get the facts I need for a story...’"
+          },
+          {
+            "id": "RB1-T01-L-P4-Q22",
+            "displayNumber": 22,
+            "type": "multiple-choice",
+            "text": "What does Alfie say has changed for journalists in the last 20 years?",
+            "options": {
+              "A": "the amount of time spent in the office",
+              "B": "the speed people have to work at",
+              "C": "the number of people working on the paper"
+            },
+            "correctAnswer": "A",
+            "explanation": "Đúng (A): Thay đổi là việc nhân viên giờ ở văn phòng nhiều hơn (ít ra ngoài). Script: ‘...in the past... half... outside the office. That’s very rare nowadays.’\nSai:\n- B: Anh nói công việc vẫn ‘just as stressful as always’ và phải nhanh.\n- C: Nêu rõ ‘same number of employees’."
+          },
+          {
+            "id": "RB1-T01-L-P4-Q23",
+            "displayNumber": 23,
+            "type": "multiple-choice",
+            "text": "How does Alfie feel about being the youngest person in the office?",
+            "options": {
+              "A": "embarrassed by his lack of experience",
+              "B": "disappointed there aren't more young people",
+              "C": "surprised when others want his advice"
+            },
+            "correctAnswer": "C",
+            "explanation": "Đúng (C): Anh ngạc nhiên khi được người khác hỏi xin lời khuyên về công nghệ. Script: 'It's amazing, but people sometimes ask me things, like how to use new technologies.'"
+          },
+          {
+            "id": "RB1-T01-L-P4-Q24",
+            "displayNumber": 24,
+            "type": "multiple-choice",
+            "text": "What does Alfie recommend to someone who wants to be a journalist?",
+            "options": {
+              "A": "Read a lot about what's happening.",
+              "B": "Create a fairly professional-looking website.",
+              "C": "Apply to as many newspapers as possible."
+            },
+            "correctAnswer": "A",
+            "explanation": "Đúng (A): Khuyên đọc tin tức/what’s happening để khi apply chứng minh hiểu biết. Script: ‘...be curious and look at what’s written about in the news...’\nSai:\n- B: Anh phản biện việc ‘put lots of stuff online’ không làm bạn khác biệt."
+          },
+          {
+            "id": "RB1-T01-L-P4-Q25",
+            "displayNumber": 25,
+            "type": "multiple-choice",
+            "text": "Alfie plans to work on radio because he wants to",
+            "options": {
+              "A": "travel abroad.",
+              "B": "be more independent.",
+              "C": "report on other topics."
+            },
+            "correctAnswer": "B",
+            "explanation": "Đúng (B): Radio cho anh ấy more freedom/independent. Script: ‘...work as a radio journalist... have more freedom and be able to choose my own stories.’"
+          }
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "part": 1,
+        "title": "Part 1: Short Texts",
+        "instruction": "Questions 1-5. For each question, choose the correct answer.",
+        "questions": [
+          {
+            "id": "RB1-T01-R-P1-Q01",
+            "displayNumber": 1,
+            "type": "multiple-choice-image",
+            "image": "https://www.dropbox.com/scl/fi/s0q1ufxw2x5tievwbaccv/READING-PART-1-Q1.png?rlkey=utkkfs9bqn98lut3inc62phah&st=cskki6wt&dl=0",
+            "text": "<b>WARNING!</b><br>No heavy suitcases on these stairs.<br>Please use the lift.<br>Only use stairs with light luggage or no bags.",
+            "options": {
+              "A": "There is a special lift that is only for luggage.",
+              "B": "You must use the stairs if you have a light suitcase.",
+              "C": "If you have heavy luggage, you should take it in the lift with you."
+            },
+            "correctAnswer": "C",
+            "explanation": "Đúng (C): Biển báo nói rõ không mang vali nặng lên cầu thang, hãy dùng thang máy, chỉ dùng cầu thang khi hành lý nhẹ/không có túi.\nSai:\n- A: Không hề nói thang máy ‘chỉ dành cho hành lý’.\n- B: Không bắt buộc dùng cầu thang khi vali nhẹ; chỉ nói ‘chỉ dùng cầu thang khi hành lý nhẹ’, còn mặc định nên dùng lift nếu nặng."
+          },
+          {
+            "id": "RB1-T01-R-P1-Q02",
+            "displayNumber": 2,
+            "type": "multiple-choice-image",
+            "image": "https://www.dropbox.com/scl/fi/84rb48tvndt67rdpuycot/READING-PART-1-Q2.png?rlkey=hiqkhbsbh8tsfyfeeqjw9tr1j&st=rhkljldo&dl=0",
+            "text": "<b>SALE!</b><br>Starts Saturday<br><b>20%</b><br>off everything<br>offer ends in six weeks<br>with this voucher<br>(for 6 weeks or longer)",
+            "options": {
+              "A": "on items it's had for at least six weeks.",
+              "B": "on Saturdays for the next six weeks.",
+              "C": "on all its prices for six weeks."
+            },
+            "correctAnswer": "A",
+            "explanation": "Đúng (A): Voucher ghi offer ends in six weeks và điều kiện (for 6 weeks or longer) => chỉ áp dụng cho hàng/offer có điều kiện ‘6 tuần trở lên’. Ý phù hợp nhất là A.\nSai:\n- B: Không nói chỉ giảm vào Thứ Bảy trong 6 tuần.\n- C: Không nói ‘tất cả giá’ giảm trong 6 tuần theo kiểu không điều kiện."
+          },
+          {
+            "id": "RB1-T01-R-P1-Q03",
+            "displayNumber": 3,
+            "type": "multiple-choice-image",
+            "image": "https://www.dropbox.com/scl/fi/gv9imwnzqk11qmdk2kezq/READING-PART-1-Q3.png?rlkey=6bh7ohrvgjaa3aetzid84gq4o&st=d1f3bdc1&dl=0",
+            "text": "Hey! I found out about the festival. The tickets are going on sale on Monday. Let me know when you can go and I'll get them for you.<br>Laura",
+            "options": {
+              "A": "The first day of the festival is a Monday.",
+              "B": "Laura can only get tickets for certain days.",
+              "C": "The festival will be on for more than one day."
+            },
+            "correctAnswer": "C",
+            "explanation": "Đúng (C): Laura nói: ‘Let me know when you can go’ => có nhiều lựa chọn ngày/khung thời gian, suy ra festival diễn ra nhiều hơn 1 ngày.\nSai:\n- A: ‘Tickets go on sale on Monday’ không phải là ‘festival starts on Monday’.\n- B: Không có thông tin ‘chỉ mua được vé cho vài ngày nhất định’."
+          },
+          {
+            "id": "RB1-T01-R-P1-Q04",
+            "displayNumber": 4,
+            "type": "multiple-choice-image",
+            "image": "https://www.dropbox.com/scl/fi/v08m8ji7kqgqpzbgnxv9f/READING-PART-1-Q4.png?rlkey=inb2hdzpl78wo48bdgwnmj96p&st=hnr98rce&dl=0",
+            "text": "<b>Children's painting competition</b><br>Saturday at the school playground<br>All welcome<br>Download an entry form to bring on the day<br>www.com...org",
+            "options": {
+              "A": "go to the playground on Saturday.",
+              "B": "send in a form before Saturday.",
+              "C": "be a student at the school."
+            },
+            "correctAnswer": "A",
+            "explanation": "Đúng (A): Thông báo nêu rõ Saturday at the school playground và mang form ‘on the day’ => muốn tham gia thì đến playground hôm đó.\nSai:\n- B: Form mang ‘on the day’, không yêu cầu gửi trước.\n- C: Ghi ‘All welcome’ nên không bắt buộc là học sinh của trường."
+          },
+          {
+            "id": "RB1-T01-R-P1-Q05",
+            "displayNumber": 5,
+            "type": "multiple-choice-image",
+            "image": "https://www.dropbox.com/scl/fi/q08qgmxem3cp68ozl8fjw/READING-PART-1-Q5.png?rlkey=5h1eghlpvy5c7v2yf4zm3c3uo&st=r7vqmmkh&dl=0",
+            "text": "Davide<br>What time does your flight arrive?<br>I can pick you up as long as it's before 6 p.m.<br>Karen",
+            "options": {
+              "A": "to delay his flight.",
+              "B": "to contact her.",
+              "C": "to meet her at 6 p.m."
+            },
+            "correctAnswer": "B",
+            "explanation": "Đúng (B): Karen hỏi giờ đến và đặt điều kiện ‘as long as…’ => đang yêu cầu Davide báo/liên hệ giờ hạ cánh.\nSai:\n- A: Không hề yêu cầu đổi chuyến.\n- C: Không phải hẹn đúng 6 giờ; chỉ nói ‘trước 6pm’ thì cô mới đón được."
+          }
+        ]
+      },
+      {
+        "part": 2,
+        "title": "Part 2: Matching",
+        "instruction": "Questions 6-10. Decide which app is best for each person.",
+        "media": {
+          "type": "text-passage",
+          "content": "<b>A. Best App:</b> tells you about your sleeping; checks whether you're taking any medicine/drugs that could affect sleep; gives advice on any problems.<br><br><b>B. Starpal:</b> help with special diets (lose weight/try new activities); shows different unusual dishes; uses movies/shows to make you absolutely anyone can produce amazing food.<br><br><b>C. Class App:</b> calming music and gentle sounds; review your day; plan how much sleep you should get; helps you make a plan to go to bed and wake up on time.<br><br><b>D. Help App:</b> exercises you won't want to give up; advises what healthy changes to last a lifetime; suggests new activities; set goals and record what you achieve each day.<br><br><b>E. GBR App:</b> brain games to test memory and attention; takes a few minutes daily; you'll soon see your scores increase.<br><br><b>F. Polar App:</b> record how active you are; can tell energy you used too.<br><br><b>G. Viewme App:</b> tells you detailed info about dishes/what they contain/how many calories; you can download the recipe and make it yourself - many are very simple; can also help you find restaurants with food for your diet.<br><br><b>H. Exchange App:</b> rewards you for healthy activities; decide how active; works in pairs; you and a friend get points."
+        },
+        "questions": [
+          {
+            "id": "RB1-T01-R-P2-Q06",
+            "displayNumber": 6,
+            "type": "matching",
+            "text": "Maria wants to know what are the healthy options on menus, and get ideas for easy things to prepare at home. She also wants to know the restaurants closest to her that have healthy food.",
+            "correctAnswer": "G",
+            "explanation": "Maria cần: (1) biết món ‘healthy options’/thành phần, (2) ý tưởng nấu món đơn giản ở nhà, (3) tìm nhà hàng gần có đồ healthy. App G có đủ: thông tin món + calories + tải recipe đơn giản + tìm restaurants phù hợp chế độ ăn."
+          },
+          {
+            "id": "RB1-T01-R-P2-Q07",
+            "displayNumber": 7,
+            "type": "matching",
+            "text": "Luca needs an app which will help him get up in the morning, and let him know how much sleep he should have. As he has a very busy life, he'd like some help relaxing.",
+            "correctAnswer": "C",
+            "explanation": "Luca cần: dậy đúng giờ + biết ngủ bao nhiêu + giúp thư giãn. App C nêu: relaxing sounds, review day, plan sleep, bedtime/wakeup plan."
+          },
+          {
+            "id": "RB1-T01-R-P2-Q08",
+            "displayNumber": 8,
+            "type": "matching",
+            "text": "Sandra eats healthy food and exercises regularly, but she often forgets things, so she wants to improve her ability to concentrate. She's very busy so she wants something quick and easy that keeps her interested.",
+            "correctAnswer": "E",
+            "explanation": "Sandra muốn cải thiện trí nhớ & tập trung, lại bận nên cần nhanh - dễ - thú vị. App E: brain games vài phút/ngày, test memory & attention, giữ hứng thú bằng game."
+          },
+          {
+            "id": "RB1-T01-R-P2-Q09",
+            "displayNumber": 9,
+            "type": "matching",
+            "text": "Weronika wants an app to help her make permanent changes to her lifestyle to help her keep fit. She'd like to check how she's getting on and find interesting ways to exercise.",
+            "correctAnswer": "D",
+            "explanation": "Weronika muốn thay đổi lối sống lâu dài để fit + theo dõi tiến độ + hoạt động thú vị. App D nói rõ: changes to last a lifetime, new activities, set goals, record achievements."
+          },
+          {
+            "id": "RB1-T01-R-P2-Q10",
+            "displayNumber": 10,
+            "type": "matching",
+            "text": "Stefan loves running and wants to know about the foods that will help him with his training. He'd like to cook food at home, but isn't an experienced cook.",
+            "correctAnswer": "B",
+            "explanation": "Stefan cần kiến thức món ăn hỗ trợ chạy bộ + muốn nấu tại nhà nhưng không rành. App B tập trung diet/food ideas và nhấn mạnh ‘absolutely anyone can produce amazing food’ => hợp người mới nấu."
+          }
+        ]
+      },
+      {
+        "part": 3,
+        "title": "Part 3: Multiple Choice (Reading Comprehension)",
+        "instruction": "Questions 11-15. For each question, choose the correct answer.",
+        "media": {
+          "type": "text-passage",
+          "content": "<b>The costume designer</b><br><i>Ellen Braun talks about her job</i><br><br>I always loved fashion when I was in school, and became more and more fascinated by the kinds of clothes that people wore in previous centuries. I was surprised to discover exactly how much clothes change over time and across different situations. Obviously, we think of clothes as being important - to keep us warm or to protect us from the sun, for example. But in early history, people often wore clothes for religious reasons and not necessarily for protection, so the designs had a different purpose.<br><br>Later, when I went to do my degree at college, I did a survey looking at how we judge people and their jobs based on what they are wearing. The results were unexpected. For example, despite the fact that dress has generally become more casual in the twenty-first century, many people simply couldn't imagine that someone in jeans might be running a company. So, although it may seem that what people wear to work doesn't matter so much today, clothes are actually still seen as a sign of someone's profession.<br><br>After college, I started work doing designs for films and the theatre. Many of these were historical and what was extraordinary was the number of clothes in the past which were simply designed for beauty rather than for practical reasons. And of course, ideas change very quickly so what is considered lovely by one generation is considered ugly by the next.<br><br>I have to understand all of this because when I'm creating costumes for films and plays, I really need to study the time period carefully and consider what was fashionable at the time. For example, did most men have beards? How easy was it for queens to move around in their dresses? And if at really interesting times, people think that the poorest people have worn to enable them to work all day on different historical films. That's what gives me the most pleasure - dressing the crowds or the servants in items and making sure I give an accurate picture of their lives on screen."
+        },
+        "questions": [
+          {
+            "id": "RB1-T01-R-P3-Q11",
+            "displayNumber": 11,
+            "type": "multiple-choice",
+            "text": "What interested Ellen about fashion during her school years?",
+            "options": {
+              "A": "how clothes used to be made traditionally",
+              "B": "how clothes have always protected us from the weather",
+              "C": "how the kinds of clothes people wear is always changing",
+              "D": "how the reasons for clothing designs have hardly changed"
+            },
+            "correctAnswer": "C",
+            "explanation": "Đúng (C): Đoạn 1: Ellen ‘fascinated... clothes... previous centuries’ và ‘surprised... exactly how much clothes change over time and across different situations’."
+          },
+          {
+            "id": "RB1-T01-R-P3-Q12",
+            "displayNumber": 12,
+            "type": "multiple-choice",
+            "text": "What did Ellen discover from the survey she did at college?",
+            "options": {
+              "A": "Many people were exactly what they wanted to wear.",
+              "B": "People had not changed the way they thought about work clothes.",
+              "C": "Many companies expected people to wear old-fashioned clothes.",
+              "D": "People in every industry chose to wear formal clothes."
+            },
+            "correctAnswer": "B",
+            "explanation": "Đúng (B): Đoạn 2: dù ăn mặc ‘more casual’ nhưng nhiều người vẫn không tưởng tượng sếp mặc jeans => cách nghĩ về ‘work clothes’ vẫn còn định kiến (chưa thay đổi)."
+          },
+          {
+            "id": "RB1-T01-R-P3-Q13",
+            "displayNumber": 13,
+            "type": "multiple-choice",
+            "text": "What did Ellen find surprising about the past when she started working in historical films?",
+            "options": {
+              "A": "Some clothes looked awful.",
+              "B": "People had such a large quantity of clothes.",
+              "C": "Clothes were made to last such a short time.",
+              "D": "People thought appearance was more important than anything else."
+            },
+            "correctAnswer": "D",
+            "explanation": "Đúng (D): Đoạn 3: ‘extraordinary... number of clothes... designed for beauty rather than practical reasons’ => ưu tiên vẻ đẹp hơn tính thực dụng."
+          },
+          {
+            "id": "RB1-T01-R-P3-Q14",
+            "displayNumber": 14,
+            "type": "multiple-choice",
+            "text": "What does Ellen enjoy most about her work?",
+            "options": {
+              "A": "the research into historical details",
+              "B": "making sure the actors are comfortable",
+              "C": "creating clothes for ordinary characters",
+              "D": "working together with other staff on the film"
+            },
+            "correctAnswer": "C",
+            "explanation": "Đúng (C): Đoạn cuối: ‘That’s what gives me the most pleasure - dressing the crowds or the servants...’ => nhân vật quần chúng/servants chính là nhân vật thường."
+          },
+          {
+            "id": "RB1-T01-R-P3-Q15",
+            "displayNumber": 15,
+            "type": "multiple-choice",
+            "text": "What would be a good introduction to this article?",
+            "options": {
+              "A": "Ellen Braun designs costumes for films. Here she describes what she has learnt while studying and working.",
+              "B": "Designer Ellen Braun talks about what it takes to be a costume designer, and gives advice to other young people about getting into the industry.",
+              "C": "In this article, Ellen Braun explains why sewing and costume design are still important skills today.",
+              "D": "For Ellen Braun, costume design is about accuracy. Here she tells us what goes into creating a perfect item."
+            },
+            "correctAnswer": "A",
+            "explanation": "Đúng (A): Bài viết là hồi tưởng về hành trình: thích fashion -> làm khảo sát -> làm phim/nhà hát -> điều cô học được qua học & làm. A tóm tắt đúng nhất."
+          }
+        ]
+      },
+      {
+        "part": 4,
+        "title": "Part 4: Gapped Text",
+        "instruction": "Questions 16-20. Five sentences have been removed from the text. Choose the correct sentence (A-H) for each gap. There are three extra sentences you do not need.",
+        "media": {
+          "type": "text-passage",
+          "content": "<b>What education means to me</b><br><br>Do you ever think about how much education has changed your life? For me, it's made a huge difference. My mum and dad left school when they were quite young, but I stayed in school until I was eighteen. <b>(16)</b> Achieving these at school made my parents extremely proud, and I was too.<br><br>Once I left high school, I realised there were many interesting jobs I could do instead of continuing education. However, I wanted to be the first in my family to go to university and get a degree. <b>(17)</b> I thought this would give me the best chance of getting a good job. It was hard at university as I didn't have much money and I had to work part-time in a restaurant. It made me really tired. <b>(18)</b> When my parents came to see me graduate, they sat in the audience and cheered when I went on stage to get my certificate. I knew all the hard work had been worth it.<br><br>Back at home, the whole family had a party for me. <b>(19)</b> The next day I started looking for a job. Not long afterwards, I had some interviews and I was pleased to find that my degree meant people took me seriously. In the end, I was offered three jobs, so I had a great choice. I took one in a bank in the city that is pretty well-paid. <b>(20)</b> And I always tell my nieces and nephews that they should work hard, because school is the best way to achieve your dreams.<br><br><b>Sentences to choose from:</b><br><b>A.</b> So I applied to study Business.<br><b>B.</b> Studying so hard meant I didn't have time to see my friends.<br><b>C.</b> This means I can now help my parents.<br><b>D.</b> But finally after four long years I made it.<br><b>E.</b> They were not able to help me with money, but the college did.<br><b>F.</b> I needed to work extremely hard to get the top grades I wanted.<br><b>G.</b> A degree costs more than I expected though.<br><b>H.</b> It made me realise my success was important for all of them, too."
+        },
+        "questions": [
+          {
+            "id": "RB1-T01-R-P4-Q16",
+            "displayNumber": 16,
+            "type": "multiple-choice",
+            "text": "Gap 16",
+            "options": { "A": "A", "B": "B", "C": "C", "D": "D", "E": "E", "F": "F", "G": "G", "H": "H" },
+            "correctAnswer": "F",
+            "explanation": "Đúng (F): Sau ‘stayed in school until eighteen’ và trước ‘Achieving these…’ cần ý về nỗ lực để đạt điểm cao/grades => F khớp logic."
+          },
+          {
+            "id": "RB1-T01-R-P4-Q17",
+            "displayNumber": 17,
+            "type": "multiple-choice",
+            "text": "Gap 17",
+            "options": { "A": "A", "B": "B", "C": "C", "D": "D", "E": "E", "F": "F", "G": "G", "H": "H" },
+            "correctAnswer": "A",
+            "explanation": "Đúng (A): Sau ‘wanted... go to university... get a degree’ cần câu nói chọn ngành/hành động apply => A."
+          },
+          {
+            "id": "RB1-T01-R-P4-Q18",
+            "displayNumber": 18,
+            "type": "multiple-choice",
+            "text": "Gap 18",
+            "options": { "A": "A", "B": "B", "C": "C", "D": "D", "E": "E", "F": "F", "G": "G", "H": "H" },
+            "correctAnswer": "D",
+            "explanation": "Đúng (D): Sau ‘It made me really tired.’ và trước cảnh Bố mẹ đến dự lễ tốt nghiệp ‘graduate…’ cần câu chốt: cuối cùng cũng xong sau 4 năm."
+          },
+          {
+            "id": "RB1-T01-R-P4-Q19",
+            "displayNumber": 19,
+            "type": "multiple-choice",
+            "text": "Gap 19",
+            "options": { "A": "A", "B": "B", "C": "C", "D": "D", "E": "E", "F": "F", "G": "G", "H": "H" },
+            "correctAnswer": "H",
+            "explanation": "Đúng (H): Sau ‘party for me’ (tiệc mừng của cả gia đình) hợp nhất là cảm xúc: thành công của mình cũng quan trọng với gia đình => H."
+          },
+          {
+            "id": "RB1-T01-R-P4-Q20",
+            "displayNumber": 20,
+            "type": "multiple-choice",
+            "text": "Gap 20",
+            "options": { "A": "A", "B": "B", "C": "C", "D": "D", "E": "E", "F": "F", "G": "G", "H": "H" },
+            "correctAnswer": "C",
+            "explanation": "Đúng (C): Sau khi nhận việc ở ngân hàng ‘well-paid’ hợp nhất là hệ quả: giờ có tiền để giúp đỡ bố mẹ => C."
+          }
+        ]
+      },
+      {
+        "part": 5,
+        "title": "Part 5: Multiple-Choice Cloze",
+        "instruction": "Questions 21-26. For each question, choose the correct answer (A, B, C or D).",
+        "media": {
+          "type": "text-passage",
+          "content": "<b>How businesses use colour</b><br><br>Companies and stores choose colours very carefully to make sure you buy their products or services. So when you go into a shop, your <b>(21)</b> to buy something may be affected by the colours you see there.<br><br>For example, green is an easy colour for our eyes to look at, so when we are in <b>(22)</b> that are painted green we can feel very relaxed - and maybe want to stay there, which is good for business. Because blue is linked with feeling safe, this colour is often used by banks to make us <b>(23)</b> them more.<br><br>Black is seen as very powerful and expensive, so companies that make <b>(24)</b> products use this colour a lot for their products and for their advertisements. Yellow is <b>(25)</b> with feelings of happiness, so stores often have this colour in their windows to get people's <b>(26)</b>. Next time you go shopping, look carefully at the colours around you!"
+        },
+        "questions": [
+          {
+            "id": "RB1-T01-R-P5-Q21",
+            "displayNumber": 21,
+            "type": "multiple-choice",
+            "text": "Gap 21",
+            "options": { "A": "result", "B": "decision", "C": "conclusion", "D": "option" },
+            "correctAnswer": "B",
+            "explanation": "Đúng (B): Cụm từ đúng: ‘your decision to buy something’ (Quyết định mua một cái gì đó)."
+          },
+          {
+            "id": "RB1-T01-R-P5-Q22",
+            "displayNumber": 22,
+            "type": "multiple-choice",
+            "text": "Gap 22",
+            "options": { "A": "places", "B": "districts", "C": "areas", "D": "regions" },
+            "correctAnswer": "C",
+            "explanation": "Đúng (C): ‘in areas that are painted green’ là từ tự nhiên nhất để chỉ các khu vực không gian bên trong nhà/cửa hàng."
+          },
+          {
+            "id": "RB1-T01-R-P5-Q23",
+            "displayNumber": 23,
+            "type": "multiple-choice",
+            "text": "Gap 23",
+            "options": { "A": "trust", "B": "depend", "C": "admit", "D": "deserve" },
+            "correctAnswer": "A",
+            "explanation": "Đúng (A): Bank (ngân hàng) dùng màu xanh để khiến khách hàng trust them more (tin tưởng họ hơn)."
+          },
+          {
+            "id": "RB1-T01-R-P5-Q24",
+            "displayNumber": 24,
+            "type": "multiple-choice",
+            "text": "Gap 24",
+            "options": { "A": "generous", "B": "comfortable", "C": "rich", "D": "luxury" },
+            "correctAnswer": "D",
+            "explanation": "Đúng (D): Cụm từ thông dụng: luxury products (sản phẩm xa xỉ), phù hợp với mô tả 'expensive/powerful'."
+          },
+          {
+            "id": "RB1-T01-R-P5-Q25",
+            "displayNumber": 25,
+            "type": "multiple-choice",
+            "text": "Gap 25",
+            "options": { "A": "attracted", "B": "joined", "C": "connected", "D": "compared" },
+            "correctAnswer": "C",
+            "explanation": "Đúng (C): Cụm từ: ‘is connected with feelings of happiness’ (được gắn liền/liên kết với cảm giác hạnh phúc)."
+          },
+          {
+            "id": "RB1-T01-R-P5-Q26",
+            "displayNumber": 26,
+            "type": "multiple-choice",
+            "text": "Gap 26",
+            "options": { "A": "sight", "B": "mind", "C": "thought", "D": "attention" },
+            "correctAnswer": "D",
+            "explanation": "Đúng (D): Cụm cố định (Collocation): ‘get people's attention’ (thu hút sự chú ý của mọi người)."
+          }
+        ]
+      },
+      {
+        "part": 6,
+        "title": "Part 6: Open Cloze",
+        "instruction": "Questions 27-32. For each question, write the correct answer. Write ONE word for each gap.",
+        "media": {
+          "type": "text-passage",
+          "content": "<b>MY AUSTRALIA</b><br><br>Last year, a friend and I had a fantastic holiday in Australia. What I loved most about the country <b>(27)</b> the natural life we saw. We didn't stay long in Sydney, the city we'd arrived in, but hired a car and headed up the east coast. As I expected, <b>(28)</b> were some amazing beaches, where we swam and relaxed in the sun. Quite often, we went on short boat trips too, and tried fishing. I've <b>(29)</b> seen such huge fish! I would really recommend that.<br><br>We stayed in small, friendly hotels, so we <b>(30)</b> the opportunity to meet plenty of local people. We ended <b>(31)</b> in the north east of Australia on the Gold Coast, an incredibly hot place, but very green. I tried surfing and found it very hard at first, <b>(32)</b> after a while, I loved it. I can't wait to go back!"
+        },
+        "questions": [
+          {
+            "id": "RB1-T01-R-P6-Q27",
+            "displayNumber": 27,
+            "type": "fill-in-blank",
+            "text": "What I loved most about the country (27) ________ the natural life we saw.",
+            "correctAnswer": "WAS",
+            "explanation": "Cấu trúc: ‘What I loved most ... was ...’ => Dùng to-be ở quá khứ do ngữ cảnh toàn bài kể chuyện 'Last year'."
+          },
+          {
+            "id": "RB1-T01-R-P6-Q28",
+            "displayNumber": 28,
+            "type": "fill-in-blank",
+            "text": "As I expected, (28) ________ were some amazing beaches",
+            "correctAnswer": "THERE",
+            "explanation": "Cấu trúc chủ ngữ giả tồn tại: ‘there were…’ (đã có những bãi biển tuyệt vời)."
+          },
+          {
+            "id": "RB1-T01-R-P6-Q29",
+            "displayNumber": 29,
+            "type": "fill-in-blank",
+            "text": "I've (29) ________ seen such huge fish!",
+            "correctAnswer": "NEVER",
+            "explanation": "Cụm tự nhiên của thì hiện tại hoàn thành: ‘I've never seen such huge fish!’ (Tôi chưa từng bao giờ thấy loài cá to như thế!)."
+          },
+          {
+            "id": "RB1-T01-R-P6-Q30",
+            "displayNumber": 30,
+            "type": "fill-in-blank",
+            "text": "...so we (30) ________ the opportunity to meet plenty of local people.",
+            "correctAnswer": "HAD",
+            "explanation": "Collocation: ‘have/had the opportunity to…’ (có cơ hội làm gì đó)."
+          },
+          {
+            "id": "RB1-T01-R-P6-Q31",
+            "displayNumber": 31,
+            "type": "fill-in-blank",
+            "text": "We ended (31) ________ in the north east of Australia",
+            "correctAnswer": "UP",
+            "explanation": "Phrasal verb: ‘end up in…’ = cuối cùng cũng tới được (một địa điểm nào đó)."
+          },
+          {
+            "id": "RB1-T01-R-P6-Q32",
+            "displayNumber": 32,
+            "type": "fill-in-blank",
+            "text": "...found it very hard at first, (32) ________ after a while, I loved it.",
+            "correctAnswer": "BUT",
+            "explanation": "Liên từ tương phản: thấy khó lúc đầu BUT (nhưng) sau đó lại thích nó."
+          }
+        ]
+      }
+    ],
+    "writing": [
+      {
+        "part": 1,
+        "title": "Part 1: Email",
+        "instruction": "You must answer this question. Write your answer in about 100 words on the answer sheet.",
+        "questions": [
+          {
+            "id": "RB1-T01-W-P1-Q01",
+            "displayNumber": 1,
+            "type": "essay-email",
+            "text": "Read this email from your English-speaking friend Ashley, and the notes you have made.\n\nFrom: Ashley\nSubject: Next weekend\n\nHi!\nI'm really looking forward to you coming to stay with me and my family next weekend.\nOur house is about 40 minutes from the city centre.\nShall we come and pick you up from the railway station?\nThere are lots of attractions near our house, but the best two are a lake and a wildlife park. Which would you prefer to go to?\nLet me know if you have any questions.\n\nNotes to include in your reply:\n- Me too!\n- Yes, because ...\n- Tell Ashley ...\n- Ask Ashley ..."
+          }
+        ]
+      },
+      {
+        "part": 2,
+        "title": "Part 2: Article",
+        "instruction": "Choose one of these questions. Write your answer in about 100 words on the answer sheet.",
+        "questions": [
+          {
+            "id": "RB1-T01-W-P2-Q02",
+            "displayNumber": 2,
+            "type": "essay-article",
+            "text": "You see this notice in an English-language magazine for young people.\n\n**Articles wanted!**\n**TV Programmes**\nWhat type of TV programmes do you enjoy watching? Why?\nAre these programmes popular with your friends as well?\nWrite an article answering these questions and we'll put it in our magazine!"
+          }
+        ]
+      },
+      {
+        "part": 3,
+        "title": "Part 2: Story",
+        "instruction": "Choose one of these questions. Write your answer in about 100 words on the answer sheet.",
+        "questions": [
+          {
+            "id": "RB1-T01-W-P2-Q03",
+            "displayNumber": 3,
+            "type": "essay-story",
+            "text": "Your English teacher has asked you to write a story.\nYour story must begin with this sentence:\nMark looked outside and saw that it had finally stopped snowing.\n\nWrite your story."
+          }
+        ]
+      }
+    ]
+  }
+}
