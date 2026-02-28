@@ -1,0 +1,391 @@
+{
+  "reading": {
+    "testId": "PET_READING_002",
+    "title": "PET Reading - Richmond Test 2",
+    "totalQuestions": 32,
+    "parts": [
+      {
+        "id": 1,
+        "type": "part1",
+        "title": "Part 1",
+        "instruction": "Questions 1-5: For each question, choose the correct answer.",
+        "questions": [
+          {
+            "id": 1,
+            "img": "https://www.dropbox.com/scl/fi/knsbrhgsiv5j041cbwuuc/b1-richmond_test-2_reading_part-1_Q1.png?rlkey=ri17gq1virb5sfkjhe84zfqf0&st=t4k53f00&raw=1",
+            "question": "What does the sign mean?",
+            "options": [
+              "All types of rubbish are accepted here.",
+              "Use the special bins here for electrical items.",
+              "Rubbish that is brought here must go in the right place."
+            ],
+            "correct": 2,
+            "explanation": "<div><span class='grammar-tag'>PHÂN TÍCH</span><br/>Đáp án C chính xác vì trích từ câu \"PLEASE PUT RUBBISH INTO THE CORRECT BINS\" trên biển báo, có nghĩa là rác phải được bỏ đúng thùng/đúng loại. Sự chuyển đổi ngôn ngữ (paraphrase): \"the correct bins\" = \"the right place\".<br/>Đáp án A chưa chính xác vì biển báo không nói rằng mọi loại rác đều được nhận; ngược lại yêu cầu phân loại đúng thùng.<br/>Đáp án B chưa chính xác vì biển báo nói \"ELECTRICAL ITEMS ACCEPTED AT TOWN CENTRE SITE ONLY\" (đồ điện chỉ nhận ở điểm trung tâm), nên không phải bỏ đồ điện ở đây.<br/>Key takeaway: Khi gặp biển báo, hãy ưu tiên câu mệnh lệnh chính (PLEASE/DO NOT/ONLY) và đối chiếu đúng từ khóa điều kiện như ONLY.</div>"
+          },
+          {
+            "id": 2,
+            "img": "https://www.dropbox.com/scl/fi/y47xu3wf7zc98qge1zx9f/b1-richmond_test-2_reading_part-1_Q2.png?rlkey=tm66n80gedjmnvaq1lvpyizb3&st=ss7jpc3j&raw=1",
+            "question": "What is the message about?",
+            "options": [
+              "There will be no classes from next week.",
+              "The teacher will be in touch when she is better.",
+              "Information about the next class will be available soon."
+            ],
+            "correct": 2,
+            "explanation": "<div><span class='grammar-tag'>PHÂN TÍCH</span><br/>Đáp án C chính xác vì thông báo cho biết buổi học bị hủy và yêu cầu theo dõi cập nhật cho các buổi sau (updates about future classes), tức là thông tin về buổi học tiếp theo sẽ được thông báo sau. Sự chuyển đổi ngôn ngữ (paraphrase): \"updates\" = \"information ... will be available\".<br/>Đáp án A chưa chính xác vì thông báo chỉ nói về buổi học hiện tại bị hủy, không khẳng định \"từ tuần sau không có lớp\".<br/>Đáp án B chưa chính xác vì không có câu nào nói giáo viên sẽ liên hệ trực tiếp khi khỏe hơn; trọng tâm là theo dõi cập nhật chung.<br/>Key takeaway: Tránh suy diễn quá mức từ một thông báo ngắn; chỉ chọn đáp án khớp đúng phạm vi thời gian (today/this week/next week).</div>"
+          },
+          {
+            "id": 3,
+            "img": "https://www.dropbox.com/scl/fi/sr66twxhbcyw1r0h65o7h/b1-richmond_test-2_reading_part-1_Q3.png?rlkey=mgxnwn72uc30h6khor4tdr8fd&st=pzhry7pf&raw=1",
+            "question": "Emma wants Dario to",
+            "options": [
+              "take her notes to the meeting about the competition.",
+              "write down information about the competition for her.",
+              "send her the competition details by Thursday."
+            ],
+            "correct": 1,
+            "explanation": "<div><span class='grammar-tag'>PHÂN TÍCH</span><br/>Đáp án B chính xác vì email nói Emma không thể tham dự cuộc họp về cuộc thi và cần Dario ghi lại/thông báo lại nội dung cho cô ấy sau cuộc họp. Sự chuyển đổi ngôn ngữ (paraphrase): \"meeting\" + \"details\" = \"information\" cần được ghi lại/đưa cho người vắng mặt.<br/>Đáp án A chưa chính xác vì email không yêu cầu \"mang ghi chú của Emma\" đến cuộc họp; Emma là người không tham dự.<br/>Đáp án C chưa chính xác vì yêu cầu là gửi thông tin sau cuộc họp (hành động phụ thuộc nội dung cuộc họp), không phải \"gửi trước/đúng vào Thứ Năm\" theo nghĩa thời hạn cố định như đáp án nêu.<br/>Key takeaway: Với email/ghi chú ngắn, xác định đúng nhiệm vụ: (1) không đi được (2) cần người khác tóm tắt/ghi lại (3) gửi lại thông tin.</div>"
+          },
+          {
+            "id": 4,
+            "img": "https://www.dropbox.com/scl/fi/06yufw6l4kcucejiwfgiw/b1-richmond_test-2_reading_part-1_Q4.png?rlkey=dgpx0142ge7zf6ec46ih6of0f&st=nxworrli&raw=1",
+            "question": "What does the notice say?",
+            "options": [
+              "Everyone needs to come to the meeting.",
+              "The time of the meeting has changed.",
+              "A new project will be discussed at the meeting."
+            ],
+            "correct": 0,
+            "explanation": "<div><span class='grammar-tag'>PHÂN TÍCH</span><br/>Đáp án A chính xác vì thông báo yêu cầu tất cả nhân viên tham dự cuộc họp (request that all attend). Sự chuyển đổi ngôn ngữ (paraphrase): \"all attend\" = \"everyone needs to come\".<br/>Đáp án B chưa chính xác vì thông báo nói đây là cuộc họp trưa \"regular lunchtime meeting\" (giữ nguyên thời gian thường lệ), không nói giờ bị thay đổi.<br/>Đáp án C chưa chính xác vì nội dung là thảo luận tiến độ dự án (progress on the project), không khẳng định đây là \"dự án mới\".<br/>Key takeaway: Từ khóa \"all / everyone / must\" thường quyết định đáp án trong thông báo nội bộ.</div>"
+          },
+          {
+            "id": 5,
+            "img": "https://www.dropbox.com/scl/fi/cav12ws8q3d2bv2r48bgf/b1-richmond_test-2_reading_part-1_Q5.png?rlkey=xasf1vtzyvyhqax523r5uf7h5&st=3ah6yrkn&raw=1",
+            "question": "Parents should",
+            "options": [
+              "give the school some money for the library.",
+              "take some things to school for the sale.",
+              "offer to help at the school sale."
+            ],
+            "correct": 1,
+            "explanation": "<div><span class='grammar-tag'>PHÂN TÍCH</span><br/>Đáp án B chính xác vì thông báo nêu rõ \"Please bring second-hand goods\" để bán gây quỹ cho thư viện mới. Sự chuyển đổi ngôn ngữ (paraphrase): \"bring ... goods\" = \"take some things to school\".<br/>Đáp án A chưa chính xác vì không yêu cầu phụ huynh đưa tiền trực tiếp; gây quỹ bằng \"sale\" (bán hàng).<br/>Đáp án C chưa chính xác vì thông báo không kêu gọi tình nguyện hỗ trợ tổ chức; yêu cầu cụ thể là mang đồ cũ đến.<br/>Key takeaway: Trong thông báo gây quỹ, hãy phân biệt \"donate money\" (quyên tiền) và \"bring items for a sale\" (mang đồ để bán).</div>"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "type": "part2",
+        "title": "Part 2",
+        "articleTitle": "HAVE YOUR CELEBRATION WITH ONE OF THESE PARTY ORGANISERS!",
+        "instruction": "Questions 6-10: The people below all want to have a celebration. Decide which event would be most suitable for the people below.",
+        "options": [
+          { "id": "A", "text": "Iye Valley Theme Park Parties\nA day of fun at our park: amazing water ride and many other high-quality rides. Dinner in our luxury café. Plenty of challenges to take part in and more great prizes to win." },
+          { "id": "B", "text": "Hartford Hall\nWe can arrange amazing parties. We can show the film of your choice from our wide selection, with popcorn and drinks. Afterwards, we can turn the hall into a disco so you can dance." },
+          { "id": "C", "text": "The Big Picnic Company\nWe can arrange special picnics for birthdays and other celebrations in your local park. Have sandwiches delivered, plus music and activities. You can bring your own prizes. Great value." },
+          { "id": "D", "text": "A Day with a Difference\nCelebrate in luxury. Have rides on the river, plus activities (2-3 people). Dinner for up to 60 people, then a meal and a disco with a DJ and prizes. Small deposit per person." },
+          { "id": "E", "text": "Costume Nights\nDress up as famous movie characters. A dance with competitions and prizes (including best costume). Dinner with live music. Low prices. In the city." },
+          { "id": "F", "text": "Your Concert\nMeet your favourite band. Tickets and backstage passes for you and your guests. Includes drinks and refreshments. A special once-in-a-lifetime experience." },
+          { "id": "G", "text": "A Day to Remember\nOne popular event is a sports day in the town park. We arrange races and competitions, and a range of prizes. After all that, we can offer an evening meal and cold drinks." },
+          { "id": "H", "text": "Mystery Games\nTurn your party into a mystery game in a big house. Use clues and props to solve the mystery, including a special meal during which the mystery is explained." }
+        ],
+        "questions": [
+          {
+            "id": 6,
+            "person": "Hannah wants to celebrate her 15th birthday with her friends. They enjoy being outdoors and having fun together. She wants some snacks to be provided but doesn't have much money.",
+            "correct": "C",
+            "explanation": "<div><span class='grammar-tag'>KEYWORDS</span><br/>Đáp án C chính xác vì mục C có cụm \"in your local park\" và \"sandwiches delivered\", đúng với yêu cầu ở ngoài trời và có đồ ăn nhẹ được chuẩn bị sẵn. Sự chuyển đổi ngôn ngữ (paraphrase): \"outdoors\" = \"in your local park\"; \"snacks\" = \"sandwiches\"; \"doesn't have much money\" = \"great value\".<br/>Loại các đáp án còn lại vì A/D thiên về trải nghiệm đắt tiền (theme park/luxury), E tập trung hóa trang và khiêu vũ trong thành phố, G là ngày thể thao nhưng không nhấn mạnh đồ ăn nhẹ được cung cấp sẵn theo kiểu picnic giá rẻ.<br/>Key takeaway: Part 2 thường dùng đối chiếu 3 điểm: địa điểm + hoạt động chính + điều kiện đặc biệt (giá/đồ ăn/nhóm tuổi).</div>"
+          },
+          {
+            "id": 7,
+            "person": "Leon would like to do something with his friends. They all really enjoy watching movies and listening to live music, and they like being active.",
+            "correct": "E",
+            "explanation": "<div><span class='grammar-tag'>KEYWORDS</span><br/>Đáp án E chính xác vì mục E kết hợp trực tiếp \"movie characters\" (liên quan phim) và \"live music\", đồng thời có hoạt động \"a dance\" và các cuộc thi nên phù hợp với nhóm thích năng động. Paraphrase: \"watching movies\" = \"movie characters\"; \"listening to live music\" = \"live music\"; \"active\" = \"a dance\" + \"competitions\".<br/>Loại B vì có phim nhưng không nêu live music; loại F vì là concert gặp ban nhạc nhưng không có yếu tố phim; các mục khác không đáp ứng đồng thời phim + live music + hoạt động năng động.<br/>Key takeaway: Khi đề yêu cầu 2 sở thích cùng lúc, hãy chọn phương án có đủ cả hai từ khóa (không chọn phương án chỉ có một nửa).</div>"
+          },
+          {
+            "id": 8,
+            "person": "Paola has saved money to have a big party where she can dance with her friends. She likes competitions and wearing interesting clothes, and wants to have a special meal.",
+            "correct": "E",
+            "explanation": "<div><span class='grammar-tag'>KEYWORDS</span><br/>Đáp án E chính xác vì có \"a dance\" (nhảy), \"competitions and prizes\" (thi đấu/giải thưởng), \"dress up\" (mặc trang phục thú vị), và \"dinner\" (bữa ăn đặc biệt). Paraphrase: \"interesting clothes\" = \"dress up\"; \"special meal\" = \"dinner\".<br/>Loại D vì có disco và dinner nhưng không có yếu tố hóa trang/trang phục thú vị; loại B có phim và disco nhưng thiếu trang phục và nhấn mạnh thi đấu; các mục khác không đáp ứng đủ yêu cầu.<br/>Key takeaway: Trong Part 2, đáp án đúng thường chứa chuỗi 3-4 từ khóa khớp trực tiếp (dance + competitions + clothes + meal).</div>"
+          },
+          {
+            "id": 9,
+            "person": "Chris wants an event where he and his friends can spend the day doing water sports. He would also like to invite extra guests for dinner and a dance.",
+            "correct": "D",
+            "explanation": "<div><span class='grammar-tag'>KEYWORDS</span><br/>Đáp án D chính xác vì mục D có hoạt động trên nước \"rides on the river\" (trải nghiệm nước) và có \"dinner\" cùng \"a disco\" nên đáp ứng điều kiện mời thêm khách và có ăn tối + nhảy. Paraphrase: \"water sports\" (mục tiêu trải nghiệm nước) = \"rides on the river\"; \"dinner and a dance\" = \"dinner\" + \"a disco\".<br/>Loại A vì có water ride nhưng không nhấn mạnh mời thêm khách cho bữa tối và khiêu vũ theo cấu trúc sự kiện; loại G là ngày thể thao chung không tập trung nước; các mục khác thiếu đồng thời nước + dinner + dance.<br/>Key takeaway: Với yêu cầu có thêm \"dinner + dance\", hãy ưu tiên mục có cấu trúc buổi tối rõ ràng (dinner + disco/DJ).</div>"
+          },
+          {
+            "id": 10,
+            "person": "Pablo wants to spend a day out with friends away from the town, having fun rides and the opportunity for some competitions. He also wants to have some soft food.",
+            "correct": "A",
+            "explanation": "<div><span class='grammar-tag'>KEYWORDS</span><br/>Đáp án A chính xác vì A là theme park (đi chơi xa khỏi thị trấn), có \"rides\" và \"challenges\" (thi/hoạt động cạnh tranh), đồng thời có \"dinner\" trong café. Paraphrase: \"fun rides\" = \"rides\"; \"competitions\" = \"challenges\"; \"soft food\" = bữa ăn/dinner trong café (đồ ăn sẵn, dễ ăn).<br/>Loại C vì picnic phù hợp tiết kiệm nhưng không nhấn mạnh rides; loại D/E thiên về tiệc/disco hơn là rides; các mục khác không phù hợp yêu cầu rides + competitions.<br/>Key takeaway: Khi đề nêu rõ \"rides\", hãy khoanh nhóm đáp án thuộc công viên/giải trí, tránh chọn các đáp án chỉ có dance hoặc picnic.</div>"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "type": "part3",
+        "title": "Part 3",
+        "articleTitle": "MAKING A DIFFERENCE",
+        "passage": "Paragraph 1:\nI think we should never doubt that even as an individual person, we can make a difference to the environment. Trying to protect the environment seems like a huge, impossible challenge and the efforts of governments make it not always successful. But I think it's important for everyone to think about what they can do, because even small actions can have a big effect.\n\nParagraph 2:\nI started thinking about my own situation where I live in the countryside. My garden backs onto some hills and fields. Over the years, all the trees have been removed from there. The result was that when it rained, our garden became covered in water and soil, because there were no tree roots to stop the soil being washed down the hill. I didn't mind the water - that soon disappeared - but the soil covered and damaged my plants. Many didn't survive. At the same time, I was sorry to see the hill without the trees it used to have. I became very worried about the impact on the future.\n\nParagraph 3:\nThen I read an online article about a project in Kenya, where the villagers grew and planted trees to help the land recover. I decided to organise my neighbours to plant small trees on the hill above our houses. Initially, we did have problems because we didn't have the money to buy the small trees we wanted to plant. Then we tried to get some shop owners in the town involved because they agreed the trees might make the area more attractive to visitors. Finally, one cafe owner agreed to give us the cash we needed.\n\nParagraph 4:\nSince then, the trees we bought have really grown, so now we don't get flooding any more. Once our little forest was established, we decided to keep bees. A friend in my village is an expert. He taught us all how to do it and now we even produce our own honey. Who knows? Maybe other groups of people will follow our example. You see, everyone can do something to make a difference.",
+        "questions": [
+          {
+            "id": 11,
+            "text": "The writer thinks that helping the environment seems difficult because",
+            "options": [
+              "individual action has limited positive benefits.",
+              "it is such a huge problem.",
+              "it is too late to improve things.",
+              "large organisations have failed to even try."
+            ],
+            "correct": 1,
+            "explanation": "<div><span class='grammar-tag'>PHÂN TÍCH</span><br/>Đáp án B chính xác vì trích từ câu \"Trying to protect the environment seems like a huge, impossible challenge\" trong đoạn 1 của bài đọc, có nghĩa là việc bảo vệ môi trường có vẻ là một vấn đề quá lớn và khó thực hiện. Sự chuyển đổi ngôn ngữ (paraphrase): \"a huge, impossible challenge\" = \"such a huge problem\".<br/>Đáp án A chưa chính xác vì tác giả nói \"even small actions can have a big effect\" (hành động nhỏ vẫn có tác động lớn), trái với ý \"limited benefits\".<br/>Đáp án C chưa chính xác vì tác giả không nói \"quá muộn\"; ngược lại khuyến khích hành động ngay.<br/>Đáp án D chưa chính xác vì có nhắc chính phủ \"not always successful\" nhưng không nói các tổ chức lớn \"failed to even try\".<br/>Key takeaway: Với câu hỏi nguyên nhân, hãy tìm cụm tính từ đánh giá trong đoạn mở đầu (huge/impossible) và chọn đáp án diễn đạt lại đúng mức độ.</div>"
+          },
+          {
+            "id": 12,
+            "text": "The writer was unhappy because",
+            "options": [
+              "his house got flooded.",
+              "he lost a lot of soil from his land.",
+              "trees began to die on hills near his home.",
+              "lots of his plants were killed."
+            ],
+            "correct": 3,
+            "explanation": "<div><span class='grammar-tag'>PHÂN TÍCH</span><br/>Đáp án D chính xác vì trích từ câu \"the soil covered and damaged my plants. Many didn't survive\" trong đoạn 2, có nghĩa là cây trong vườn bị đất phủ lên và bị hỏng, nhiều cây không sống được. Paraphrase: \"Many didn't survive\" = \"lots of his plants were killed\".<br/>Đáp án A chưa chính xác vì tác giả nói \"I didn't mind the water\" (không quá bận tâm nước ngập), nên không phải lý do chính khiến buồn.<br/>Đáp án B chưa chính xác vì dù có mất đất do bị rửa trôi, trọng tâm cảm xúc không hài lòng được nhấn mạnh ở việc cây bị chết/hỏng.<br/>Đáp án C chưa chính xác vì tác giả nói cây đã bị loại bỏ khỏi đồi (removed), không phải \"began to die\".<br/>Key takeaway: Tránh bẫy word-spotting: đề có thể nhắc \"water\" và \"soil\", nhưng câu cảm xúc mạnh thường nằm ở hậu quả trực tiếp (plants didn’t survive).</div>"
+          },
+          {
+            "id": 13,
+            "text": "The writer got the money to buy trees for the hill near his house by",
+            "options": [
+              "charging tourists to visit the area.",
+              "talking to a local business person.",
+              "persuading his neighbours to give some.",
+              "selling plants he had grown."
+            ],
+            "correct": 1,
+            "explanation": "<div><span class='grammar-tag'>PHÂN TÍCH</span><br/>Đáp án B chính xác vì trích từ câu \"Finally, one cafe owner agreed to give us the cash we needed\" trong đoạn 3, có nghĩa là một chủ quán cà phê địa phương đã đồng ý đưa tiền. Paraphrase: \"cafe owner\" = \"a local business person\"; \"give us the cash\" = \"got the money\".<br/>Đáp án A chưa chính xác vì bài không nói thu phí du khách; chỉ nói cây có thể làm khu vực hấp dẫn hơn với khách du lịch.<br/>Đáp án C chưa chính xác vì tác giả \"organise my neighbours\" để trồng cây, không phải kêu gọi họ đưa tiền.<br/>Đáp án D chưa chính xác vì bài không nêu việc bán cây trong vườn để lấy tiền; nguồn tiền đến từ chủ quán cà phê.<br/>Key takeaway: Khi hỏi \"got the money\", hãy tìm động từ chỉ tiền tệ rõ ràng (cash, money, give, fund) và xác định chủ thể cung cấp.</div>"
+          },
+          {
+            "id": 14,
+            "text": "The community was able to start bee keeping because",
+            "options": [
+              "someone in the village had experience of this.",
+              "they were given some bees.",
+              "a group went to classes to learn how to do it.",
+              "they found some bees in the nearby forest."
+            ],
+            "correct": 0,
+            "explanation": "<div><span class='grammar-tag'>PHÂN TÍCH</span><br/>Đáp án A chính xác vì trích từ câu \"A friend in my village is an expert. He taught us all how to do it\" trong đoạn 4, có nghĩa là có người trong làng có kinh nghiệm/chuyên môn và hướng dẫn mọi người. Paraphrase: \"is an expert\" = \"had experience\"; \"taught us\" = \"was able to start\".<br/>Đáp án B chưa chính xác vì không có chi tiết \"được tặng ong\".<br/>Đáp án C chưa chính xác vì họ học trực tiếp từ một người trong làng, không phải đi lớp học.<br/>Đáp án D chưa chính xác vì không hề đề cập tìm ong trong rừng.<br/>Key takeaway: Với câu hỏi \"because\", hãy bám đúng câu nêu nguyên nhân trực tiếp (expert taught us) thay vì suy đoán kiến thức nền.</div>"
+          },
+          {
+            "id": 15,
+            "text": "What would the writer say to a friend about his work for the environment?",
+            "options": [
+              "It's strange to think that just finding some interesting information on the internet led to this amazing project!",
+              "We've grown a variety of different kinds of plants: trees to protect the land and flowers to bring in the insects.",
+              "It took a while to get my neighbours to join me, but now I'm just as excited as I am about the changes we're seeing!",
+              "My own experience proves that even if you don't live somewhere directly affected by problems, it's still worth trying to make a situation better."
+            ],
+            "correct": 3,
+            "explanation": "<div><span class='grammar-tag'>PHÂN TÍCH</span><br/>Đáp án D chính xác vì trích từ ý trong đoạn 1 \"even small actions can have a big effect\" và kết đoạn 4 \"everyone can do something to make a difference\", có nghĩa là dù không ở nơi bị ảnh hưởng trực tiếp, vẫn nên cố gắng cải thiện. Paraphrase: \"make a difference\" = \"make a situation better\"; \"small actions\" = \"worth trying\".<br/>Đáp án A chưa chính xác vì bài có nhắc đọc bài online, nhưng đó không phải thông điệp chính; thông điệp chính là ai cũng có thể góp phần.<br/>Đáp án B chưa chính xác vì bài không nói trồng hoa để thu hút côn trùng; chủ yếu là trồng cây và sau đó nuôi ong.<br/>Đáp án C chưa chính xác vì bài không nhấn mạnh khó khăn thuyết phục hàng xóm kéo dài; trọng tâm là hiệu quả và bài học chung.<br/>Key takeaway: Câu hỏi dạng \"What would the writer say?\" thường kiểm tra thông điệp tổng quát (message) chứ không kiểm tra chi tiết phụ.</div>"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "type": "part4",
+        "title": "Part 4",
+        "articleTitle": "THE CHEF: HOW I GOT STARTED",
+        "passage": "When I was quite small, I used to help my parents and grandparents in the kitchen by cutting the vegetables and doing anything else I could help with. [16] I used to love watching him eat it and I realised that I could make people really happy. My parents were worried about me using knives, but I soon became very confident at peeling and chopping. But I suppose I didn't really start cooking for myself until I went to university. [17] I think they were just grateful that someone had cooked them a meal, but it taught me a lot about cooking on a budget.\n\nAfter university, I think my parents expected me to work in business, but I was keen to do some travelling. I went abroad for about six months and I picked up odd jobs in kitchens as I went around the world. I developed a real interest in all sorts of amazing foods and the different methods of cooking them. [18] Eventually I became confident enough to try new things there, and the customers liked them. We had some good reviews and so I was offered a job at a big restaurant in the capital.\n\nI still really enjoy cooking. The kitchen is so busy you don't get much time to do anything else, but I'm glad that people I know and who eat my food. I've passed this on to my children now. I get them to help me at home. [19] That means I have a nice break from cooking. They're learning to invent their own dishes now, rather than just following a recipe. [20] I like to see their passion for cooking, even after all these years of working long hours in a kitchen.",
+        "options": [
+          { "id": "A", "text": "Sadly, I wasn't able to get a job at that restaurant." },
+          { "id": "B", "text": "Sometimes they make the whole lunch for us all." },
+          { "id": "C", "text": "One of my earliest memories is cooking fish for my grandfather." },
+          { "id": "D", "text": "This is why I think my grandfather is the most creative cook." },
+          { "id": "E", "text": "When I came home, I got a cooking job at a small local restaurant." },
+          { "id": "F", "text": "There's nothing wrong with doing that sometimes, but it's good to be creative too." },
+          { "id": "G", "text": "Although I didn't have much money I saved enough for my trip." },
+          { "id": "H", "text": "I used to try out new dishes on my friends." }
+        ],
+        "gapMap": {
+          "16": "C",
+          "17": "H",
+          "18": "E",
+          "19": "B",
+          "20": "F"
+        },
+        "explanations": {
+          "16": "Đáp án C chính xác vì sau ô [16] có đại từ \"him\" và câu \"watching him eat it\" cho thấy người kể đang nói về ông (grandfather) và một kỷ niệm nấu ăn từ rất sớm. Cụm \"One of my earliest memories\" khớp trực tiếp với \"When I was quite small\". Key takeaway: Dùng đại từ tham chiếu (him/it) để tìm câu có cùng đối tượng.",
+          "17": "Đáp án H chính xác vì sau ô [17] có \"they were just grateful\" (they = friends/people) và nói về việc nấu cho người khác khi ở đại học. \"try out new dishes on my friends\" tạo logic: nấu thử món mới cho bạn bè, họ biết ơn vì có bữa ăn. Key takeaway: Xác định chủ ngữ ẩn (they) và bối cảnh (university) để chọn câu phù hợp.",
+          "18": "Đáp án E chính xác vì trước ô [18] nói đã đi du lịch và làm việc bếp ở nhiều nơi, sau ô [18] lại dùng \"there\" (ở đó) để nói bắt đầu thử món mới và được khách hàng thích. \"a small local restaurant\" tạo nơi chốn cụ thể để \"there\" tham chiếu. Key takeaway: Với câu nối đoạn, chú ý từ chỉ nơi chốn (there) và tiến trình sự nghiệp.",
+          "19": "Đáp án B chính xác vì sau ô [19] là \"That means I have a nice break from cooking\". Nếu con cái \"make the whole lunch\", người kể sẽ được nghỉ nấu ăn. Key takeaway: Cụm kết quả \"That means...\" thường yêu cầu câu trước mô tả hành động tạo ra kết quả đó.",
+          "20": "Đáp án F chính xác vì trước ô [20] nói con cái đang học sáng tạo món ăn \"rather than just following a recipe\". Câu F khẳng định theo công thức đôi khi cũng được nhưng sáng tạo là tốt, nối mạch ý hoàn hảo. Key takeaway: Dạng đối lập \"rather than\" thường đi kèm câu bình luận/nhận xét tổng quát về thói quen đó."
+        }
+      },
+      {
+        "id": 5,
+        "type": "part5",
+        "title": "Part 5",
+        "articleTitle": "CAN YOU BELIEVE WHAT'S IN A TEXT?",
+        "passage": "A new study of 140 students shows that people are more likely to lie when texting than when they are speaking to someone face-to-face. Each student was asked to take out (21) ______ in a situation where they were either selling or buying a product. The results (22) ______ that the sellers were much more likely to lie if they were trying to (23) ______ someone to buy by text message. This is perhaps because the person you are 'talking' to cannot look at your face or body language to (24) ______ whether you are lying or not. What was also interesting was that the buyers were angrier when they lied by text than face-to-face. Authors of the study (25) ______ that this is because when you meet someone in person, you have a relationship that helps prevent you from getting so angry. The (26) ______ was that customers shouldn't trust text messages!",
+        "questions": [
+          {
+            "id": 21,
+            "options": ["character", "role", "person", "position"],
+            "correct": 1,
+            "explanation": "Đáp án B chính xác vì collocation đúng là \"take out a role\" (đảm nhận một vai trò) trong bài mô phỏng tình huống mua/bán.\nLoại các đáp án còn lại vì: đáp án A \"character\" không đi với \"take out\" trong nghĩa \"đóng vai\"; đáp án C \"person\" không tạo cụm cố định với \"take out\"; đáp án D \"position\" thường đi với \"take up/hold\" (vị trí/chức vụ), không phải \"take out\".\nKey takeaway: take out + role = đóng vai/đảm nhận vai trò trong hoạt động mô phỏng."
+          },
+          {
+            "id": 22,
+            "options": ["displayed", "appeared", "showed", "presented"],
+            "correct": 2,
+            "explanation": "Đáp án C chính xác vì cấu trúc báo cáo nghiên cứu chuẩn là \"The results showed that ...\" (Kết quả cho thấy rằng...).\nLoại các đáp án còn lại vì: đáp án A \"displayed\" thường dùng cho \"trưng bày/hiển thị\" (màn hình, bảng), không tự nhiên với \"results ... that\"; đáp án B \"appeared\" không dùng để giới thiệu mệnh đề \"that\" theo nghĩa \"chứng minh\"; đáp án D \"presented\" thường cần tân ngữ rõ (present results/figures) và không tự nhiên trong mẫu \"results presented that\".\nKey takeaway: The results showed/indicated/demonstrated that + mệnh đề."
+          },
+          {
+            "id": 23,
+            "options": ["persuade", "argue", "create", "agree"],
+            "correct": 0,
+            "explanation": "Đáp án A chính xác vì cấu trúc đúng là \"persuade someone to buy\" (thuyết phục ai đó mua), phù hợp ngữ nghĩa \"người bán cố thuyết phục\".\nLoại các đáp án còn lại vì: đáp án B \"argue\" không đi với mẫu \"argue someone to buy\" (sai cấu trúc); đáp án C \"create\" không phù hợp ngữ nghĩa thuyết phục; đáp án D \"agree\" không thể mang nghĩa \"thuyết phục\" và cũng không dùng với mẫu này.\nKey takeaway: persuade + O + to V (khuyên/thuyết phục ai làm gì)."
+          },
+          {
+            "id": 24,
+            "options": ["select", "choose", "pick", "decide"],
+            "correct": 3,
+            "explanation": "Đáp án D chính xác vì cấu trúc đúng là \"decide whether ...\" (xác định/quyết định xem ... hay không), phù hợp ngữ cảnh \"nhìn mặt/ngôn ngữ cơ thể để biết có nói dối không\".\nLoại các đáp án còn lại vì: đáp án A \"select\" dùng để chọn vật/đối tượng, không đi với \"whether\"; đáp án B \"choose\" cũng không dùng tự nhiên với \"whether\" trong nghĩa \"xác định\"; đáp án C \"pick\" mang sắc thái chọn vật cụ thể, không phù hợp với mệnh đề \"whether\".\nKey takeaway: decide whether + mệnh đề = xác định xem (có/không)."
+          },
+          {
+            "id": 25,
+            "options": ["request", "suggest", "remind", "offer"],
+            "correct": 1,
+            "explanation": "Đáp án B chính xác vì cấu trúc học thuật phổ biến là \"Authors ... suggest that ...\" (tác giả cho rằng/đề xuất rằng), dùng để đưa ra lời giải thích dựa trên nghiên cứu.\nLoại các đáp án còn lại vì: đáp án A \"request\" là \"yêu cầu\" nên không phù hợp ngữ nghĩa lập luận nghiên cứu; đáp án C \"remind\" cần tân ngữ chỉ người/điều được nhắc (remind someone of/about...), không đi với \"that\" theo nghĩa nêu kết luận; đáp án D \"offer\" là \"đề nghị/cung cấp\", không phù hợp với hành động suy luận trong bài nghiên cứu.\nKey takeaway: suggest that + mệnh đề = nêu giả thuyết/giải thích trong văn phong học thuật."
+          },
+          {
+            "id": 26,
+            "options": ["conclusion", "close", "final", "ending"],
+            "correct": 0,
+            "explanation": "Đáp án A chính xác vì cụm danh từ học thuật chuẩn là \"The conclusion was that ...\" (kết luận là ...).\nLoại các đáp án còn lại vì: đáp án B \"close\" không dùng như danh từ \"kết luận\" trong cấu trúc này; đáp án C \"final\" là tính từ, không thể đứng ở vị trí danh từ; đáp án D \"ending\" nghĩa là \"phần kết thúc\" của câu chuyện/sự kiện, không phải \"kết luận\" trong văn bản nghiên cứu.\nKey takeaway: The conclusion was that + mệnh đề (mẫu kết luận trong bài báo cáo)."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "type": "part6",
+        "title": "Part 6",
+        "articleTitle": "SAILING",
+        "passage": "I recently tried a new sport and I enjoyed it so much that I want to recommend it to you.\nLast week I went sailing (27) ______ the first time and it was wonderful. My friends and I set off from the harbour in a boat (28) ______ was quite small. It was very slow at first because (29) ______ wasn't much wind, but then the wind got stronger and soon the boat was racing along.\nAlthough we (30) ______ had a different job on the boat, it was important for us to work together.\nWhat was great was that we could visit places you can only reach by boat, so we stopped at an island (31) ______ explore and have lunch.\nAt the end of the day we (32) ______ really tired but we had such a good time, I suggest you try it - it's such fun!",
+        "questions": [
+          { "id": 27, "correct": "FOR", "explanation": "Đáp án FOR chính xác vì cụm cố định: \"for the first time\" (lần đầu tiên).\nKey takeaway: for + ordinal phrase (for the first time)." },
+          { "id": 28, "correct": "THAT", "explanation": "Đáp án THAT chính xác vì là mệnh đề quan hệ xác định bổ nghĩa cho \"a boat\" (một chiếc thuyền mà...).\nKey takeaway: that/which dùng để nối mệnh đề quan hệ chỉ vật." },
+          { "id": 29, "correct": "THERE", "explanation": "Đáp án THERE chính xác vì cấu trúc tồn tại: \"There wasn't much wind\" (không có nhiều gió).\nKey takeaway: there + be + noun phrase." },
+          { "id": 30, "correct": "EACH", "explanation": "Đáp án EACH chính xác vì \"each had\" diễn tả mỗi người có một nhiệm vụ khác nhau.\nKey takeaway: each + verb số ít để nhấn mạnh từng cá nhân." },
+          { "id": 31, "correct": "TO", "explanation": "Đáp án TO chính xác vì cấu trúc chỉ mục đích: \"stopped ... to explore\" (dừng lại để khám phá).\nKey takeaway: to + V (purpose)." },
+          { "id": 32, "correct": "WERE", "explanation": "Đáp án WERE chính xác vì chủ ngữ \"we\" cần động từ to be quá khứ: \"we were really tired\".\nKey takeaway: we + were (past of be)." }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "testId": "PET_LISTENING_002",
+    "testTitle": "PET Listening - Richmond Test 2",
+    "audioMain": "",
+    "scriptFull": "Preliminary English Test - Listening Test 2\nAudio Script\n\nPart 1\nThere are four parts to the test. You will hear each part twice. For each part of the test, there will be time for you to look through the questions and time for you to check your answers. Write your answers on the question paper. You will have six minutes at the end of the test to copy your answers onto the answer sheet.\nThe recording will now be stopped. Please ask any questions now because you must not speak during the test.\nNow open your question paper and look at part 1.\nNow we are ready to start. For each question, choose the correct answer.\nQuestion 1: What will the woman bring on the camping trip?\nMan: The weather looks good for our camping trip at the weekend.\nWoman: Yeah. I won't have to pack a blanket if it's not going to be cold. A light sleeping bag will be fine.\nMan: Yeah. Now, I know you've got a really powerful torch. Could you bring it, because it still gets dark fairly early on?\nWoman: I'll make a note so I won't forget. Don't worry. And I've made a note to remind me to bring plenty of rope.\nMan: Absolutely. It's always useful.\nNow listen again. [Repeat]\nQuestion 2: What is the woman's new hobby?\nMan: How are you? I haven't seen you for ages. You haven't been at the cycling club for a couple of months now.\nWoman: No, but I'm absolutely fine, thanks. I've been really busy at work and finishing later than usual. I've been trying to keep fit though by doing some dancing. My sister's been teaching me.\nMan: What a good idea! I read somewhere that it's better for you than sports like swimming or jogging.\nWoman: Well, when the weather gets cooler I'll probably start jogging too.\nMan: I'll come with you.\nNow listen again. [Repeat]\nQuestion 3: Which film will they go and see?\nMan: Do you fancy going to the cinema this evening?\nWoman: I'd love to. I've got to get up really early tomorrow. But if it finishes before, say, 9.15, that'd be great.\nMan: Well, there are a couple of possibilities. I know you really like horror films and there's one which finishes at 7.45. The next one ends at half past eight, but that's a comedy and I'm not sure you'd like it.\nWoman: Actually, tonight I do fancy watching something bit lighter. So shall we go for that?\nMan: That suits me.\nNow listen again. [Repeat]\nQuestion 4: What present does the girl decide to buy?\nAssistant: Can I help you?\nGirl: Yes, thanks. I don't have much time. I'm looking for a gift for my mum's birthday and your sale prices are really good. She loves gold but I can only see silver necklaces.\nAssistant: I'm afraid those are the only ones in the sale but these gold rings and bracelets have a good discount on them.\nGirl: Oh! I didn't see those. They're lovely, especially the bracelets. Mum doesn't wear rings. This one will be perfect. I'll take that please.\nAssistant: OK.\nNow listen again. [Repeat]\nQuestion 5: Where will the friends go today?\nWoman: I wish I'd checked the tourist information website before we came.\nMan: Yes, we'll have to come back on a day when the Natural History Museum's open. It's such a shame we'll miss that today.\nWoman: I agree. I love the dinosaurs, but the art museum's open and there's an interesting show on there. And of course I'm happy to see the Science Museum again.\nMan: Yeah, I know you really enjoyed the space exhibition last year, but I'd prefer to see paintings if you don't mind.\nWoman: Of course not.\nNow listen again. [Repeat]\nQuestion 6: What is the woman's advice for the man? (How to get to the pharmacy)\nMan: Can you tell me how to get to the nearest pharmacy?\nWoman: It's quite a long walk. You go along this road, past the railway station and then over the bridge.\nMan: Yes.\nWoman: You soon come to a crossroads and turn right. You'll see the big post office opposite you. You go past that and the pharmacy is near it, on the same side of the road.\nMan: I think I know it. Is it near a roundabout?\nWoman: That's it. But remember, if you see the playground, you've gone too far.\nMan: Thanks.\nNow listen again. [Repeat]\nQuestion 7: Which area of the sports centre is closed today?\nSpeaker: This is a recorded message for the Hillside Sports Centre. Opening hours are 6am to 11pm. In order to do essential repairs we're closing different areas of the centre for short periods of time. The gym repairs are now complete and it is open as usual. But the swimming pool won't be ready to open again until Monday 24th August. Squash court repairs will not take place until September so they can be booked as normal.\nNow listen again. [Repeat]\nThat is the end of part one.\n\nPart 2\nNow turn to part 2, questions 8 to 13. For each question, choose the correct answer.\nQuestion 8: You will hear two friends talking about a group holiday they are both going on.\nMan: Hi, have you finished your packing?\nWoman: Almost. Don't worry, I won't forget the sun cream like last time.\nMan: Good. I'm bringing some anyway. I just wanted to say, you know the coach is leaving at a quarter to seven?\nWoman: Thanks, I do. They told us that right at the beginning, though I didn't really know why we have to set off so early.\nMan: Well, there is a lot of traffic because of roadworks. And we don't want to miss the plane.\nWoman: Oh, right. That's good then.\nNow listen again. [Repeat]\nQuestion 9: You will hear two colleagues talking about this weekend.\nWoman: Are you going anywhere this weekend?\nMan: I haven't decided yet. Me and my husband had a lovely time at the beach last weekend. It was a beautiful place, though it rained quite a lot so we couldn't always see the wonderful views. But we met a lovely couple and we all got on really well.\nWoman: That kind of thing makes it so much more fun, doesn't it?\nMan: Exactly. It's who you're with that matters. It's not all about where you go or whether the sun is shining.\nNow listen again. [Repeat]\nQuestion 10: You will hear two friends talking about recycling at their college.\nGirl: Do you have lots of recycling bins near your classroom?\nBoy: Of course, though not many of the students use them, I'm afraid. We've got three different bins in a great place, just outside the room. They've got clear labels on them, but I've noticed that almost all my classmates don't bother to read them.\nGirl: So they don't recycle?\nBoy: That's not it. They put things in the wrong place. Use the food bin for plastic and stuff like that. It really annoys me.\nGirl: I can imagine. I wonder if there's anything we can do.\nBoy: I don't think so.\nNow listen again. [Repeat]\nQuestion 11: You will hear two friends talking about a concert they are going to see.\nMan: Are you looking forward to the concert tonight?\nWoman: Of course. I haven't been to one for ages. The last one we saw was brilliant. Do you remember? We were on the back row, but we could see everything as if we were in the front seats.\nMan: Yeah, let's hope tonight's will be as good. It's quite a large orchestra, with musicians from all over the world. And I'll be interested to hear how they play together for the first time. They put together quite an unusual selection in the programme, which I didn't expect.\nWoman: Yeah, great!\nNow listen again. [Repeat]\nQuestion 12: You will hear two friends talking about a gym class they both went to.\nWoman: What did you think of our exercise class?\nMan: Tiring, but I did enjoy all the different movements we did, and the instructor was really encouraging. I wasn't always sure what he wanted us to do, but I looked at everyone else and followed what they did. But it was much better than the one I used to go to. The teacher really pushed us too hard there.\nWoman: I remember you saying he got you to use all those weights to make you work harder.\nMan: They were useful, but it was a bit miserable. Well, you must be glad you changed.\nNow listen again. [Repeat]\nQuestion 13: You will hear a girl talking to her brother about his back problems.\nGirl: Dad said you hurt your back.\nBoy: Yeah, I'm not sure how I did it. Perhaps when I played badminton last week. Don't worry, I won't be playing for a while.\nGirl: That's about the only exercise you're getting at the moment, so don't think of giving it up. Maybe you could talk to one of the instructors at the club. He could give you some ideas about how to avoid problems.\nBoy: Maybe.\nGirl: And when you're at home working at the computer, you're probably spending too much time sitting in a bad position.\nBoy: Yes, I need to remember not to do that.\nNow listen again. [Repeat]\nAnd that is the end of part two.\n\nPart 3\nNow turn to part 3. 14 to 19. For each question, write the correct answer in the gap. Write one or two words or a number or a date or a time.\nYou will hear a tennis club leader called Sam giving a presentation about the changes that have been made to the clubhouse.\nSam: Evening everyone. As you know, we've been closed for the last two months, but I'm now happy to welcome you to our new look building and to tell you about the changes we've made. The main thing was to stop water coming in through the section of roof over the showers. During storms, rain was pouring in and damaging the room next door, the cafeteria. Everything's a lot drier now.\nWe've also been doing a lot of decorating. We've painted the walls of the reception area in a deep blue and the doors red. The changing rooms used to be a boring grey. We've painted them yellow, which looks much more cheerful. We always want your ideas for how to improve our club, so we've placed the comments box in a better position. It used to be outside the club office, but now we've put it beside the lift so everyone can find it more easily. Please do feel free to write suggestions and put them in the box.\nWe're pleased to announce a new exhibition in the hall. During the work on the building, we found some old tennis kit in the cupboards. It's the kind of thing you see people wearing in black and white photos, so we decided to put it all in a display. We hope you find it interesting. We've also added to the members' kitchen. As you know, we've had a kettle and a small coffee machine for some time, but we've put in a microwave for those who want to heat their own food.\nFinally, we've made a change to the car park. We've made spaces for people who are bringing their children. These are next to the spaces that were already there for members using wheelchairs, a few metres from the entrance.\nNow listen again. [Repeat]\n\nPart 4\nNow turn to part 4, questions 20 to 25. For each question, choose the correct answer. You will hear an interview with a girl called Polly who recently travelled around England with friends.\nInterviewer: Our guest today is Polly Bell, who's just travelled around England with three friends. You did a lot of the journey by train, Polly. Why was that?\nPolly: Well, I toured Europe quite a bit with my family when I was younger, by car, and what I remember was how quickly we travelled and how little we saw of each city. Not very exciting. On the train we had plenty of time to look out of the window at the changing landscapes, which was the nicest thing. We didn't get to talk to as many other passengers as we'd hoped though.\nInterviewer: And did you have any worries before you started your journey?\nPolly: Well, my friends talked a lot about the most important tourist sites in each part of the country and were stressed about not missing anything. I don't like to decide what to see until we get there. So I didn't agree with them. It's not a problem. They know we all have different opinions. But what bothered me was deciding how much we should spend each day, making sure we could afford everything we needed for the whole time.\nInterviewer: You stayed on a boat for a while. Was that fun?\nPolly: Yeah, for three days. It was great. I already knew about the background to canals and about the animals and plants that live on the water. What was most amazing was the challenge of working out how to cook, sleep and so on with limited room. We were very proud of ourselves for doing it so well.\nInterviewer: Did you go to any art galleries or museums?\nPolly: Only one, a football museum in Manchester. It was full of football fans, which is what you'd expect. But even though I know absolutely nothing about sport, I really liked it because all the exhibitions were so well designed and clear.\nInterviewer: What advice would you give to people doing a similar journey to the one you've done?\nPolly: Don't carry too much. A light backpack is much better than a big suitcase. And whatever the time of year, carry an umbrella rather than heavy coats or sweaters. It's more likely to rain than be cold. Take a chess set or cards with you to keep you and your friends busy on long journeys.\nInterviewer: Would you go on a similar tour again?\nPolly: Definitely. Train journeys aren't always relaxing and timetables don't always work out as planned, but the most wonderful holidays are ones where you have variety in what you do, where you're not doing the same thing every day.\nNow listen again. [Repeat]\nThat is the end of the test.",
+    "parts": [
+      {
+        "part": 1,
+        "type": "multiple_choice_img",
+        "instruction": "Questions 1-7: For each question, choose the correct answer.",
+        "questions": [
+          { "id": 1, "audio": "https://www.dropbox.com/scl/fi/4vl5dl2vwzuii7t7618qe/Pre-Test-2-Part-01.mp3?rlkey=lntkfus5j2q847uc5c3meiqf4&st=54md4bb0&raw=1", "img": "https://www.dropbox.com/scl/fi/54jd7yafygwimzhonj0oi/b1-richmond_test-2_listening_part-1_Q1.png?rlkey=enbk230jwssjlq8djxljvosmz&st=6jxakaon&raw=1", "correct": "A", "explanation": "Đáp án A chính xác vì \"Could you bring it\" (it = torch) và người phụ nữ đáp: \"I'll make a note so I won't forget.\" Giải thích: người đàn ông yêu cầu mang đèn pin và cô ấy đồng ý mang. Paraphrase: \"bring it\" = \"bring a torch\"." },
+          { "id": 2, "audio": "https://www.dropbox.com/scl/fi/4vl5dl2vwzuii7t7618qe/Pre-Test-2-Part-01.mp3?rlkey=lntkfus5j2q847uc5c3meiqf4&st=54md4bb0&raw=1", "img": "https://www.dropbox.com/scl/fi/5qhtfe6gb9ni7dpgn2up9/b1-richmond_test-2_listening_part-1_Q2.png?rlkey=q55f3rkfobx2ivi4l5waqs39h&st=hdc785vj&raw=1", "correct": "C", "explanation": "Đáp án C chính xác vì script nêu: \"I've been trying to keep fit though by doing some dancing.\" Giải thích: hoạt động mới là dancing. Paraphrase: \"doing some dancing\" = \"started dancing\"." },
+          { "id": 3, "audio": "https://www.dropbox.com/scl/fi/4vl5dl2vwzuii7t7618qe/Pre-Test-2-Part-01.mp3?rlkey=lntkfus5j2q847uc5c3meiqf4&st=54md4bb0&raw=1", "img": "https://www.dropbox.com/scl/fi/dsraiopz3geydsyvq8y65/b1-richmond_test-2_listening_part-1_Q3.png?rlkey=jon9ugi8slm5fzun2cthpsimo&st=p4yr9ml0&raw=1", "correct": "B", "explanation": "Đáp án B chính xác vì script nói: \"The next one ends at half past eight\" và họ chọn phim đó. Giải thích: comedy film kết thúc lúc 8:30. Paraphrase: \"half past eight\" = \"8.30\"." },
+          { "id": 4, "audio": "https://www.dropbox.com/scl/fi/4vl5dl2vwzuii7t7618qe/Pre-Test-2-Part-01.mp3?rlkey=lntkfus5j2q847uc5c3meiqf4&st=54md4bb0&raw=1", "img": "https://www.dropbox.com/scl/fi/zup5bwdaqe9l0ruy4eth4/b1-richmond_test-2_listening_part-1_Q4.png?rlkey=bjclticp8f9871cahzzhaje7c&st=0uxdf0mz&raw=1", "correct": "A", "explanation": "Đáp án A chính xác vì script có câu: \"They're lovely, especially the bracelets. Mum doesn't wear rings.\" Giải thích: cô bé chọn vòng tay (bracelet). Paraphrase: \"bracelets\" = \"the bracelet picture\"." },
+          { "id": 5, "audio": "https://www.dropbox.com/scl/fi/4vl5dl2vwzuii7t7618qe/Pre-Test-2-Part-01.mp3?rlkey=lntkfus5j2q847uc5c3meiqf4&st=54md4bb0&raw=1", "img": "https://www.dropbox.com/scl/fi/bocgy04hwm6374xpc0okx/b1-richmond_test-2_listening_part-1_Q5.png?rlkey=3074feyd9t9obdm7mublgsd4h&st=7i64p7ly&raw=1", "correct": "C", "explanation": "Đáp án C chính xác vì script: \"the art museum's open\" và \"I'd prefer to see paintings\". Giải thích: paintings thuộc art museum. Paraphrase: \"see paintings\" = \"art museum\"." },
+          { "id": 6, "audio": "https://www.dropbox.com/scl/fi/4vl5dl2vwzuii7t7618qe/Pre-Test-2-Part-01.mp3?rlkey=lntkfus5j2q847uc5c3meiqf4&st=54md4bb0&raw=1", "img": "https://www.dropbox.com/scl/fi/vqro1vht8ymrcxong15y9/b1-richmond_test-2_listening_part-1_Q6.png?rlkey=o4ml3vk1sdyz062zel3hz83tg&st=ls0x5mke&raw=1", "correct": "B", "explanation": "Đáp án B chính xác vì script mô tả lộ trình: \"past the railway station and then over the bridge\"; \"turn right\"; \"post office\"; \"near a roundabout\"; nếu thấy playground thì đi quá. Bản đồ B thể hiện đúng chuỗi mốc này. Paraphrase: \"near a roundabout\" = \"next to the roundabout\"." },
+          { "id": 7, "audio": "https://www.dropbox.com/scl/fi/4vl5dl2vwzuii7t7618qe/Pre-Test-2-Part-01.mp3?rlkey=lntkfus5j2q847uc5c3meiqf4&st=54md4bb0&raw=1", "img": "https://www.dropbox.com/scl/fi/hh42d475uyxnmma09f51n/b1-richmond_test-2_listening_part-1_Q7.png?rlkey=8v46hg2dd6yc1ccnig9dxb498&st=39h7dcy2&raw=1", "correct": "B", "explanation": "Đáp án B chính xác vì script nói: \"the swimming pool won't be ready to open again until Monday 24th August\" trong khi \"gym ... is open\" và \"Squash court ... can be booked as normal.\" Giải thích: khu vực đóng là bể bơi. Paraphrase: \"won't be ready to open\" = \"is closed\"." }
+        ]
+      },
+      {
+        "part": 2,
+        "type": "multiple_choice_text",
+        "instruction": "Questions 8-13: For each question, choose the correct answer.",
+        "audio": "https://www.dropbox.com/scl/fi/9z3uxq8dmkbr8p4wgv53z/Pre-Test-2-Part-02.mp3?rlkey=xki4js9y82hu19kyvo8cmcnnx&st=1kgbkeka&raw=1",
+        "questions": [
+          { "id": 8, "question": "What does the man do during the conversation?", "options": ["informs the woman that arrangements have changed", "reminds the woman to take something", "tells the woman the reason behind a decision"], "correct": 2, "explanation": "Đáp án C chính xác vì \"there is a lot of traffic because of roadworks. And we don't want to miss the plane.\" Giải thích: người đàn ông đưa lý do vì sao phải xuất phát sớm. Paraphrase: \"the reason\" = \"because of roadworks / don't want to miss the plane\"." },
+          { "id": 9, "question": "What do they agree is most important?", "options": ["being with people you like", "having good weather", "being in a beautiful location"], "correct": 0, "explanation": "Đáp án A chính xác vì \"It's who you're with that matters.\" Giải thích: người đồng hành quan trọng hơn địa điểm hay thời tiết. Paraphrase: \"who you're with\" = \"being with people you like\"." },
+          { "id": 10, "question": "What does the man think about the recycling bins?", "options": ["The bins are not in the best location.", "Most people don't put things in the correct bins.", "It's hard to decide which bin to use for different things."], "correct": 1, "explanation": "Đáp án B chính xác vì \"almost all my classmates don't bother to read them\" và \"They put things in the wrong place.\" Giải thích: vấn đề là bỏ sai thùng. Paraphrase: \"in the wrong place\" = \"not ... in the correct bins\"." },
+          { "id": 11, "question": "How does the woman feel about the concert tonight?", "options": ["surprised about the choice of music", "disappointed by the number of performers", "excited about the quality of sound in the theatre"], "correct": 0, "explanation": "Đáp án A chính xác vì \"an unusual selection in the programme, which I didn't expect.\" Giải thích: ngạc nhiên vì chương trình chọn nhạc lạ/không như dự đoán. Paraphrase: \"an unusual selection\" = \"choice of music\"." },
+          { "id": 12, "question": "What is the woman's opinion of the class?", "options": ["The equipment was helpful.", "The instructions were clear.", "The activities were fun."], "correct": 2, "explanation": "Đáp án C chính xác vì \"I did enjoy all the different movements we did\". Giải thích: điểm tích cực là các hoạt động/vận động. Paraphrase: \"enjoy ... movements\" = \"activities were fun\"." },
+          { "id": 13, "question": "The girl wants her brother to", "options": ["buy a more comfortable chair", "stop doing a particular sport", "get some advice from a trainer"], "correct": 2, "explanation": "Đáp án C chính xác vì \"talk to one of the instructors ... give you some ideas\". Giải thích: khuyên hỏi huấn luyện viên để được tư vấn. Paraphrase: \"instructors\" = \"a trainer\"; \"give you some ideas\" = \"get some advice\"." }
+        ]
+      },
+      {
+        "part": 3,
+        "type": "gap_fill",
+        "instruction": "Questions 14-19: For each question, write the correct answer in the gap. Write one or two words or a number or a date or a time.",
+        "audio": "https://www.dropbox.com/scl/fi/un3q2kfy2yev4gs6mfzph/Pre-Test-2-Part-03.mp3?rlkey=81fjap0el75nnuuf8qel05fv5&st=4dhbtnid&raw=1",
+        "passageImg": "",
+        "questions": [
+          { "id": 14, "label": "Builders have repaired the roof above the", "correct": "SHOWERS", "explanation": "Đáp án SHOWERS chính xác vì \"the section of roof over the showers\". Giải thích: phần mái được sửa là phía trên khu tắm. Paraphrase: \"over\" = \"above\"." },
+          { "id": 15, "label": "The walls of the", "correct": "CHANGING ROOMS", "explanation": "Đáp án CHANGING ROOMS chính xác vì \"The changing rooms ... We've painted them yellow\". Giải thích: phòng thay đồ được sơn vàng. Paraphrase: \"painted them\" = \"walls ... painted\"." },
+          { "id": 16, "label": "The box for members' comments is now next to the", "correct": "LIFT", "explanation": "Đáp án LIFT chính xác vì \"now we've put it beside the lift\". Giải thích: hộp góp ý đặt cạnh thang máy. Paraphrase: \"beside\" = \"next to\"." },
+          { "id": 17, "label": "There is a display of old-fashioned", "correct": "TENNIS KIT", "explanation": "Đáp án TENNIS KIT chính xác vì \"we found some old tennis kit ... put it all in a display\". Giải thích: trưng bày đồ tennis kiểu cũ. Paraphrase: \"old\" = \"old-fashioned\"." },
+          { "id": 18, "label": "The members' kitchen has got a new", "correct": "MICROWAVE", "explanation": "Đáp án MICROWAVE chính xác vì \"we've put in a microwave\". Giải thích: có thêm lò vi sóng. Paraphrase: \"put in\" = \"has got\"." },
+          { "id": 19, "label": "The new spaces in the car park are for members with", "correct": "CHILDREN", "explanation": "Đáp án CHILDREN chính xác vì \"spaces for people who are bringing their children\". Giải thích: chỗ đỗ mới dành cho người đưa trẻ theo. Paraphrase: \"bringing their children\" = \"with children\"." }
+        ]
+      },
+      {
+        "part": 4,
+        "type": "multiple_choice_text",
+        "instruction": "Questions 20-25: For each question, choose the correct answer.",
+        "audio": "https://www.dropbox.com/scl/fi/rj33jqx7da8c2umif4hej/Pre-Test-2-Part-04.mp3?rlkey=1e1rgssrrlkzue5k8zqzxlz51&st=ho4nqhtk&raw=1",
+        "questions": [
+          { "id": 20, "question": "What did Polly like most about travelling by train?", "options": ["meeting interesting people", "the variety of views she could see", "how easy it is to get to the centre of cities"], "correct": 1, "explanation": "Đáp án B chính xác vì \"changing landscapes, which was the nicest thing.\" Giải thích: thích nhất phong cảnh thay đổi. Paraphrase: \"changing landscapes\" = \"a variety of views\"." },
+          { "id": 21, "question": "What did Polly worry about before she started the journey?", "options": ["having enough money during the trip", "seeing the best sights in each area", "getting on with everyone in her group"], "correct": 0, "explanation": "Đáp án A chính xác vì \"deciding how much we should spend each day\" và \"afford everything\". Giải thích: lo về ngân sách. Paraphrase: \"afford\" = \"have enough money\"." },
+          { "id": 22, "question": "Polly says the most interesting thing about staying on a boat was", "options": ["finding ways to manage in a small space", "learning about the history of canals", "watching the wildlife nearby"], "correct": 0, "explanation": "Đáp án A chính xác vì \"the challenge ... with limited room.\" Giải thích: xoay xở trong không gian hạn chế. Paraphrase: \"limited room\" = \"a small space\"." },
+          { "id": 23, "question": "How did Polly feel about visiting the museum?", "options": ["embarrassed by her lack of knowledge", "curious about the people who went there", "impressed by the different displays"], "correct": 2, "explanation": "Đáp án C chính xác vì \"exhibitions were so well designed and clear.\" Giải thích: ấn tượng vì trưng bày được thiết kế tốt. Paraphrase: \"exhibitions\" = \"displays\"." },
+          { "id": 24, "question": "What does Polly recommend to people making a similar journey?", "options": ["carry lots of warm clothes", "pack a game to play", "buy a very secure suitcase"], "correct": 1, "explanation": "Đáp án B chính xác vì \"Take a chess set or cards\". Giải thích: mang trò chơi để giải trí. Paraphrase: \"chess set or cards\" = \"a game\"." },
+          { "id": 25, "question": "Polly thinks the best holidays are those that", "options": ["allow you the opportunity to relax", "offer you lots of different experiences", "give you the chance to change your plans"], "correct": 1, "explanation": "Đáp án B chính xác vì \"have variety ... not doing the same thing every day.\" Giải thích: kỳ nghỉ tốt nhất có sự đa dạng. Paraphrase: \"have variety\" = \"lots of different experiences\"." }
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "testId": "PET_WRITING_002",
+    "testTitle": "PET Writing - Richmond Test 2",
+    "parts": [
+      {
+        "part": 1,
+        "type": "mandatory",
+        "title": "Part 1: Email",
+        "wordCount": "about 100 words",
+        "instruction": "Read this email from your English-speaking friend Jamie, and the notes you have made.",
+        "content": {
+          "from": "Jamie",
+          "subject": "New sports centre",
+          "emailBody": "Hi!\nI hope you're still able to come with me to try classes at the new sports centre next Tuesday.\nWe can easily walk to the sports centre from where you live. Shall I come and meet you at your house? We can walk there together.\nThe two classes we could choose from are badminton and yoga. Which would you prefer to go to?\nWhat would you like to do after the class?\nSee you soon\nJamie",
+          "notes": ["Yes!", "No, because...", "Suggest..."]
+        },
+        "image": ""
+      },
+      {
+        "part": 2,
+        "type": "choice",
+        "title": "Part 2: Article or Story",
+        "wordCount": "about 100 words",
+        "options": [
+          {
+            "id": "q2",
+            "label": "Question 2 (Article)",
+            "instruction": "You see this notice on an English-language website for young people.",
+            "prompt": "Articles wanted!\nAN EXCITING PLACE TO VISIT\nWhat is the most exciting place to visit near where you live?\nWhy is it so exciting?\nWhat is the best time of year to visit this place?\nWrite an article answering these questions and we'll put it on our website!"
+          },
+          {
+            "id": "q3",
+            "label": "Question 3 (Story)",
+            "instruction": "Your English teacher has asked you to write a story. Your story must begin with this sentence:",
+            "prompt": "As I began to open the large wooden box, something inside it moved."
+          }
+        ]
+      }
+    ]
+  }
+}
