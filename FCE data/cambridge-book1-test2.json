@@ -1,0 +1,13 @@
+{
+  "testId": "book1-test2",
+  "title": "BOOK 1 - TEST 2",
+  "timeLimit": 80,
+  "writing": {
+    "part1": {
+      "htmlContent": "<div class='font-sans text-gray-800'><p class='font-bold mb-4 text-xl'>Part 1</p><p class='mb-4'>You <strong>must</strong> answer this question. Write your answer in <strong>140–190</strong> words in an appropriate style.</p><p class='mb-4'><strong>1</strong> [ĐIỀN_LỜI_DẪN_TÌNH_HUỐNG_VÀO_ĐÂY]</p><p class='mb-4'>Write an essay using <strong>all</strong> the notes and give reasons for your point of view.</p><div class='border-2 border-gray-400 rounded-md p-6 bg-white shadow-sm mx-auto max-w-xl'><p class='text-center font-bold text-lg mb-6'>[ĐIỀN_CÂU_HỎI_CHÍNH_CỦA_ESSAY_VÀO_ĐÂY]</p><p class='font-bold text-lg mb-2'>Notes</p><p class='mb-4'>Write about:</p><ol class='list-none pl-2 space-y-2 font-semibold'><li>1. [ĐIỀN_GỢI_Ý_1]</li><li>2. [ĐIỀN_GỢI_Ý_2]</li><li>3. ...(your own idea)</li></ol></div></div>"
+    },
+    "part2": {
+      "htmlContent": "<div class='font-sans text-gray-800'><p class='font-bold mb-4 text-xl'>Part 2</p><p class='mb-6'>Write an answer to <strong>one</strong> of the questions <strong>2–4</strong> in this part. Write your answer in <strong>140–190</strong> words in an appropriate style.</p><div class='mb-8'><p class='mb-2'><strong>2</strong> [ĐIỀN_NỘI_DUNG_ĐỀ_SỐ_2_VÀO_ĐÂY]</p></div><div class='mb-8'><p class='mb-2'><strong>3</strong> [ĐIỀN_NỘI_DUNG_ĐỀ_SỐ_3_VÀO_ĐÂY]</p></div><div class='mb-4'><p class='mb-2'><strong>4</strong> [ĐIỀN_NỘI_DUNG_ĐỀ_SỐ_4_VÀO_ĐÂY]</p></div></div>"
+    }
+  }
+}
