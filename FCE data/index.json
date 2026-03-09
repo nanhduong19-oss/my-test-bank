@@ -33,5 +33,27 @@
     "testName": "TEST 1",
     "dataFile": "FCE data/cambridge-book2-test1.json",
     "status": "ready"
+  },
+  {
+    "id": "book2-test2",
+    "bookName": "BOOK 2",
+    "testName": "TEST 2",
+    "dataFile": "FCE data/cambridge-book2-test2.json",
+    "status": "ready"
+  },
+  {
+    "id": "book2-test3",
+    "bookName": "BOOK 2",
+    "testName": "TEST 3",
+    "dataFile": "FCE data/cambridge-book2-test3.json",
+    "status": "ready"
+  },
+  {
+    "id": "book2-test4",
+    "bookName": "BOOK 2",
+    "testName": "TEST 4",
+    "dataFile": "FCE data/cambridge-book2-test2.json",
+    "status": "ready"
   }
+  
 ]
