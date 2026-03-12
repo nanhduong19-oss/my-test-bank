@@ -14,7 +14,7 @@
     ]
   },
   "content": {
-    "reading_uoe": {
+    "reading": {
       "metadata": {
         "testId": "B2FS4-T01",
         "testName": "B2 First for Schools 4 - Test 1",
@@ -72,7 +72,7 @@
         },
         {
           "part": 2,
-          "section": "use-of-english",
+          "section": "useOfEnglish",
           "title": "Part 2 - Open cloze",
           "instruction": "For questions 9-16, read the text below and think of the word which best fits each gap. Use only one word in each gap.",
           "media": { "format": "blocks", "blocks": [ { "type": "title", "text": "The amazing Atacama Desert" } ] },
@@ -90,7 +90,7 @@
         },
         {
           "part": 3,
-          "section": "use-of-english",
+          "section": "useOfEnglish",
           "title": "Part 3 - Word formation",
           "instruction": "For questions 17-24, use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. Write your answers IN CAPITAL LETTERS.",
           "media": {
@@ -120,7 +120,7 @@
         },
         {
           "part": 4,
-          "section": "use-of-english",
+          "section": "useOfEnglish",
           "title": "Part 4 - Key word transformations",
           "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Use 2-5 words including the word given.",
           "reviewPolicy": { "showExplanation": "afterSubmit", "showTranscript": "never" },
