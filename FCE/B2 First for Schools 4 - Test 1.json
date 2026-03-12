@@ -8,7 +8,10 @@
     "source": "Cambridge B2 First for Schools",
     "createdAt": "2026-03-12",
     "language": "en",
-    "explanationsLanguageOrder": ["en", "vi"]
+    "explanationsLanguageOrder": [
+      "en",
+      "vi"
+    ]
   },
   "content": {
     "reading_uoe": {
@@ -67,7 +70,6 @@
             { "id": "B2FS4-T01-RU-P1-Q08", "displayNumber": 8, "type": "multiple-choice", "text": "This would (8) ____ to a reduction ...", "options": { "A": "bring", "B": "come", "C": "lead", "D": "arrive" }, "correctAnswer": "C", "explanation": { "en": "TODO", "vi": "TODO" } }
           ]
         },
-
         {
           "part": 2,
           "section": "use-of-english",
@@ -86,50 +88,36 @@
             { "id": "B2FS4-T01-RU-P2-Q16", "displayNumber": 16, "type": "fill-in-blank", "text": "... eager (16) ____ enjoy ...", "correctAnswer": "TO", "accepted": ["TO"], "explanation": { "en": "TODO", "vi": "TODO" } }
           ]
         },
-
         {
           "part": 3,
-    "section": "useOfEnglish",
-    "title": "Part 3 - Word formation",
-    "instruction": "For questions 17-24, use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. Write your answers IN CAPITAL LETTERS.",
-    "media": {
-      "format": "blocks",
-      "blocks": [
-        {
-          "type": "title",
-          "text": "Important helium gas discovery"
-        },
-        {
-          "type": "paragraph",
-          "segments": [
-            { "t": "text", "v": "Helium is a gas which is very important for the running of major (0) <b>SCIENTIFIC</b> facilities. It is also used in medical equipment like brain scanners." },
-            { "t": "text", "v": "\n\nPeople use it for their (17) " },
-            { "t": "gap", "gapId": 17, "label": "(17)" },
-            { "t": "text", "v": " too, filling party balloons with it so they float in the air. [AMUSE]" },
-            { "t": "text", "v": "\n\nIt is found (18) " },
-            { "t": "gap", "gapId": 18, "label": "(18)" },
-            { "t": "text", "v": " inside rocks, and until recently, helium was only ever discovered (19) " },
-            { "t": "gap", "gapId": 19, "label": "(19)" },
-            { "t": "text", "v": " and in small quantities. [GROUND / ACCIDENT]" },
-            { "t": "text", "v": "\n\nThere was such (20) " },
-            { "t": "gap", "gapId": 20, "label": "(20)" },
-            { "t": "text", "v": " among doctors over the steady decline in reserves that they called for a ban on its use in party balloons in order to help prevent a global (21) " },
-            { "t": "gap", "gapId": 21, "label": "(21)" },
-            { "t": "text", "v": " of the precious gas. [ANXIOUS / SHORT]" },
-            { "t": "text", "v": "\n\nThe discovery of a vast reserve of helium in east Africa in 2016, therefore, came as a great (22) " },
-            { "t": "gap", "gapId": 22, "label": "(22)" },
-            { "t": "text", "v": ". [RELIEVE]" },
-            { "t": "text", "v": "\n\nThe store of helium found contains approximately 1.5 billion litres of the gas, (23) " },
-            { "t": "gap", "gapId": 23, "label": "(23)" },
-            { "t": "text", "v": " have said. [RESEARCH]" },
-            { "t": "text", "v": "\n\nA team from the UK and Norway made this significant find after applying techniques normally used in the (24) " },
-            { "t": "gap", "gapId": 24, "label": "(24)" },
-            { "t": "text", "v": " of oil and gas. [EXPLORE]" }
+          "section": "use-of-english",
+          "title": "Part 3 - Word formation",
+          "instruction": "For questions 17-24, use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. Write your answers IN CAPITAL LETTERS.",
+          "media": {
+            "format": "blocks",
+            "blocks": [
+              { "type": "title", "text": "Important helium gas discovery" },
+              { "type": "paragraph", "segments": [ { "t": "text", "v": "Helium is a gas which is very important for the running of major (0) SCIENTIFIC facilities. It is also used in medical equipment like brain scanners." } ] },
+              { "type": "paragraph", "segments": [ { "t": "text", "v": "People use it for their (17) " }, { "t": "gap", "gapId": 17, "label": "(17)" }, { "t": "text", "v": " too, filling party balloons with it so they float in the air. [AMUSE]" } ] },
+              { "type": "paragraph", "segments": [ { "t": "text", "v": "It is found (18) " }, { "t": "gap", "gapId": 18, "label": "(18)" }, { "t": "text", "v": " inside rocks, and until recently, helium was only ever discovered (19) " }, { "t": "gap", "gapId": 19, "label": "(19)" }, { "t": "text", "v": " and in small quantities. [GROUND / ACCIDENT]" } ] },
+              { "type": "paragraph", "segments": [ { "t": "text", "v": "There was such (20) " }, { "t": "gap", "gapId": 20, "label": "(20)" }, { "t": "text", "v": " among doctors over the steady decline in reserves that they called for a ban on its use in party balloons in order to help prevent a global (21) " }, { "t": "gap", "gapId": 21, "label": "(21)" }, { "t": "text", "v": " of the precious gas. [ANXIOUS / SHORT]" } ] },
+              { "type": "paragraph", "segments": [ { "t": "text", "v": "The discovery of a vast reserve of helium in east Africa in 2016, therefore, came as a great (22) " }, { "t": "gap", "gapId": 22, "label": "(22)" }, { "t": "text", "v": ". [RELIEVE]" } ] },
+              { "type": "paragraph", "segments": [ { "t": "text", "v": "The store of helium found contains approximately 1.5 billion litres of the gas, (23) " }, { "t": "gap", "gapId": 23, "label": "(23)" }, { "t": "text", "v": " have said. [RESEARCH]" } ] },
+              { "type": "paragraph", "segments": [ { "t": "text", "v": "A team from the UK and Norway made this significant find after applying techniques normally used in the (24) " }, { "t": "gap", "gapId": 24, "label": "(24)" }, { "t": "text", "v": " of oil and gas. [EXPLORE]" } ] }
+            ]
+          },
+          "reviewPolicy": { "showExplanation": "afterSubmit", "showTranscript": "never" },
+          "questions": [
+            { "id": "B2FS4-T01-RU-P3-Q17", "displayNumber": 17, "type": "word-formation", "text": "People use it for their (17) ____ too ...", "wordGiven": "AMUSE", "correctAnswer": "AMUSEMENT", "explanation": { "en": "Key sentence: \"People use it for their ____ too\".\nCorrect: AMUSEMENT (noun) = entertainment/fun.\nGrammar clue: possessive \"their\" needs a noun.\nWord formation: AMUSE (verb) -> AMUSEMENT (noun).\nKey takeaway: after \"their\", choose a noun; common suffix: -ment.", "vi": "Câu khóa: \"People use it for their ____ too\".\nĐáp án đúng: AMUSEMENT (danh từ) = sự giải trí/niềm vui.\nDấu hiệu ngữ pháp: sau \"their\" cần danh từ.\nBiến đổi từ: AMUSE (động từ) -> AMUSEMENT (danh từ).\nKey takeaway: sau \"their\" thường là danh từ; hậu tố -ment rất hay gặp." } },
+            { "id": "B2FS4-T01-RU-P3-Q18", "displayNumber": 18, "type": "word-formation", "text": "It is found (18) ____ inside rocks ...", "wordGiven": "GROUND", "correctAnswer": "UNDERGROUND", "explanation": { "en": "Key phrase: \"found ____ inside rocks\".\nCorrect: UNDERGROUND = below the surface.\nMeaning: underground (adj/adv) = dưới lòng đất.\nFormation: UNDER + GROUND.\nKey takeaway: location under the earth -> underground.", "vi": "Cụm khóa: \"found ____ inside rocks\".\nĐáp án đúng: UNDERGROUND = dưới lòng đất.\nNghĩa: underground = ở dưới mặt đất.\nCấu tạo: UNDER + GROUND.\nKey takeaway: nói về vị trí dưới đất -> underground." } },
+            { "id": "B2FS4-T01-RU-P3-Q19", "displayNumber": 19, "type": "word-formation", "text": "... helium was only ever discovered (19) ____ ...", "wordGiven": "ACCIDENT", "correctAnswer": "ACCIDENTALLY", "explanation": { "en": "Key phrase: \"discovered ____\".\nCorrect: ACCIDENTALLY (adverb) = by chance.\nGrammar clue: adverb modifies the verb \"discovered\".\nFormation: accident (n) -> accidental (adj) -> accidentally (adv).\nKey takeaway: verb + adverb pattern in Part 3.", "vi": "Cụm khóa: \"discovered ____\".\nĐáp án đúng: ACCIDENTALLY (trạng từ) = tình cờ.\nDấu hiệu ngữ pháp: trạng từ bổ nghĩa cho động từ \"discovered\".\nBiến đổi: accident (n) -> accidental (adj) -> accidentally (adv).\nKey takeaway: Part 3 hay yêu cầu verb + adverb." } },
+            { "id": "B2FS4-T01-RU-P3-Q20", "displayNumber": 20, "type": "word-formation", "text": "There was such (20) ____ among doctors ...", "wordGiven": "ANXIOUS", "correctAnswer": "ANXIETY", "explanation": { "en": "Key phrase: \"such ____\".\nCorrect: ANXIETY (noun) = worry/concern.\nGrammar clue: \"such + noun\".\nFormation: anxious (adj) -> anxiety (noun).\nKey takeaway: structure \"such + noun\" is a strong signal.", "vi": "Cụm khóa: \"such ____\".\nĐáp án đúng: ANXIETY (danh từ) = sự lo lắng.\nDấu hiệu ngữ pháp: \"such + danh từ\".\nBiến đổi: anxious (adj) -> anxiety (n).\nKey takeaway: gặp \"such\" thường cần danh từ." } },
+            { "id": "B2FS4-T01-RU-P3-Q21", "displayNumber": 21, "type": "word-formation", "text": "... prevent a global (21) ____ of the precious gas.", "wordGiven": "SHORT", "correctAnswer": "SHORTAGE", "explanation": { "en": "Key phrase: \"a ____ of\".\nCorrect: SHORTAGE (noun) = not enough supply.\nCollocation: a shortage of + noun.\nFormation: short (adj) -> shortage (n).\nKey takeaway: learn the fixed collocation \"a shortage of\".", "vi": "Cụm khóa: \"a ____ of\".\nĐáp án đúng: SHORTAGE (danh từ) = sự thiếu hụt.\nCollocation: a shortage of + danh từ.\nBiến đổi: short (adj) -> shortage (n).\nKey takeaway: ghi nhớ cụm \"a shortage of\"." } },
+            { "id": "B2FS4-T01-RU-P3-Q22", "displayNumber": 22, "type": "word-formation", "text": "... came as a great (22) ____.", "wordGiven": "RELIEVE", "correctAnswer": "RELIEF", "explanation": { "en": "Key phrase: \"come as a relief\".\nCorrect: RELIEF (noun) = a feeling of comfort after worry.\nFormation: relieve (v) -> relief (n).\nWhy this form: the article uses \"a great ____\" -> needs a noun.\nKey takeaway: memorise \"come as a relief\".", "vi": "Cụm khóa: \"come as a relief\".\nĐáp án đúng: RELIEF (danh từ) = sự nhẹ nhõm.\nBiến đổi: relieve (v) -> relief (n).\nVì sao chọn dạng này: \"a great ____\" cần danh từ.\nKey takeaway: học thuộc cụm \"come as a relief\"." } },
+            { "id": "B2FS4-T01-RU-P3-Q23", "displayNumber": 23, "type": "word-formation", "text": "... (23) ____ have said.", "wordGiven": "RESEARCH", "correctAnswer": "RESEARCHERS", "explanation": { "en": "Key phrase: \"____ have said\".\nCorrect: RESEARCHERS (plural noun).\nGrammar clue: \"have said\" requires a plural subject.\nMeaning: researchers = các nhà nghiên cứu.\nFormation: research + -er -> researcher; plural -s.\nKey takeaway: always check verb agreement (have -> plural).", "vi": "Cụm khóa: \"____ have said\".\nĐáp án đúng: RESEARCHERS (danh từ số nhiều) = các nhà nghiên cứu.\nDấu hiệu ngữ pháp: \"have said\" cần chủ ngữ số nhiều.\nBiến đổi: research + -er -> researcher; thêm -s.\nKey takeaway: kiểm tra hòa hợp chủ-động từ (have -> plural)." } },
+            { "id": "B2FS4-T01-RU-P3-Q24", "displayNumber": 24, "type": "word-formation", "text": "... used in the (24) ____ of oil and gas.", "wordGiven": "EXPLORE", "correctAnswer": "EXPLORATION", "explanation": { "en": "Key phrase: \"the ____ of oil and gas\".\nCorrect: EXPLORATION (noun) = the process of searching for resources.\nCollocation: exploration of oil and gas.\nFormation: explore (v) -> exploration (n).\nKey takeaway: \"the + noun + of\" pattern frequently appears in Part 3.", "vi": "Cụm khóa: \"the ____ of oil and gas\".\nĐáp án đúng: EXPLORATION (danh từ) = sự thăm dò/khai thác tìm kiếm.\nCollocation: exploration of oil and gas.\nBiến đổi: explore (v) -> exploration (n).\nKey takeaway: mẫu \"the + danh từ + of\" xuất hiện nhiều ở Part 3." } }
           ]
-        }
-      ]
         },
-
         {
           "part": 4,
           "section": "use-of-english",
@@ -145,7 +133,6 @@
             { "id": "B2FS4-T01-RU-P4-Q30", "displayNumber": 30, "type": "key-word-transformation", "keyword": "DETERMINED", "sentence1": "‘I’m not going to miss my best friend’s party!’ Mary told her mother.", "sentence2Template": "Mary told her mother that she __________________________ to her best friend’s party.", "scoring": { "fullPoints": 2, "partialPieces": [ { "points": 1, "accepted": ["WAS DETERMINED"] }, { "points": 1, "accepted": ["SHE WOULD GO", "SHE’D GO", "TO GO"] } ] }, "acceptedFull": ["WAS DETERMINED SHE WOULD GO", "WAS DETERMINED SHE’D GO", "WAS DETERMINED TO GO"], "explanation": { "en": "TODO", "vi": "TODO" } }
           ]
         },
-
         {
           "part": 5,
           "section": "reading",
@@ -162,7 +149,6 @@
             { "id": "B2FS4-T01-RU-P5-Q36", "displayNumber": 36, "type": "multiple-choice", "text": "When Harry returned to the slopes after his indoor training, he ...", "options": { "A": "managed several surprisingly competent jumps.", "B": "became convinced perfect jumps were impossible to achieve.", "C": "got into difficulty after managing a good jump.", "D": "suffered a loss of confidence before his last jump." }, "correctAnswer": "C", "explanation": { "en": "TODO", "vi": "TODO" } }
           ]
         },
-
         {
           "part": 6,
           "section": "reading",
@@ -180,48 +166,66 @@
             { "id": "B2FS4-T01-RU-P6-Q42", "displayNumber": 42, "type": "multiple-choice", "text": "Gap 42", "options": { "A": "A", "B": "B", "C": "C", "D": "D", "E": "E", "F": "F", "G": "G" }, "correctAnswer": "A", "explanation": { "en": "TODO", "vi": "TODO" } }
           ]
         },
-
         {
           "part": 7,
-    "section": "reading",
-    "title": "Part 7 - Multiple matching",
-    "instruction": "For questions 43-52, choose from the sections (A-D). The sections may be chosen more than once.",
-    "media": {
-      "format": "blocks",
-      "blocks": [
-        { "type": "title", "text": "How physical exercise makes your brain work better" },
-        { "type": "sectionHeader", "key": "A", "text": "Section A" },
-        { "type": "paragraph", "segments": [{ "t": "text", "v": "The brain is often described as being like a muscle, however, this may not always be a helpful way... [Section A Content]" }] },
-        { "type": "sectionHeader", "key": "B", "text": "Section B" },
-        { "type": "paragraph", "segments": [{ "t": "text", "v": "It is well known that hard physical activity can have a positive effect... [Section B Content]" }] },
-        { "type": "sectionHeader", "key": "C", "text": "Section C" },
-        { "type": "paragraph", "segments": [{ "t": "text", "v": "As well as slowly improving your memory... [Section C Content]" }] },
-        { "type": "sectionHeader", "key": "D", "text": "Section D" },
-        { "type": "paragraph", "segments": [{ "t": "text", "v": "And you may not have to get out of breath... [Section D Content]" }] }
+          "section": "reading",
+          "title": "Part 7 - Multiple matching",
+          "instruction": "For questions 43-52, choose from the sections (A-D). The sections may be chosen more than once.",
+          "media": {
+            "format": "blocks",
+            "blocks": [
+              { "type": "title", "text": "How physical exercise makes your brain work better" },
+              { "type": "sectionHeader", "key": "A", "text": "Section A" },
+              { "type": "paragraph", "segments": [{ "t": "text", "v": "The brain is often described as being like a muscle, however, this may not always be a helpful way... [Section A Content]" }] },
+              { "type": "sectionHeader", "key": "B", "text": "Section B" },
+              { "type": "paragraph", "segments": [{ "t": "text", "v": "It is well known that hard physical activity can have a positive effect... [Section B Content]" }] },
+              { "type": "sectionHeader", "key": "C", "text": "Section C" },
+              { "type": "paragraph", "segments": [{ "t": "text", "v": "As well as slowly improving your memory... [Section C Content]" }] },
+              { "type": "sectionHeader", "key": "D", "text": "Section D" },
+              { "type": "paragraph", "segments": [{ "t": "text", "v": "And you may not have to get out of breath... [Section D Content]" }] }
+            ]
+          },
+          "questions": [
+            { "id": "B2FS4-T01-RU-P7-Q43", "displayNumber": 43, "type": "matching", "text": "warn that exercising may have the opposite effect to that intended?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "C" },
+            { "id": "B2FS4-T01-RU-P7-Q44", "displayNumber": 44, "type": "matching", "text": "mention an increase in the size of something as the result of exercise?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "B" },
+            { "id": "B2FS4-T01-RU-P7-Q45", "displayNumber": 45, "type": "matching", "text": "say even very gentle exercise can have a positive impact?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "D" },
+            { "id": "B2FS4-T01-RU-P7-Q46", "displayNumber": 46, "type": "matching", "text": "explain why a comparison is a little misleading?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "A" },
+            { "id": "B2FS4-T01-RU-P7-Q47", "displayNumber": 47, "type": "matching", "text": "give an example of an improvement in students’ ability to focus?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "C" },
+            { "id": "B2FS4-T01-RU-P7-Q48", "displayNumber": 48, "type": "matching", "text": "say what many people believed about the benefits of exercise has been proved correct?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "D" },
+            { "id": "B2FS4-T01-RU-P7-Q49", "displayNumber": 49, "type": "matching", "text": "give advice on how to recall information more effectively?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "C" },
+            { "id": "B2FS4-T01-RU-P7-Q50", "displayNumber": 50, "type": "matching", "text": "mention a doubt about why people sometimes experience a change of mood?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "B" },
+            { "id": "B2FS4-T01-RU-P7-Q51", "displayNumber": 51, "type": "matching", "text": "warn that a particular type of exercise may not help with problem solving?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "D" },
+            { "id": "B2FS4-T01-RU-P7-Q52", "displayNumber": 52, "type": "matching", "text": "welcome the idea of matching exercise type to particular mental challenges?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "A" }
+          ]
+        }
       ]
     },
-    "questions": [
-      { "id": "B2FS4-T01-RU-P7-Q43", "displayNumber": 43, "type": "matching", "text": "warn that exercising may have the opposite effect to that intended?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "C" },
-      { "id": "B2FS4-T01-RU-P7-Q44", "displayNumber": 44, "type": "matching", "text": "mention an increase in the size of something as the result of exercise?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "B" },
-      { "id": "B2FS4-T01-RU-P7-Q45", "displayNumber": 45, "type": "matching", "text": "say even very gentle exercise can have a positive impact?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "D" },
-      { "id": "B2FS4-T01-RU-P7-Q46", "displayNumber": 46, "type": "matching", "text": "explain why a comparison is a little misleading?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "A" },
-      { "id": "B2FS4-T01-RU-P7-Q47", "displayNumber": 47, "type": "matching", "text": "give an example of an improvement in students’ ability to focus?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "C" },
-      { "id": "B2FS4-T01-RU-P7-Q48", "displayNumber": 48, "type": "matching", "text": "say what many people believed about the benefits of exercise has been proved correct?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "D" },
-      { "id": "B2FS4-T01-RU-P7-Q49", "displayNumber": 49, "type": "matching", "text": "give advice on how to recall information more effectively?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "C" },
-      { "id": "B2FS4-T01-RU-P7-Q50", "displayNumber": 50, "type": "matching", "text": "mention a doubt about why people sometimes experience a change of mood?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "B" },
-      { "id": "B2FS4-T01-RU-P7-Q51", "displayNumber": 51, "type": "matching", "text": "warn that a particular type of exercise may not help with problem solving?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "D" },
-      { "id": "B2FS4-T01-RU-P7-Q52", "displayNumber": 52, "type": "matching", "text": "welcome the idea of matching exercise type to particular mental challenges?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "A" }
-    ]
-    },
-
     "writing": {
-      "metadata": { "paper": "Writing", "duration": "1 hour 20 minutes", "wordLimit": "140-190", "maxScore": 40, "rubric": { "Content": "0-5 (even numbers only)", "CommunicativeAchievement": "0-5 (even numbers only)", "Organisation": "0-5 (even numbers only)", "Language": "0-5 (even numbers only)" } },
+      "metadata": {
+        "paper": "Writing",
+        "duration": "1 hour 20 minutes",
+        "wordLimit": "140-190",
+        "maxScore": 40,
+        "rubric": {
+          "Content": "0-5 (even numbers only)",
+          "CommunicativeAchievement": "0-5 (even numbers only)",
+          "Organisation": "0-5 (even numbers only)",
+          "Language": "0-5 (even numbers only)"
+        }
+      },
       "parts": [
-        { "part": 1, "format": "html", "htmlContent": "<div class='font-sans text-gray-800'><p class='font-bold mb-4 text-xl'>Part 1</p><p class='mb-4'>You <strong>must</strong> answer this question. Write your answer in <strong>140-190</strong> words in an appropriate style on the separate answer sheet.</p><p class='mb-4'><strong>1</strong> In your English class you have been talking about physical appearance. Now your English teacher has asked you to write an essay.</p><p class='mb-4'>Write an essay using <strong>all</strong> the notes and giving reasons for your point of view.</p><div class='border-2 border-gray-400 rounded-md p-6 bg-white shadow-sm mx-auto max-w-xl'><p class='text-center font-bold text-lg mb-6'>'We are much too worried about how people and things look.' Do you agree?</p><p class='font-bold text-lg mb-2'>Notes</p><p class='mb-4'>Write about:</p><ol class='list-none pl-2 space-y-2 font-semibold'><li>1. being like your friends</li><li>2. the effect of celebrities</li><li>3. ...(your own idea)</li></ol></div></div>" },
-        { "part": 2, "format": "html", "htmlContent": "<div class='font-sans text-gray-800'><p class='font-bold mb-4 text-xl'>Part 2</p><p class='mb-6'>Write an answer to <strong>one</strong> of the questions <strong>2-4</strong> in this part. Write your answer in <strong>140-190</strong> words in an appropriate style on the separate answer sheet.</p><div class='mb-8'><p class='mb-2'><strong>2</strong> You receive this email from your English friend, Sam.</p><div class='border-2 border-gray-400 p-5 bg-gray-50 font-serif'><p class='mb-4'>Hi</p><p class='mb-4'>I'm visiting relatives in Scotland next week. It's a ten-hour train ride! I know that you do quite a bit of long-distance travelling.</p><p class='mb-4'>What do you take with you on a long journey? And what can I do so I don't get bored?</p><p class='mb-4'>Thanks</p><p>Sam</p></div><p class='mt-2 font-bold'>Write your email.</p></div></div>" }
+        {
+          "part": 1,
+          "format": "html",
+          "htmlContent": "<div class='font-sans text-gray-800'><p class='font-bold mb-4 text-xl'>Part 1</p><p class='mb-4'>You <strong>must</strong> answer this question. Write your answer in <strong>140-190</strong> words in an appropriate style on the separate answer sheet.</p><p class='mb-4'><strong>1</strong> In your English class you have been talking about physical appearance. Now your English teacher has asked you to write an essay.</p><p class='mb-4'>Write an essay using <strong>all</strong> the notes and giving reasons for your point of view.</p><div class='border-2 border-gray-400 rounded-md p-6 bg-white shadow-sm mx-auto max-w-xl'><p class='text-center font-bold text-lg mb-6'>'We are much too worried about how people and things look.' Do you agree?</p><p class='font-bold text-lg mb-2'>Notes</p><p class='mb-4'>Write about:</p><ol class='list-none pl-2 space-y-2 font-semibold'><li>1. being like your friends</li><li>2. the effect of celebrities</li><li>3. ...(your own idea)</li></ol></div></div>"
+        },
+        {
+          "part": 2,
+          "format": "html",
+          "htmlContent": "<div class='font-sans text-gray-800'><p class='font-bold mb-4 text-xl'>Part 2</p><p class='mb-6'>Write an answer to <strong>one</strong> of the questions <strong>2-4</strong> in this part. Write your answer in <strong>140-190</strong> words in an appropriate style on the separate answer sheet.</p><div class='mb-8'><p class='mb-2'><strong>2</strong> You receive this email from your English friend, Sam.</p><div class='border-2 border-gray-400 p-5 bg-gray-50 font-serif'><p class='mb-4'>Hi</p><p class='mb-4'>I'm visiting relatives in Scotland next week. It's a ten-hour train ride! I know that you do quite a bit of long-distance travelling.</p><p class='mb-4'>What do you take with you on a long journey? And what can I do so I don't get bored?</p><p class='mb-4'>Thanks</p><p>Sam</p></div><p class='mt-2 font-bold'>Write your email.</p></div></div>"
+        }
       ]
     },
-
     "listening": {
       "metadata": {
         "paper": "Listening",
@@ -251,11 +255,10 @@
             { "id": "B2FS4-T01-L-P1-Q04", "displayNumber": 4, "type": "multiple-choice", "text": "You hear a teacher talking to his class after a discussion on space exploration. What is he doing?", "options": { "A": "challenging his students’ point of view", "B": "asking his students to support their argument", "C": "praising his students for reaching agreement" }, "correctAnswer": "A", "explanation": { "en": "Key quote: \"That makes sense on the face of it ... But of course ... lack of resources ... Therefore ... worthwhile in the long run.\"\nWhy A: He acknowledges their argument then counters it with a different perspective (resources/minerals), i.e., challenges their view.\nWhy not B: He doesn’t ask for evidence; he provides his own counter-argument.\nWhy not C: He says they had a good discussion, but the purpose is to change/extend their thinking, not praise agreement.\nKey takeaway: \"But of course... therefore\" often signals the speaker is challenging an earlier opinion.", "vi": "Câu khóa: \"makes sense... But of course... Therefore... worthwhile\".\nVì sao A đúng: thầy công nhận ý kiến học sinh rồi đưa lập luận phản biện -> đang thách thức/điều chỉnh quan điểm.\nVì sao không chọn B: thầy không yêu cầu học sinh đưa bằng chứng; thầy tự nêu lý do phản biện.\nVì sao không chọn C: có khen thảo luận tốt nhưng mục tiêu là phản biện, không phải khen đạt đồng thuận.\nKey takeaway: mẫu \"But... therefore\" thường là dấu hiệu phản biện." } },
             { "id": "B2FS4-T01-L-P1-Q05", "displayNumber": 5, "type": "multiple-choice", "text": "You hear two friends talking about a riverboat trip they’ve been on. What do they both think made it worthwhile?", "options": { "A": "the information provided", "B": "the music on board", "C": "the views of the city" }, "correctAnswer": "A", "explanation": { "en": "Key quote: Girl: \"What I didn’t get last time was an explanation ... I appreciated that.\" Boy: \"commentaries ... it added something.\"\nWhy A: Both refer to explanation/commentary = information provided.\nWhy not B: Only the girl likes the music; the boy says it didn’t make a difference.\nWhy not C: Views are mentioned, but not as the shared reason for being worthwhile; their shared point is the commentary.\nKey takeaway: Find the overlap - the same idea said by both speakers.", "vi": "Câu khóa: \"explanation\" (cô gái) và \"commentaries ... added something\" (cậu bé).\nVì sao A đúng: cả hai đều đánh giá cao phần thuyết minh/thông tin.\nVì sao không chọn B: chỉ cô gái thấy music “cool”; cậu bé nói không khác biệt.\nVì sao không chọn C: views có nhắc nhưng điểm chung họ cùng đồng ý là phần thuyết minh.\nKey takeaway: đáp án đúng là phần giao nhau trong ý của 2 người." } },
             { "id": "B2FS4-T01-L-P1-Q06", "displayNumber": 6, "type": "multiple-choice", "text": "You hear a boy talking about working as a volunteer in a nature reserve. What did he feel about the experience?", "options": { "A": "surprised by how rewarding he found it", "B": "disappointed that he couldn’t choose what to do", "C": "pleased that he could show how much he knew" }, "correctAnswer": "A", "explanation": { "en": "Key quote: \"gardening ... pretty dull\" -> \"It turned out ... I actually managed to make a difference ... it was cool\".\nWhy A: He expected it to be dull but found it rewarding (making a difference).\nWhy not B: He notes he was given jobs, but the ending is positive and focuses on impact, not disappointment.\nWhy not C: He mentions he was keen to tell people what he learnt, but the main feeling is satisfaction from results.\nKey takeaway: Look for contrast markers like \"It turned out\" to identify changed feelings.", "vi": "Câu khóa: nghĩ gardening “dull” nhưng \"It turned out ... make a difference ... cool\".\nVì sao A đúng: bất ngờ vì trải nghiệm hóa ra rất đáng giá.\nVì sao không chọn B: dù không chọn được việc, cảm xúc kết là tích cực (tạo ra khác biệt), không phải thất vọng.\nVì sao không chọn C: có nhắc muốn chia sẻ hiểu biết, nhưng trọng tâm là hài lòng vì kết quả công việc.\nKey takeaway: \"It turned out\" thường báo hiệu cảm xúc thay đổi." } },
-            { "id": "B2FS4-T01-L-P1-Q07", "displayNumber": 7, "type": "multiple-choice", "text": "You hear a radio news item about National Ice Cream Month in the USA. What is one ice cream company doing to mark the event?", "options": { "A": "designing stamps with illustrations of ice cream on them", "B": "manufacturing a range of ice cream with fewer calories", "C": "introducing some different varieties of ice cream" }, "correctAnswer": "C", "explanation": { "en": "TODO: Script for Question 7 is not included yet, so key-quote and option elimination cannot be generated reliably without guessing.", "vi": "TODO: Chưa có script của câu 7 trong dataset hiện tại nên không thể trích dẫn key quote và loại đáp án một cách chính xác." } },
-            { "id": "B2FS4-T01-L-P1-Q08", "displayNumber": 8, "type": "multiple-choice", "text": "You hear a girl talking about a science project she did at school. What does she say about the project?", "options": { "A": "It helped her with other studies.", "B": "It was interesting to take part in.", "C": "It took too long to set up." }, "correctAnswer": "A", "explanation": { "en": "TODO: Script for Question 8 is not included yet, so key-quote and option elimination cannot be generated reliably without guessing.", "vi": "TODO: Chưa có script của câu 8 trong dataset hiện tại nên không thể trích dẫn key quote và loại đáp án một cách chính xác." } }
+            { "id": "B2FS4-T01-L-P1-Q07", "displayNumber": 7, "type": "multiple-choice", "text": "You hear a radio news item about National Ice Cream Month in the USA. What is one ice cream company doing to mark the event?", "options": { "A": "designing stamps with illustrations of ice cream on them", "B": "manufacturing a range of ice cream with fewer calories", "C": "introducing some different varieties of ice cream" }, "correctAnswer": "C", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-L-P1-Q08", "displayNumber": 8, "type": "multiple-choice", "text": "You hear a girl talking about a science project she did at school. What does she say about the project?", "options": { "A": "It helped her with other studies.", "B": "It was interesting to take part in.", "C": "It took too long to set up." }, "correctAnswer": "A", "explanation": { "en": "TODO", "vi": "TODO" } }
           ]
         },
-
         {
           "part": 2,
           "title": "Part 2 - Sentence completion",
@@ -274,93 +277,10 @@
             { "id": "B2FS4-T01-L-P2-Q14", "displayNumber": 14, "type": "fill-in-blank", "text": "Ben’s models are glued together to prevent them from being broken when (14) ______ touch them.", "correctAnswer": "VISITORS", "accepted": ["VISITORS", "VISITOR"], "explanation": { "en": "Key quote: \"they do get a lot of handling by visitors\".\nWhy correct: visitors are the ones handling the models.\nKey takeaway: The noun after ‘by’ often names the actor.", "vi": "Câu khóa: \"handling by visitors\".\nVì sao đúng: visitors là người chạm/đụng vào.\nKey takeaway: sau ‘by’ thường là chủ thể thực hiện hành động." } },
             { "id": "B2FS4-T01-L-P2-Q15", "displayNumber": 15, "type": "fill-in-blank", "text": "Ben particularly enjoys working on the (15) ______ that will accompany a moving model.", "correctAnswer": "SOUNDS", "accepted": ["SOUNDS", "SOUND"], "explanation": { "en": "Key quote: \"I create the sounds the model will make - that’s the most thrilling bit for me\".\nWhy correct: he says sounds are the most enjoyable part.\nKey takeaway: If the speaker says ‘most thrilling’, it usually answers ‘particularly enjoys’.", "vi": "Câu khóa: \"create the sounds ... most thrilling\".\nVì sao đúng: sounds là phần cậu thích nhất.\nKey takeaway: ‘most thrilling’ thường tương ứng với ‘particularly enjoys’." } },
             { "id": "B2FS4-T01-L-P2-Q16", "displayNumber": 16, "type": "fill-in-blank", "text": "Ben recalls that he had to climb into a huge model of a (16) ______ to make it secure.", "correctAnswer": "DINOSAUR", "accepted": ["DINOSAUR"], "explanation": { "en": "Key quote: \"another of a dinosaur was tricky ... tightening screws from the inside\".\nWhy correct: he worked inside the dinosaur model.\nKey takeaway: Listen for ‘from the inside’ to match ‘climb into’.", "vi": "Câu khóa: \"a dinosaur ... from the inside\".\nVì sao đúng: phải xử lý bên trong mô hình dinosaur.\nKey takeaway: cụm ‘from the inside’ khớp với ‘climb into’." } },
-            { "id": "B2FS4-T01-L-P2-Q17", "displayNumber": 17, "type": "fill-in-blank", "text": "Ben’s next job will be to construct a model of a (17) ______ from bricks.", "correctAnswer": "FOOTBALL STADIUM", "accepted": ["FOOTBALL STADIUM", "STADIUM"], "explanation": { "en": "TODO: The exact ‘next job’ line is not fully included in the truncated Part 2 transcript above. Confirm by adding the full Part 2 script to generate a quote-based explanation.", "vi": "TODO: Trong transcript Part 2 hiện tại bị cắt nên thiếu câu nói về ‘next job’. Cần bổ sung full script Part 2 để trích dẫn và giải thích chuẩn." } },
-            { "id": "B2FS4-T01-L-P2-Q18", "displayNumber": 18, "type": "fill-in-blank", "text": "Before making a model of a building, Ben has to visit it to get the correct (18) ______ of the place.", "correctAnswer": "DIMENSIONS", "accepted": ["DIMENSIONS", "DIMENSION"], "explanation": { "en": "TODO: The exact ‘visit it to get the correct ...’ line is not fully included in the truncated Part 2 transcript above. Add the full Part 2 script to quote and eliminate alternatives precisely.", "vi": "TODO: Transcript Part 2 hiện bị cắt nên thiếu câu chứa ‘visit it ... correct ...’. Cần bổ sung full script Part 2 để trích dẫn chính xác và loại đáp án." } }
+            { "id": "B2FS4-T01-L-P2-Q17", "displayNumber": 17, "type": "fill-in-blank", "text": "Ben’s next job will be to construct a model of a (17) ______ from bricks.", "correctAnswer": "FOOTBALL STADIUM", "accepted": ["FOOTBALL STADIUM", "STADIUM"], "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-L-P2-Q18", "displayNumber": 18, "type": "fill-in-blank", "text": "Before making a model of a building, Ben has to visit it to get the correct (18) ______ of the place.", "correctAnswer": "DIMENSIONS", "accepted": ["DIMENSIONS", "DIMENSION"], "explanation": { "en": "TODO", "vi": "TODO" } }
           ]
         },
-
-        {
-          "part": 3,
-  "section": "use-of-english",
-  "title": "Part 3 - Word formation",
-  "instruction": "For questions 17-24, use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. Write your answers IN CAPITAL LETTERS.",
-  "media": {
-    "format": "blocks",
-    "blocks": [
-      { "type": "title", "text": "Important helium gas discovery" },
-      {
-        "type": "paragraph",
-        "segments": [
-          { "t": "text", "v": "Helium is a gas which is very important for the running of major (0) SCIENTIFIC facilities. It is also used in medical equipment like brain scanners." }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "segments": [
-          { "t": "text", "v": "People use it for their (17) " },
-          { "t": "gap", "gapId": 17, "label": "(17)" },
-          { "t": "text", "v": " too, filling party balloons with it so they float in the air. [AMUSE]" }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "segments": [
-          { "t": "text", "v": "It is found (18) " },
-          { "t": "gap", "gapId": 18, "label": "(18)" },
-          { "t": "text", "v": " inside rocks, and until recently, helium was only ever discovered (19) " },
-          { "t": "gap", "gapId": 19, "label": "(19)" },
-          { "t": "text", "v": " and in small quantities. [GROUND / ACCIDENT]" }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "segments": [
-          { "t": "text", "v": "There was such (20) " },
-          { "t": "gap", "gapId": 20, "label": "(20)" },
-          { "t": "text", "v": " among doctors over the steady decline in reserves that they called for a ban on its use in party balloons in order to help prevent a global (21) " },
-          { "t": "gap", "gapId": 21, "label": "(21)" },
-          { "t": "text", "v": " of the precious gas. [ANXIOUS / SHORT]" }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "segments": [
-          { "t": "text", "v": "The discovery of a vast reserve of helium in east Africa in 2016, therefore, came as a great (22) " },
-          { "t": "gap", "gapId": 22, "label": "(22)" },
-          { "t": "text", "v": ". [RELIEVE]" }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "segments": [
-          { "t": "text", "v": "The store of helium found contains approximately 1.5 billion litres of the gas, (23) " },
-          { "t": "gap", "gapId": 23, "label": "(23)" },
-          { "t": "text", "v": " have said. [RESEARCH]" }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "segments": [
-          { "t": "text", "v": "A team from the UK and Norway made this significant find after applying techniques normally used in the (24) " },
-          { "t": "gap", "gapId": 24, "label": "(24)" },
-          { "t": "text", "v": " of oil and gas. [EXPLORE]" }
-        ]
-      }
-    ]
-  },
-  "reviewPolicy": { "showExplanation": "afterSubmit", "showTranscript": "never" },
-  "questions": [
-    { "id": "B2FS4-T01-RU-P3-Q17", "displayNumber": 17, "type": "word-formation", "text": "People use it for their (17) ____ too ...", "wordGiven": "AMUSE", "correctAnswer": "AMUSEMENT", "explanation": { "en": "TODO", "vi": "TODO" } },
-    { "id": "B2FS4-T01-RU-P3-Q18", "displayNumber": 18, "type": "word-formation", "text": "It is found (18) ____ inside rocks ...", "wordGiven": "GROUND", "correctAnswer": "UNDERGROUND", "explanation": { "en": "TODO", "vi": "TODO" } },
-    { "id": "B2FS4-T01-RU-P3-Q19", "displayNumber": 19, "type": "word-formation", "text": "... helium was only ever discovered (19) ____ ...", "wordGiven": "ACCIDENT", "correctAnswer": "ACCIDENTALLY", "explanation": { "en": "TODO", "vi": "TODO" } },
-    { "id": "B2FS4-T01-RU-P3-Q20", "displayNumber": 20, "type": "word-formation", "text": "There was such (20) ____ among doctors ...", "wordGiven": "ANXIOUS", "correctAnswer": "ANXIETY", "explanation": { "en": "TODO", "vi": "TODO" } },
-    { "id": "B2FS4-T01-RU-P3-Q21", "displayNumber": 21, "type": "word-formation", "text": "... prevent a global (21) ____ of the precious gas.", "wordGiven": "SHORT", "correctAnswer": "SHORTAGE", "explanation": { "en": "TODO", "vi": "TODO" } },
-    { "id": "B2FS4-T01-RU-P3-Q22", "displayNumber": 22, "type": "word-formation", "text": "... came as a great (22) ____.", "wordGiven": "RELIEVE", "correctAnswer": "RELIEF", "explanation": { "en": "TODO", "vi": "TODO" } },
-    { "id": "B2FS4-T01-RU-P3-Q23", "displayNumber": 23, "type": "word-formation", "text": "... (23) ____ have said.", "wordGiven": "RESEARCH", "correctAnswer": "RESEARCHERS", "explanation": { "en": "TODO", "vi": "TODO" } },
-    { "id": "B2FS4-T01-RU-P3-Q24", "displayNumber": 24, "type": "word-formation", "text": "... used in the (24) ____ of oil and gas.", "wordGiven": "EXPLORE", "correctAnswer": "EXPLORATION", "explanation": { "en": "TODO", "vi": "TODO" } }
-  ]
-},
-
         {
           "part": 4,
           "title": "Part 4 - Multiple choice",
@@ -376,8 +296,8 @@
             { "id": "B2FS4-T01-L-P4-Q26", "displayNumber": 26, "type": "multiple-choice", "text": "A scientist from Mexico that Laura worked with was studying ...", "options": { "A": "how caterpillars digest their food.", "B": "how caterpillars defend themselves.", "C": "how caterpillars adapt to their environment." }, "correctAnswer": "B", "explanation": { "en": "Key quote: \"The idea was to find out what methods of self-protection they have\".\nWhy B: self-protection = defending themselves.\nWhy not A/C: Not about digestion or adaptation; the target is protection behaviour.\nKey takeaway: self-protection is a direct synonym clue.", "vi": "Câu khóa: \"methods of self-protection\".\nVì sao B đúng: self-protection = tự vệ.\nLoại A/C: không nói tiêu hóa hay thích nghi; nói về cơ chế tự vệ.\nKey takeaway: bắt synonym trực tiếp self-protection -> defend." } },
             { "id": "B2FS4-T01-L-P4-Q27", "displayNumber": 27, "type": "multiple-choice", "text": "What did Laura enjoy taking photographs of?", "options": { "A": "different shapes that caterpillars form", "B": "previously unknown species of caterpillar", "C": "the process of caterpillars becoming butterflies" }, "correctAnswer": "A", "explanation": { "en": "Key quote: \"pictures ... in different positions - curled up, stretched out, crawling ...\".\nWhy A: different positions/shapes.\nWhy not B: The species were rare/seen before in Colombia, not ‘unknown’.\nWhy not C: They wanted pictures of caterpillars, not the transformation process.\nKey takeaway: ‘different positions’ maps to ‘different shapes/poses’.", "vi": "Câu khóa: \"different positions - curled up, stretched out...\".\nVì sao A đúng: các tư thế/hình dạng khác nhau.\nVì sao không chọn B: loài hiếm nhưng không phải ‘unknown’.\nVì sao không chọn C: chụp caterpillar ở nhiều tư thế, không phải quá trình biến đổi.\nKey takeaway: positions/poses -> shapes." } },
             { "id": "B2FS4-T01-L-P4-Q28", "displayNumber": 28, "type": "multiple-choice", "text": "What does Laura think is the most important thing she learned about caterpillars?", "options": { "A": "how much damage they can cause to crops", "B": "how little is known about them", "C": "how significant they are for other wildlife" }, "correctAnswer": "C", "explanation": { "en": "Key quote: \"What’s even more crucial, though, is that caterpillars are food for other animals like birds and bats.\".\nWhy C: She labels this point as ‘more crucial’.\nWhy not A: Crop damage is mentioned, but not ‘most important’.\nWhy not B: Lack of knowledge is mentioned, but she elevates the food-chain role as crucial.\nKey takeaway: Listen for importance markers: most crucial / most important / the main thing.", "vi": "Câu khóa: \"even more crucial ... food for other animals\".\nVì sao C đúng: cô nhấn mạnh vai trò chuỗi thức ăn là quan trọng nhất.\nLoại A: có nói phá hoại cây trồng nhưng không phải ý ‘crucial’.\nLoại B: có nói chưa biết nhiều nhưng ý ‘crucial’ là vai trò với wildlife.\nKey takeaway: nghe từ khóa nhấn mạnh mức độ (most crucial)." } },
-            { "id": "B2FS4-T01-L-P4-Q29", "displayNumber": 29, "type": "multiple-choice", "text": "[MISSING QUESTION TEXT - please add Q29 prompt from the paper]", "options": { "A": "[A]", "B": "[B]", "C": "[C]" }, "correctAnswer": "A", "explanation": { "en": "TODO: Missing question text/options for Q29. Cannot generate quote-based explanation without the prompt.", "vi": "TODO: Thiếu đề câu 29 (cả prompt và options), chưa thể tạo giải thích chuẩn." } },
-            { "id": "B2FS4-T01-L-P4-Q30", "displayNumber": 30, "type": "multiple-choice", "text": "[MISSING QUESTION TEXT - please add Q30 prompt from the paper]", "options": { "A": "[A]", "B": "[B]", "C": "[C]" }, "correctAnswer": "B", "explanation": { "en": "TODO: Missing question text/options for Q30. Cannot generate quote-based explanation without the prompt.", "vi": "TODO: Thiếu đề câu 30 (cả prompt và options), chưa thể tạo giải thích chuẩn." } }
+            { "id": "B2FS4-T01-L-P4-Q29", "displayNumber": 29, "type": "multiple-choice", "text": "[MISSING QUESTION TEXT]", "options": { "A": "[A]", "B": "[B]", "C": "[C]" }, "correctAnswer": "A", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-L-P4-Q30", "displayNumber": 30, "type": "multiple-choice", "text": "[MISSING QUESTION TEXT]", "options": { "A": "[A]", "B": "[B]", "C": "[C]" }, "correctAnswer": "B", "explanation": { "en": "TODO", "vi": "TODO" } }
           ]
         }
       ]
