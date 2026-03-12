@@ -89,21 +89,45 @@
 
         {
           "part": 3,
-          "section": "use-of-english",
-          "title": "Part 3 - Word formation",
-          "instruction": "For questions 17-24, use the word given in capitals to form a word that fits in the gap.",
-          "media": { "format": "blocks", "blocks": [ { "type": "title", "text": "Important helium gas discovery" } ] },
-          "reviewPolicy": { "showExplanation": "afterSubmit", "showTranscript": "never" },
-          "questions": [
-            { "id": "B2FS4-T01-RU-P3-Q17", "displayNumber": 17, "type": "word-formation", "text": "People use it for their (17) ____ too ...", "wordGiven": "AMUSE", "correctAnswer": "AMUSEMENT", "explanation": { "en": "TODO", "vi": "TODO" } },
-            { "id": "B2FS4-T01-RU-P3-Q18", "displayNumber": 18, "type": "word-formation", "text": "It is found (18) ____ inside rocks ...", "wordGiven": "GROUND", "correctAnswer": "UNDERGROUND", "explanation": { "en": "TODO", "vi": "TODO" } },
-            { "id": "B2FS4-T01-RU-P3-Q19", "displayNumber": 19, "type": "word-formation", "text": "... discovered (19) ____ ...", "wordGiven": "ACCIDENT", "correctAnswer": "ACCIDENTALLY", "explanation": { "en": "TODO", "vi": "TODO" } },
-            { "id": "B2FS4-T01-RU-P3-Q20", "displayNumber": 20, "type": "word-formation", "text": "There was such (20) ____ among doctors ...", "wordGiven": "ANXIOUS", "correctAnswer": "ANXIETY", "explanation": { "en": "TODO", "vi": "TODO" } },
-            { "id": "B2FS4-T01-RU-P3-Q21", "displayNumber": 21, "type": "word-formation", "text": "... prevent a global (21) ____ of the gas ...", "wordGiven": "SHORT", "correctAnswer": "SHORTAGE", "explanation": { "en": "TODO", "vi": "TODO" } },
-            { "id": "B2FS4-T01-RU-P3-Q22", "displayNumber": 22, "type": "word-formation", "text": "... came as a great (22) ____.", "wordGiven": "RELIEVE", "correctAnswer": "RELIEF", "explanation": { "en": "TODO", "vi": "TODO" } },
-            { "id": "B2FS4-T01-RU-P3-Q23", "displayNumber": 23, "type": "word-formation", "text": "..., (23) ____ have said.", "wordGiven": "RESEARCH", "correctAnswer": "RESEARCHERS", "explanation": { "en": "TODO", "vi": "TODO" } },
-            { "id": "B2FS4-T01-RU-P3-Q24", "displayNumber": 24, "type": "word-formation", "text": "... used in the (24) ____ of oil and gas.", "wordGiven": "EXPLORE", "correctAnswer": "EXPLORATION", "explanation": { "en": "TODO", "vi": "TODO" } }
+    "section": "useOfEnglish",
+    "title": "Part 3 - Word formation",
+    "instruction": "For questions 17-24, use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. Write your answers IN CAPITAL LETTERS.",
+    "media": {
+      "format": "blocks",
+      "blocks": [
+        {
+          "type": "title",
+          "text": "Important helium gas discovery"
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            { "t": "text", "v": "Helium is a gas which is very important for the running of major (0) <b>SCIENTIFIC</b> facilities. It is also used in medical equipment like brain scanners." },
+            { "t": "text", "v": "\n\nPeople use it for their (17) " },
+            { "t": "gap", "gapId": 17, "label": "(17)" },
+            { "t": "text", "v": " too, filling party balloons with it so they float in the air. [AMUSE]" },
+            { "t": "text", "v": "\n\nIt is found (18) " },
+            { "t": "gap", "gapId": 18, "label": "(18)" },
+            { "t": "text", "v": " inside rocks, and until recently, helium was only ever discovered (19) " },
+            { "t": "gap", "gapId": 19, "label": "(19)" },
+            { "t": "text", "v": " and in small quantities. [GROUND / ACCIDENT]" },
+            { "t": "text", "v": "\n\nThere was such (20) " },
+            { "t": "gap", "gapId": 20, "label": "(20)" },
+            { "t": "text", "v": " among doctors over the steady decline in reserves that they called for a ban on its use in party balloons in order to help prevent a global (21) " },
+            { "t": "gap", "gapId": 21, "label": "(21)" },
+            { "t": "text", "v": " of the precious gas. [ANXIOUS / SHORT]" },
+            { "t": "text", "v": "\n\nThe discovery of a vast reserve of helium in east Africa in 2016, therefore, came as a great (22) " },
+            { "t": "gap", "gapId": 22, "label": "(22)" },
+            { "t": "text", "v": ". [RELIEVE]" },
+            { "t": "text", "v": "\n\nThe store of helium found contains approximately 1.5 billion litres of the gas, (23) " },
+            { "t": "gap", "gapId": 23, "label": "(23)" },
+            { "t": "text", "v": " have said. [RESEARCH]" },
+            { "t": "text", "v": "\n\nA team from the UK and Norway made this significant find after applying techniques normally used in the (24) " },
+            { "t": "gap", "gapId": 24, "label": "(24)" },
+            { "t": "text", "v": " of oil and gas. [EXPLORE]" }
           ]
+        }
+      ]
         },
 
         {
@@ -159,25 +183,35 @@
 
         {
           "part": 7,
-          "section": "reading",
-          "title": "Part 7 - Multiple matching",
-          "instruction": "For questions 43-52, choose from sections A-D. The sections may be chosen more than once.",
-          "media": { "format": "blocks", "blocks": [ { "type": "title", "text": "How physical exercise makes your brain work better" } ] },
-          "reviewPolicy": { "showExplanation": "afterSubmit", "showTranscript": "never" },
-          "questions": [
-            { "id": "B2FS4-T01-RU-P7-Q43", "displayNumber": 43, "type": "matching", "text": "warn that exercising may have the opposite effect to that intended?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "C", "explanation": { "en": "TODO", "vi": "TODO" } },
-            { "id": "B2FS4-T01-RU-P7-Q44", "displayNumber": 44, "type": "matching", "text": "mention an increase in the size of something as the result of exercise?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "B", "explanation": { "en": "TODO", "vi": "TODO" } },
-            { "id": "B2FS4-T01-RU-P7-Q45", "displayNumber": 45, "type": "matching", "text": "say even very gentle exercise can have a positive impact?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "D", "explanation": { "en": "TODO", "vi": "TODO" } },
-            { "id": "B2FS4-T01-RU-P7-Q46", "displayNumber": 46, "type": "matching", "text": "explain why a comparison is a little misleading?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "A", "explanation": { "en": { "keyQuote": "Section A: \"described ... like a muscle, however, this may not always be a helpful way\"", "whyCorrect": "It explicitly says the comparison may be misleading/unhelpful.", "whyWrong": { "B": "Discusses endorphins/hippocampus, not an analogy being misleading.", "C": "Focuses on learning/attention and warnings about extreme workouts.", "D": "Focuses on gentle exercise and creativity/problem-solving limits." }, "keyTakeaway": "In Part 7, match the stem to a unique function (here: challenging an analogy)." }, "vi": { "keyQuote": "Section A: \"described ... like a muscle, however, ... not always ... helpful\"", "whyCorrect": "Đoạn A nói thẳng phép so sánh có thể không hữu ích -> dễ gây hiểu sai.", "whyWrong": { "B": "Nói về endorphins/hippocampus, không phản biện phép so sánh.", "C": "Nói về học tập/tập luyện quá sức.", "D": "Nói về tập nhẹ/creativity và ngoại lệ." }, "keyTakeaway": "Part 7: ghép câu hỏi với chức năng nổi bật của đoạn (ở đây: phản biện so sánh)." } } },
-            { "id": "B2FS4-T01-RU-P7-Q47", "displayNumber": 47, "type": "matching", "text": "give an example of an improvement in students’ ability to focus?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "C", "explanation": { "en": "TODO", "vi": "TODO" } },
-            { "id": "B2FS4-T01-RU-P7-Q48", "displayNumber": 48, "type": "matching", "text": "say what many people believed about the benefits of exercise has been proved correct?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "D", "explanation": { "en": "TODO", "vi": "TODO" } },
-            { "id": "B2FS4-T01-RU-P7-Q49", "displayNumber": 49, "type": "matching", "text": "give advice on how to recall information more effectively?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "C", "explanation": { "en": "TODO", "vi": "TODO" } },
-            { "id": "B2FS4-T01-RU-P7-Q50", "displayNumber": 50, "type": "matching", "text": "mention a doubt about why people sometimes experience a change of mood?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "B", "explanation": { "en": "TODO", "vi": "TODO" } },
-            { "id": "B2FS4-T01-RU-P7-Q51", "displayNumber": 51, "type": "matching", "text": "warn that a particular type of exercise may not help with problem solving?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "D", "explanation": { "en": "TODO", "vi": "TODO" } },
-            { "id": "B2FS4-T01-RU-P7-Q52", "displayNumber": 52, "type": "matching", "text": "welcome the idea of matching exercise type to particular mental challenges?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "A", "explanation": { "en": "TODO", "vi": "TODO" } }
-          ]
-        }
+    "section": "reading",
+    "title": "Part 7 - Multiple matching",
+    "instruction": "For questions 43-52, choose from the sections (A-D). The sections may be chosen more than once.",
+    "media": {
+      "format": "blocks",
+      "blocks": [
+        { "type": "title", "text": "How physical exercise makes your brain work better" },
+        { "type": "sectionHeader", "key": "A", "text": "Section A" },
+        { "type": "paragraph", "segments": [{ "t": "text", "v": "The brain is often described as being like a muscle, however, this may not always be a helpful way... [Section A Content]" }] },
+        { "type": "sectionHeader", "key": "B", "text": "Section B" },
+        { "type": "paragraph", "segments": [{ "t": "text", "v": "It is well known that hard physical activity can have a positive effect... [Section B Content]" }] },
+        { "type": "sectionHeader", "key": "C", "text": "Section C" },
+        { "type": "paragraph", "segments": [{ "t": "text", "v": "As well as slowly improving your memory... [Section C Content]" }] },
+        { "type": "sectionHeader", "key": "D", "text": "Section D" },
+        { "type": "paragraph", "segments": [{ "t": "text", "v": "And you may not have to get out of breath... [Section D Content]" }] }
       ]
+    },
+    "questions": [
+      { "id": "B2FS4-T01-RU-P7-Q43", "displayNumber": 43, "type": "matching", "text": "warn that exercising may have the opposite effect to that intended?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "C" },
+      { "id": "B2FS4-T01-RU-P7-Q44", "displayNumber": 44, "type": "matching", "text": "mention an increase in the size of something as the result of exercise?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "B" },
+      { "id": "B2FS4-T01-RU-P7-Q45", "displayNumber": 45, "type": "matching", "text": "say even very gentle exercise can have a positive impact?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "D" },
+      { "id": "B2FS4-T01-RU-P7-Q46", "displayNumber": 46, "type": "matching", "text": "explain why a comparison is a little misleading?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "A" },
+      { "id": "B2FS4-T01-RU-P7-Q47", "displayNumber": 47, "type": "matching", "text": "give an example of an improvement in students’ ability to focus?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "C" },
+      { "id": "B2FS4-T01-RU-P7-Q48", "displayNumber": 48, "type": "matching", "text": "say what many people believed about the benefits of exercise has been proved correct?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "D" },
+      { "id": "B2FS4-T01-RU-P7-Q49", "displayNumber": 49, "type": "matching", "text": "give advice on how to recall information more effectively?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "C" },
+      { "id": "B2FS4-T01-RU-P7-Q50", "displayNumber": 50, "type": "matching", "text": "mention a doubt about why people sometimes experience a change of mood?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "B" },
+      { "id": "B2FS4-T01-RU-P7-Q51", "displayNumber": 51, "type": "matching", "text": "warn that a particular type of exercise may not help with problem solving?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "D" },
+      { "id": "B2FS4-T01-RU-P7-Q52", "displayNumber": 52, "type": "matching", "text": "welcome the idea of matching exercise type to particular mental challenges?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "A" }
+    ]
     },
 
     "writing": {
@@ -247,31 +281,85 @@
 
         {
           "part": 3,
-          "title": "Part 3 - Multiple matching",
-          "instruction": "You will hear five short extracts. For questions 19-23, choose from the list (A-H) what each speaker felt. Use letters only once. Three letters are extra.",
-          "media": { "type": "audio", "url": "" },
-          "options": {
-            "A": "discouraged by how good other people were",
-            "B": "proud of having done detailed research",
-            "C": "disappointed to have felt so nervous",
-            "D": "relieved not to have made any mistakes",
-            "E": "embarrassed at having to change the plan at the last moment",
-            "F": "grateful to have been given support",
-            "G": "annoyed that their efforts were not appreciated",
-            "H": "surprised that practising didn’t help much"
-          },
-          "transcript": {
-            "format": "text",
-            "full": "PART 3\nSpeaker 1: ... class presentations ... classmate did virtually the same ... no choice but to talk about something else ... felt uncomfortable ...\nSpeaker 2: ... debating ... sounded nervous ... glad I got through it without slipping up ... could’ve done more thorough research ... school won ...\nSpeaker 3: ... prize day ... nervous ... didn’t take advice ... endlessly rehearsing ... nobody commented ... teacher after me was brilliant ...\nSpeaker 4: ... interviewed live on TV ... panic ... wasn’t able to calm down ... cross with myself ...\nSpeaker 5: ... class discussion ... tried without notes ... difficult to avoid getting things wrong ... achievement to have covered as much as I did ..."
-          },
-          "questions": [
-            { "id": "B2FS4-T01-L-P3-Q19", "displayNumber": 19, "type": "matching", "text": "Speaker 1", "correctAnswer": "E", "explanation": { "en": "Key quote: \"one of my classmates did virtually the same ... Now I had no choice but to talk about something else\".\nWhy E: He felt embarrassed/uncomfortable because he had to change plan at the last moment.\nWhy others: No focus on being proud/relieved; the central emotion is forced last-minute change.\nKey takeaway: Match the ‘problem + emotion’ pair (last-minute change -> embarrassed).", "vi": "Câu khóa: \"classmate did virtually the same ... no choice ... talk about something else\".\nVì sao E đúng: phải đổi kế hoạch phút chót và cảm thấy không thoải mái/xấu hổ.\nLoại đáp án khác: không phải proud/relieved; trọng tâm là đổi kế hoạch đột ngột.\nKey takeaway: ghép ‘tình huống + cảm xúc’ (đổi phút chót -> embarrassed)." } },
-            { "id": "B2FS4-T01-L-P3-Q20", "displayNumber": 20, "type": "matching", "text": "Speaker 2", "correctAnswer": "D", "explanation": { "en": "Key quote: \"glad to say I got through it without slipping up or forgetting key facts\".\nWhy D: He is relieved he made no mistakes.\nWhy not B: He says he could’ve done more research, so not proud of research.\nKey takeaway: ‘without slipping up’ maps directly to ‘no mistakes’.", "vi": "Câu khóa: \"got through it without slipping up\".\nVì sao D đúng: nhẹ nhõm vì không mắc lỗi.\nVì sao không chọn B: cậu nói lẽ ra cần research kỹ hơn -> không phải tự hào.\nKey takeaway: slipping up = mắc lỗi." } },
-            { "id": "B2FS4-T01-L-P3-Q21", "displayNumber": 21, "type": "matching", "text": "Speaker 3", "correctAnswer": "H", "explanation": { "en": "Key quote: \"I was too busy endlessly rehearsing ... I just thought that repeating it would pay off ... Nobody commented on it at all\".\nWhy H: He is surprised that practising didn’t help (rehearsed a lot, result still average/ignored).\nKey takeaway: Heavy practice + weak impact -> ‘surprised practising didn’t help’.", "vi": "Câu khóa: luyện “endlessly rehearsing” nhưng kết quả không nổi bật.\nVì sao H đúng: ngạc nhiên vì tập nhiều mà không hiệu quả.\nKey takeaway: tập nhiều nhưng tác động nhỏ -> H." } },
-            { "id": "B2FS4-T01-L-P3-Q22", "displayNumber": 22, "type": "matching", "text": "Speaker 4", "correctAnswer": "C", "explanation": { "en": "Key quote: \"I was just in a panic and wasn’t able to calm down ... cross with myself\".\nWhy C: Disappointed to have felt so nervous.\nKey takeaway: panic/couldn’t calm down -> nervousness regret.", "vi": "Câu khóa: \"in a panic ... wasn’t able to calm down\".\nVì sao C đúng: thất vọng vì mình quá nervous.\nKey takeaway: panic/không bình tĩnh -> C." } },
-            { "id": "B2FS4-T01-L-P3-Q23", "displayNumber": 23, "type": "matching", "text": "Speaker 5", "correctAnswer": "B", "explanation": { "en": "Key quote: \"still thought it was an achievement to have covered as much as I did\".\nWhy B: Proud of doing detailed research/covering a lot.\nKey takeaway: ‘achievement to have covered as much’ -> pride in preparation/research.", "vi": "Câu khóa: \"achievement to have covered as much\".\nVì sao B đúng: tự hào vì chuẩn bị/nghiên cứu khá nhiều.\nKey takeaway: ‘covered as much’ -> pride in research." } }
-          ]
-        },
+  "section": "use-of-english",
+  "title": "Part 3 - Word formation",
+  "instruction": "For questions 17-24, use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. Write your answers IN CAPITAL LETTERS.",
+  "media": {
+    "format": "blocks",
+    "blocks": [
+      { "type": "title", "text": "Important helium gas discovery" },
+      {
+        "type": "paragraph",
+        "segments": [
+          { "t": "text", "v": "Helium is a gas which is very important for the running of major (0) SCIENTIFIC facilities. It is also used in medical equipment like brain scanners." }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "segments": [
+          { "t": "text", "v": "People use it for their (17) " },
+          { "t": "gap", "gapId": 17, "label": "(17)" },
+          { "t": "text", "v": " too, filling party balloons with it so they float in the air. [AMUSE]" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "segments": [
+          { "t": "text", "v": "It is found (18) " },
+          { "t": "gap", "gapId": 18, "label": "(18)" },
+          { "t": "text", "v": " inside rocks, and until recently, helium was only ever discovered (19) " },
+          { "t": "gap", "gapId": 19, "label": "(19)" },
+          { "t": "text", "v": " and in small quantities. [GROUND / ACCIDENT]" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "segments": [
+          { "t": "text", "v": "There was such (20) " },
+          { "t": "gap", "gapId": 20, "label": "(20)" },
+          { "t": "text", "v": " among doctors over the steady decline in reserves that they called for a ban on its use in party balloons in order to help prevent a global (21) " },
+          { "t": "gap", "gapId": 21, "label": "(21)" },
+          { "t": "text", "v": " of the precious gas. [ANXIOUS / SHORT]" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "segments": [
+          { "t": "text", "v": "The discovery of a vast reserve of helium in east Africa in 2016, therefore, came as a great (22) " },
+          { "t": "gap", "gapId": 22, "label": "(22)" },
+          { "t": "text", "v": ". [RELIEVE]" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "segments": [
+          { "t": "text", "v": "The store of helium found contains approximately 1.5 billion litres of the gas, (23) " },
+          { "t": "gap", "gapId": 23, "label": "(23)" },
+          { "t": "text", "v": " have said. [RESEARCH]" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "segments": [
+          { "t": "text", "v": "A team from the UK and Norway made this significant find after applying techniques normally used in the (24) " },
+          { "t": "gap", "gapId": 24, "label": "(24)" },
+          { "t": "text", "v": " of oil and gas. [EXPLORE]" }
+        ]
+      }
+    ]
+  },
+  "reviewPolicy": { "showExplanation": "afterSubmit", "showTranscript": "never" },
+  "questions": [
+    { "id": "B2FS4-T01-RU-P3-Q17", "displayNumber": 17, "type": "word-formation", "text": "People use it for their (17) ____ too ...", "wordGiven": "AMUSE", "correctAnswer": "AMUSEMENT", "explanation": { "en": "TODO", "vi": "TODO" } },
+    { "id": "B2FS4-T01-RU-P3-Q18", "displayNumber": 18, "type": "word-formation", "text": "It is found (18) ____ inside rocks ...", "wordGiven": "GROUND", "correctAnswer": "UNDERGROUND", "explanation": { "en": "TODO", "vi": "TODO" } },
+    { "id": "B2FS4-T01-RU-P3-Q19", "displayNumber": 19, "type": "word-formation", "text": "... helium was only ever discovered (19) ____ ...", "wordGiven": "ACCIDENT", "correctAnswer": "ACCIDENTALLY", "explanation": { "en": "TODO", "vi": "TODO" } },
+    { "id": "B2FS4-T01-RU-P3-Q20", "displayNumber": 20, "type": "word-formation", "text": "There was such (20) ____ among doctors ...", "wordGiven": "ANXIOUS", "correctAnswer": "ANXIETY", "explanation": { "en": "TODO", "vi": "TODO" } },
+    { "id": "B2FS4-T01-RU-P3-Q21", "displayNumber": 21, "type": "word-formation", "text": "... prevent a global (21) ____ of the precious gas.", "wordGiven": "SHORT", "correctAnswer": "SHORTAGE", "explanation": { "en": "TODO", "vi": "TODO" } },
+    { "id": "B2FS4-T01-RU-P3-Q22", "displayNumber": 22, "type": "word-formation", "text": "... came as a great (22) ____.", "wordGiven": "RELIEVE", "correctAnswer": "RELIEF", "explanation": { "en": "TODO", "vi": "TODO" } },
+    { "id": "B2FS4-T01-RU-P3-Q23", "displayNumber": 23, "type": "word-formation", "text": "... (23) ____ have said.", "wordGiven": "RESEARCH", "correctAnswer": "RESEARCHERS", "explanation": { "en": "TODO", "vi": "TODO" } },
+    { "id": "B2FS4-T01-RU-P3-Q24", "displayNumber": 24, "type": "word-formation", "text": "... used in the (24) ____ of oil and gas.", "wordGiven": "EXPLORE", "correctAnswer": "EXPLORATION", "explanation": { "en": "TODO", "vi": "TODO" } }
+  ]
+},
 
         {
           "part": 4,
