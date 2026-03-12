@@ -13,12 +13,31 @@
   "content": {
     "reading_uoe": {
       "metadata": {
+        "testId": "B2FS4-T01",
+        "testName": "B2 First for Schools 4 - Test 1",
         "paper": "Reading and Use of English",
         "duration": "1 hour 15 minutes",
         "partsOrder": [1, 2, 3, 4, 5, 6, 7],
         "scoring": {
-          "reading": { "includedParts": [1, 5, 6, 7], "maxScore": 42, "rules": [{ "part": 1, "questionRange": "1-8", "pointsPerCorrect": 1 }, { "part": 5, "questionRange": "31-36", "pointsPerCorrect": 2 }, { "part": 6, "questionRange": "37-42", "pointsPerCorrect": 2 }, { "part": 7, "questionRange": "43-52", "pointsPerCorrect": 1 }] },
-          "useOfEnglish": { "includedParts": [2, 3, 4], "maxScore": 28, "rules": [{ "part": 2, "questionRange": "9-16", "pointsPerCorrect": 1 }, { "part": 3, "questionRange": "17-24", "pointsPerCorrect": 1 }, { "part": 4, "questionRange": "25-30", "pointsPerQuestion": { "partial": 1, "full": 2 } }] }
+          "reading": {
+            "includedParts": [1, 5, 6, 7],
+            "maxScore": 42,
+            "rules": [
+              { "part": 1, "questionRange": "1-8", "pointsPerCorrect": 1, "maxPoints": 8 },
+              { "part": 5, "questionRange": "31-36", "pointsPerCorrect": 2, "maxPoints": 12 },
+              { "part": 6, "questionRange": "37-42", "pointsPerCorrect": 2, "maxPoints": 12 },
+              { "part": 7, "questionRange": "43-52", "pointsPerCorrect": 1, "maxPoints": 10 }
+            ]
+          },
+          "useOfEnglish": {
+            "includedParts": [2, 3, 4],
+            "maxScore": 28,
+            "rules": [
+              { "part": 2, "questionRange": "9-16", "pointsPerCorrect": 1, "maxPoints": 8 },
+              { "part": 3, "questionRange": "17-24", "pointsPerCorrect": 1, "maxPoints": 8 },
+              { "part": 4, "questionRange": "25-30", "pointsPerQuestion": { "partial": 1, "full": 2 }, "maxPoints": 12 }
+            ]
+          }
         }
       },
       "parts": [
@@ -32,13 +51,20 @@
             "blocks": [
               { "type": "title", "text": "Building roads with waste coffee" },
               { "type": "paragraph", "segments": [ { "t": "text", "v": "Used coffee grounds ... are already recycled in a (0) variety of ways. Now a team of scientists have discovered that they can also be " }, { "t": "gap", "gapId": 1, "label": "(1)" }, { "t": "text", "v": " to good use as a material for building roads." } ] },
-              { "type": "paragraph", "segments": [ { "t": "text", "v": "Coffee lover and professor ... Arul Arulrajah " }, { "t": "gap", "gapId": 2, "label": "(2)" }, { "t": "text", "v": " the idea ... Melbourne, Australia, " }, { "t": "gap", "gapId": 3, "label": "(3)" }, { "t": "text", "v": " throwing away ... He then " }, { "t": "gap", "gapId": 4, "label": "(4)" }, { "t": "text", "v": " several experiments ... to " }, { "t": "gap", "gapId": 5, "label": "(5)" }, { "t": "text", "v": " the base layer under a road’s " }, { "t": "gap", "gapId": 6, "label": "(6)" }, { "t": "text", "v": "." } ] },
+              { "type": "paragraph", "segments": [ { "t": "text", "v": "Coffee lover and professor ... Arul Arulrajah " }, { "t": "gap", "gapId": 2, "label": "(2)" }, { "t": "text", "v": " the idea ... Melbourne, Australia, " }, { "t": "gap", "gapId": 3, "label": "(3)" }, { "t": "text", "v": " throwing away used coffee grounds. He then " }, { "t": "gap", "gapId": 4, "label": "(4)" }, { "t": "text", "v": " several experiments ... to " }, { "t": "gap", "gapId": 5, "label": "(5)" }, { "t": "text", "v": " the base layer under a road’s " }, { "t": "gap", "gapId": 6, "label": "(6)" }, { "t": "text", "v": "." } ] },
               { "type": "paragraph", "segments": [ { "t": "text", "v": "According to ... the team " }, { "t": "gap", "gapId": 7, "label": "(7)" }, { "t": "text", "v": " from Melbourne’s coffee houses every week ... This would " }, { "t": "gap", "gapId": 8, "label": "(8)" }, { "t": "text", "v": " to a reduction ..." } ] }
             ]
           },
           "reviewPolicy": { "showExplanation": "afterSubmit", "showTranscript": "never" },
           "questions": [
-            { "id": "B2FS4-T01-RU-P1-Q01", "displayNumber": 1, "type": "multiple-choice", "options": { "A": "made", "B": "put", "C": "given", "D": "got" }, "correctAnswer": "B", "explanation": { "en": { "keyQuote": "be (1) ____ to good use", "whyCorrect": "The fixed collocation is \"put something to good use\" meaning to use something effectively.", "vocab": { "put": "use / place into use", "made": "created", "given": "donated/handed", "got": "obtained" }, "whyWrong": { "A": "No collocation \"made to good use\".", "C": "\"given\" shifts meaning to donation; it doesn’t mean 'use effectively' here.", "D": "\"got to good use\" is ungrammatical." }, "paraphrase": [ { "from": "use as a material", "to": "put to good use" } ], "keyTakeaway": "Learn collocations as chunks: \"put something to good use\"." }, "vi": { "keyQuote": "be (1) ____ to good use", "whyCorrect": "Cụm cố định chuẩn là \"put something to good use\" = tận dụng hiệu quả.", "vocab": { "put": "đưa vào sử dụng/tận dụng", "made": "tạo ra", "given": "cho/tặng", "got": "có được" }, "whyWrong": { "A": "Không có cụm \"made to good use\".", "C": "Given làm lệch nghĩa sang cho/tặng, không phải tận dụng.", "D": "Sai ngữ pháp/collocation." }, "paraphrase": [ { "from": "use as a material", "to": "put to good use" } ], "keyTakeaway": "Học collocation theo cụm: \"put something to good use\"." } } }
+            { "id": "B2FS4-T01-RU-P1-Q01", "displayNumber": 1, "type": "multiple-choice", "text": "... be (1) ____ to good use ...", "options": { "A": "made", "B": "put", "C": "given", "D": "got" }, "correctAnswer": "B", "explanation": { "en": { "keyQuote": "be (1) ____ to good use", "whyCorrect": "The fixed collocation is \"put something to good use\" meaning to use something effectively.", "vocab": { "put": "use / place into use", "made": "created", "given": "donated/handed", "got": "obtained" }, "whyWrong": { "A": "No collocation \"made to good use\".", "C": "\"given\" shifts meaning to donation; it doesn’t mean 'use effectively' here.", "D": "\"got to good use\" is ungrammatical." }, "paraphrase": [ { "from": "use as a material", "to": "put to good use" } ], "keyTakeaway": "Learn collocations as chunks: \"put something to good use\"." }, "vi": { "keyQuote": "be (1) ____ to good use", "whyCorrect": "Cụm cố định chuẩn là \"put something to good use\" = tận dụng hiệu quả.", "vocab": { "put": "đưa vào sử dụng/tận dụng", "made": "tạo ra", "given": "cho/tặng", "got": "có được" }, "whyWrong": { "A": "Không có cụm \"made to good use\".", "C": "Given làm lệch nghĩa sang cho/tặng, không phải tận dụng.", "D": "Sai ngữ pháp/collocation." }, "paraphrase": [ { "from": "use as a material", "to": "put to good use" } ], "keyTakeaway": "Học collocation theo cụm: \"put something to good use\"." } } },
+            { "id": "B2FS4-T01-RU-P1-Q02", "displayNumber": 2, "type": "multiple-choice", "text": "Arul Arulrajah (2) ____ the idea ...", "options": { "A": "considered", "B": "regarded", "C": "acknowledged", "D": "realised" }, "correctAnswer": "A", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P1-Q03", "displayNumber": 3, "type": "multiple-choice", "text": "... (3) ____ throwing away ...", "options": { "A": "forgetfully", "B": "carelessly", "C": "neglectfully", "D": "insensitively" }, "correctAnswer": "B", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P1-Q04", "displayNumber": 4, "type": "multiple-choice", "text": "He then (4) ____ several experiments ...", "options": { "A": "controlled", "B": "directed", "C": "guided", "D": "conducted" }, "correctAnswer": "D", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P1-Q05", "displayNumber": 5, "type": "multiple-choice", "text": "... to (5) ____ the base layer ...", "options": { "A": "compose", "B": "form", "C": "position", "D": "install" }, "correctAnswer": "B", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P1-Q06", "displayNumber": 6, "type": "multiple-choice", "text": "... under a road’s (6) ____.", "options": { "A": "covering", "B": "ground", "C": "surface", "D": "exterior" }, "correctAnswer": "C", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P1-Q07", "displayNumber": 7, "type": "multiple-choice", "text": "... the team (7) ____ ... every week ...", "options": { "A": "collects", "B": "keeps", "C": "saves", "D": "stores" }, "correctAnswer": "A", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P1-Q08", "displayNumber": 8, "type": "multiple-choice", "text": "This would (8) ____ to a reduction ...", "options": { "A": "bring", "B": "come", "C": "lead", "D": "arrive" }, "correctAnswer": "C", "explanation": { "en": "TODO", "vi": "TODO" } }
           ]
         },
 
@@ -47,17 +73,36 @@
           "section": "use-of-english",
           "title": "Part 2 - Open cloze",
           "instruction": "For questions 9-16, read the text below and think of the word which best fits each gap. Use only one word in each gap.",
-          "media": {
-            "format": "blocks",
-            "blocks": [
-              { "type": "title", "text": "The amazing Atacama Desert" },
-              { "type": "paragraph", "segments": [ { "t": "text", "v": "It is actually pretty cold, with daily temperatures ranging " }, { "t": "gap", "gapId": 9, "label": "(9)" }, { "t": "text", "v": " 0 to 25 degrees centigrade." } ] },
-              { "type": "paragraph", "segments": [ { "t": "text", "v": "But " }, { "t": "gap", "gapId": 10, "label": "(10)" }, { "t": "text", "v": " is certainly no doubt that the Atacama Desert is dry. Despite " }, { "t": "gap", "gapId": 11, "label": "(11)" }, { "t": "text", "v": " located right next to the Pacific Ocean ..." } ] }
-            ]
-          },
+          "media": { "format": "blocks", "blocks": [ { "type": "title", "text": "The amazing Atacama Desert" } ] },
           "reviewPolicy": { "showExplanation": "afterSubmit", "showTranscript": "never" },
           "questions": [
-            { "id": "B2FS4-T01-RU-P2-Q09", "displayNumber": 9, "type": "fill-in-blank", "correctAnswer": "FROM", "accepted": ["FROM"], "explanation": { "en": { "keyQuote": "temperatures ranging (9) ____ 0 to 25", "whyCorrect": "The grammar pattern is \"range from X to Y\".", "whyWrong": { "BETWEEN": "Would require \"between X and Y\".", "OF": "Cannot link a numerical range here." }, "keyTakeaway": "Memorise the pattern: range from ... to ..." }, "vi": { "keyQuote": "ranging (9) ____ 0 to 25", "whyCorrect": "Mẫu chuẩn: \"range from X to Y\".", "whyWrong": { "BETWEEN": "Phải là \"between X and Y\".", "OF": "Không dùng để nối khoảng số." }, "keyTakeaway": "Ghi nhớ: range from ... to ..." } } }
+            { "id": "B2FS4-T01-RU-P2-Q09", "displayNumber": 9, "type": "fill-in-blank", "text": "... temperatures ranging (9) ____ 0 to 25 ...", "correctAnswer": "FROM", "accepted": ["FROM"], "explanation": { "en": { "keyQuote": "range from X to Y", "whyCorrect": "The grammar pattern is \"range from X to Y\".", "keyTakeaway": "Memorise: range from ... to ..." }, "vi": { "keyQuote": "range from X to Y", "whyCorrect": "Mẫu chuẩn: \"range from X to Y\".", "keyTakeaway": "Ghi nhớ: range from ... to ..." } } },
+            { "id": "B2FS4-T01-RU-P2-Q10", "displayNumber": 10, "type": "fill-in-blank", "text": "But (10) ____ is certainly no doubt that ...", "correctAnswer": "THERE", "accepted": ["THERE"], "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P2-Q11", "displayNumber": 11, "type": "fill-in-blank", "text": "Despite (11) ____ located ...", "correctAnswer": "BEING", "accepted": ["BEING"], "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P2-Q12", "displayNumber": 12, "type": "fill-in-blank", "text": "... come (12) ____ a surprise ...", "correctAnswer": "AS", "accepted": ["AS"], "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P2-Q13", "displayNumber": 13, "type": "fill-in-blank", "text": "... years (13) ____ average ...", "correctAnswer": "ON", "accepted": ["ON"], "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P2-Q14", "displayNumber": 14, "type": "fill-in-blank", "text": "... all (14) ____ a sudden ...", "correctAnswer": "OF", "accepted": ["OF"], "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P2-Q15", "displayNumber": 15, "type": "fill-in-blank", "text": "... a (15) ____ short weeks ...", "correctAnswer": "FEW", "accepted": ["FEW"], "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P2-Q16", "displayNumber": 16, "type": "fill-in-blank", "text": "... eager (16) ____ enjoy ...", "correctAnswer": "TO", "accepted": ["TO"], "explanation": { "en": "TODO", "vi": "TODO" } }
+          ]
+        },
+
+        {
+          "part": 3,
+          "section": "use-of-english",
+          "title": "Part 3 - Word formation",
+          "instruction": "For questions 17-24, use the word given in capitals to form a word that fits in the gap.",
+          "media": { "format": "blocks", "blocks": [ { "type": "title", "text": "Important helium gas discovery" } ] },
+          "reviewPolicy": { "showExplanation": "afterSubmit", "showTranscript": "never" },
+          "questions": [
+            { "id": "B2FS4-T01-RU-P3-Q17", "displayNumber": 17, "type": "word-formation", "text": "People use it for their (17) ____ too ...", "wordGiven": "AMUSE", "correctAnswer": "AMUSEMENT", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P3-Q18", "displayNumber": 18, "type": "word-formation", "text": "It is found (18) ____ inside rocks ...", "wordGiven": "GROUND", "correctAnswer": "UNDERGROUND", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P3-Q19", "displayNumber": 19, "type": "word-formation", "text": "... discovered (19) ____ ...", "wordGiven": "ACCIDENT", "correctAnswer": "ACCIDENTALLY", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P3-Q20", "displayNumber": 20, "type": "word-formation", "text": "There was such (20) ____ among doctors ...", "wordGiven": "ANXIOUS", "correctAnswer": "ANXIETY", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P3-Q21", "displayNumber": 21, "type": "word-formation", "text": "... prevent a global (21) ____ of the gas ...", "wordGiven": "SHORT", "correctAnswer": "SHORTAGE", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P3-Q22", "displayNumber": 22, "type": "word-formation", "text": "... came as a great (22) ____.", "wordGiven": "RELIEVE", "correctAnswer": "RELIEF", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P3-Q23", "displayNumber": 23, "type": "word-formation", "text": "..., (23) ____ have said.", "wordGiven": "RESEARCH", "correctAnswer": "RESEARCHERS", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P3-Q24", "displayNumber": 24, "type": "word-formation", "text": "... used in the (24) ____ of oil and gas.", "wordGiven": "EXPLORE", "correctAnswer": "EXPLORATION", "explanation": { "en": "TODO", "vi": "TODO" } }
           ]
         },
 
@@ -68,7 +113,29 @@
           "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Use 2-5 words including the word given.",
           "reviewPolicy": { "showExplanation": "afterSubmit", "showTranscript": "never" },
           "questions": [
-            { "id": "B2FS4-T01-RU-P4-Q25", "displayNumber": 25, "type": "key-word-transformation", "keyword": "ABSORBED", "sentence1": "Because Alice was finding her book very interesting, she didn’t hear the doorbell ring.", "sentence2Template": "Alice was __________________________ her book that she didn’t hear the doorbell ring.", "scoring": { "fullPoints": 2, "partialPieces": [ { "points": 1, "accepted": ["SO ABSORBED"] }, { "points": 1, "accepted": ["BY", "IN", "BY READING", "IN READING"] } ] }, "acceptedFull": ["SO ABSORBED BY", "SO ABSORBED IN", "SO ABSORBED BY READING", "SO ABSORBED IN READING"], "explanation": { "en": { "keyQuote": "so ... that", "whyCorrect": "Use the result structure \"so + adjective + that\" and the collocation \"absorbed in/by\". \"Finding the book interesting\" is paraphrased as \"so absorbed (in/by) (reading) her book\".", "whyWrong": { "Missing SO": "Breaks the so...that result structure.", "Wrong preposition": "\"absorbed on\" is incorrect; use in/by.", "Wrong form": "Must keep ABSORBED unchanged and stay within 2-5 words." }, "paraphrase": [ { "from": "was finding her book very interesting", "to": "was so absorbed (in/by) (reading)" } ], "keyTakeaway": "Combine: so + adj + that + clause, and learn collocations like absorbed in/by." }, "vi": { "keyQuote": "so ... that", "whyCorrect": "Dùng cấu trúc kết quả \"so + tính từ + that\" và collocation \"absorbed in/by\". \"Rất thích cuốn sách\" được diễn đạt lại thành \"so absorbed (in/by) (reading)\".", "whyWrong": { "Thiếu SO": "Sai cấu trúc so...that.", "Sai giới từ": "Không dùng \"absorbed on\"; đúng là in/by.", "Sai quy tắc": "Không được đổi keyword và phải 2-5 từ." }, "paraphrase": [ { "from": "was finding her book very interesting", "to": "was so absorbed (in/by) (reading)" } ], "keyTakeaway": "Ghép: so + adj + that, và học collocation absorbed in/by." } } } }
+            { "id": "B2FS4-T01-RU-P4-Q25", "displayNumber": 25, "type": "key-word-transformation", "keyword": "ABSORBED", "sentence1": "Because Alice was finding her book very interesting, she didn’t hear the doorbell ring.", "sentence2Template": "Alice was __________________________ her book that she didn’t hear the doorbell ring.", "scoring": { "fullPoints": 2, "partialPieces": [ { "points": 1, "accepted": ["SO ABSORBED"] }, { "points": 1, "accepted": ["BY", "IN", "BY READING", "IN READING"] } ] }, "acceptedFull": ["SO ABSORBED BY", "SO ABSORBED IN", "SO ABSORBED BY READING", "SO ABSORBED IN READING"], "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P4-Q26", "displayNumber": 26, "type": "key-word-transformation", "keyword": "IF", "sentence1": "We missed the train because we didn’t leave home early enough.", "sentence2Template": "We wouldn’t have missed the train __________________________ home early enough.", "scoring": { "fullPoints": 2, "partialPieces": [ { "points": 1, "accepted": ["IF ONLY WE’D", "IF ONLY WE HAD", "IF WE’D", "IF WE HAD"] }, { "points": 1, "accepted": ["WE’D LEFT", "WE HAD LEFT"] } ] }, "acceptedFull": ["IF ONLY WE’D LEFT", "IF ONLY WE HAD LEFT", "IF WE’D LEFT", "IF WE HAD LEFT"], "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P4-Q27", "displayNumber": 27, "type": "key-word-transformation", "keyword": "CAPABLE", "sentence1": "I’m sure Diane can solve this maths puzzle.", "sentence2Template": "I’m sure Diane __________________________ this maths puzzle.", "scoring": { "fullPoints": 2, "partialPieces": [ { "points": 1, "accepted": ["IS", "’S", "WILL BE", "’LL BE"] }, { "points": 1, "accepted": ["CAPABLE OF SOLVING"] } ] }, "acceptedFull": ["IS CAPABLE OF SOLVING", "’S CAPABLE OF SOLVING", "WILL BE CAPABLE OF SOLVING", "’LL BE CAPABLE OF SOLVING"], "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P4-Q28", "displayNumber": 28, "type": "key-word-transformation", "keyword": "LONG", "sentence1": "I’ll lend you my bike, but only if you look after it.", "sentence2Template": "I’ll lend you my bike __________________________ care of it.", "scoring": { "fullPoints": 2, "partialPieces": [ { "points": 1, "accepted": ["AS LONG AS", "SO LONG AS"] }, { "points": 1, "accepted": ["YOU TAKE"] } ] }, "acceptedFull": ["AS LONG AS YOU TAKE", "SO LONG AS YOU TAKE"], "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P4-Q29", "displayNumber": 29, "type": "key-word-transformation", "keyword": "WILLING", "sentence1": "‘I don’t want to help you with your homework, Sam,’ said his sister.", "sentence2Template": "Sam’s sister said she __________________________ him with his homework.", "scoring": { "fullPoints": 2, "partialPieces": [ { "points": 1, "accepted": ["WAS NOT", "WASN’T"] }, { "points": 1, "accepted": ["WILLING TO HELP"] } ] }, "acceptedFull": ["WAS NOT WILLING TO HELP", "WASN’T WILLING TO HELP"], "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P4-Q30", "displayNumber": 30, "type": "key-word-transformation", "keyword": "DETERMINED", "sentence1": "‘I’m not going to miss my best friend’s party!’ Mary told her mother.", "sentence2Template": "Mary told her mother that she __________________________ to her best friend’s party.", "scoring": { "fullPoints": 2, "partialPieces": [ { "points": 1, "accepted": ["WAS DETERMINED"] }, { "points": 1, "accepted": ["SHE WOULD GO", "SHE’D GO", "TO GO"] } ] }, "acceptedFull": ["WAS DETERMINED SHE WOULD GO", "WAS DETERMINED SHE’D GO", "WAS DETERMINED TO GO"], "explanation": { "en": "TODO", "vi": "TODO" } }
+          ]
+        },
+
+        {
+          "part": 5,
+          "section": "reading",
+          "title": "Part 5 - Reading multiple choice",
+          "instruction": "For questions 31-36, choose the answer (A, B, C or D) which you think fits best according to the text.",
+          "media": { "format": "blocks", "blocks": [ { "type": "title", "text": "Learning freestyle ski jumping" } ] },
+          "reviewPolicy": { "showExplanation": "afterSubmit", "showTranscript": "never" },
+          "questions": [
+            { "id": "B2FS4-T01-RU-P5-Q31", "displayNumber": 31, "type": "multiple-choice", "text": "Harry suggests that David ...", "options": { "A": "had thought he would be in a more advanced group.", "B": "was a good role-model for beginners in the group.", "C": "had not listened to the teacher’s instructions.", "D": "was not as skilled as he appeared to believe." }, "correctAnswer": "D", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P5-Q32", "displayNumber": 32, "type": "multiple-choice", "text": "What is meant by ‘flailing in the air’?", "options": { "A": "announcing his arrival", "B": "suitably positioned for jumping", "C": "waving around uselessly", "D": "raised high in victory" }, "correctAnswer": "C", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P5-Q33", "displayNumber": 33, "type": "multiple-choice", "text": "What does Harry say about his experience of freestyle sports?", "options": { "A": "His fear of failure prevented him from participating.", "B": "His natural ability was never fully recognised.", "C": "He discovered that his original opinion of freestylers was justified.", "D": "He regrets not having developed the skills necessary to do well." }, "correctAnswer": "A", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P5-Q34", "displayNumber": 34, "type": "multiple-choice", "text": "During Harry’s first attempts at ski jumping, he ...", "options": { "A": "felt inhibited by the warning he had been given.", "B": "struggled to overcome his natural instincts.", "C": "showed a determination to improve his technique.", "D": "regarded the fact that he remained upright as progress." }, "correctAnswer": "B", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P5-Q35", "displayNumber": 35, "type": "multiple-choice", "text": "While training on the trampoline, Harry ...", "options": { "A": "resented the fact that he had to stay indoors.", "B": "wished he had realised how difficult he would find it.", "C": "failed to see the relevance of what he was asked to do.", "D": "felt that the criticism he received was fair." }, "correctAnswer": "D", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P5-Q36", "displayNumber": 36, "type": "multiple-choice", "text": "When Harry returned to the slopes after his indoor training, he ...", "options": { "A": "managed several surprisingly competent jumps.", "B": "became convinced perfect jumps were impossible to achieve.", "C": "got into difficulty after managing a good jump.", "D": "suffered a loss of confidence before his last jump." }, "correctAnswer": "C", "explanation": { "en": "TODO", "vi": "TODO" } }
           ]
         },
 
@@ -77,17 +144,16 @@
           "section": "reading",
           "title": "Part 6 - Gapped text",
           "instruction": "Six sentences have been removed. Choose A-G to fit gaps 37-42. One sentence is extra.",
-          "media": {
-            "format": "blocks",
-            "blocks": [
-              { "type": "title", "text": "A computer-generated painting" },
-              { "type": "paragraph", "segments": [ { "t": "text", "v": "Interestingly, a painting unveiled in Holland in 2016 ... looks as if it was painted by Rembrandt’s 17th-century Dutch artist. " }, { "t": "drop", "gapId": 37, "label": "[37]" }, { "t": "text", "v": " It is, in fact, a brand new painting ..." } ] }
-            ]
-          },
+          "media": { "format": "blocks", "blocks": [ { "type": "title", "text": "A computer-generated painting" }, { "type": "paragraph", "segments": [ { "t": "text", "v": "Gap task: " }, { "t": "drop", "gapId": 37, "label": "[37]" }, { "t": "text", "v": " ..." } ] } ] },
           "options": { "A": "However, many art historians, including Rembrandt experts, were incredibly supportive.", "B": "Once the subject had been determined, the next stage of the process could begin.", "C": "These included details like painting strokes, the artist’s preferred angle and so on.", "D": "As a result, they actually considered giving up on it at this point.", "E": "The team then used technology to add depth and texture to their image.", "F": "The authentic-looking masterpiece is not the work of Rembrandt, though.", "G": "For this reason, the team settled on creating something similar." },
           "reviewPolicy": { "showExplanation": "afterSubmit", "showTranscript": "never" },
           "questions": [
-            { "id": "B2FS4-T01-RU-P6-Q37", "displayNumber": 37, "type": "multiple-choice", "options": { "A": "A", "B": "B", "C": "C", "D": "D", "E": "E", "F": "F", "G": "G" }, "correctAnswer": "F", "explanation": { "en": { "keyQuote": "looks as if ... / It is, in fact, a brand new painting", "whyCorrect": "F provides the needed correction: it looks like Rembrandt, but it is not his work, matching \"It is, in fact\" (a correction marker).", "whyWrong": { "C": "\"These\" needs a plural antecedent (features/details) just before.", "G": "Needs the reason about typical portraits, which appears later.", "B": "Is a process-linker after choosing the subject.", "E": "Fits before 3D printing (depth/texture step).", "A": "Fits after the sentence about criticism (contrast).", "D": "No support that they considered giving up at this point." }, "keyTakeaway": "Markers like \"In fact\" usually signal a correction sentence in gapped text." }, "vi": { "keyQuote": "looks as if ... / It is, in fact, a brand new painting", "whyCorrect": "F tạo câu đính chính đúng: trông như Rembrandt nhưng không phải tranh của ông, khớp dấu hiệu \"In fact\".", "whyWrong": { "C": "\"These\" cần danh từ số nhiều ngay trước.", "G": "Cần lý do về mẫu chân dung phổ biến (xuất hiện sau).", "B": "Là câu nối quy trình sau khi chốt chủ thể.", "E": "Hợp trước bước in 3D.", "A": "Hợp đoạn phản ứng sau criticism.", "D": "Không có bằng chứng 'định bỏ cuộc' ở đây." }, "keyTakeaway": "\"In fact\" thường báo hiệu câu đính chính trong Part 6." } } }
+            { "id": "B2FS4-T01-RU-P6-Q37", "displayNumber": 37, "type": "multiple-choice", "text": "Gap 37", "options": { "A": "A", "B": "B", "C": "C", "D": "D", "E": "E", "F": "F", "G": "G" }, "correctAnswer": "F", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P6-Q38", "displayNumber": 38, "type": "multiple-choice", "text": "Gap 38", "options": { "A": "A", "B": "B", "C": "C", "D": "D", "E": "E", "F": "F", "G": "G" }, "correctAnswer": "C", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P6-Q39", "displayNumber": 39, "type": "multiple-choice", "text": "Gap 39", "options": { "A": "A", "B": "B", "C": "C", "D": "D", "E": "E", "F": "F", "G": "G" }, "correctAnswer": "G", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P6-Q40", "displayNumber": 40, "type": "multiple-choice", "text": "Gap 40", "options": { "A": "A", "B": "B", "C": "C", "D": "D", "E": "E", "F": "F", "G": "G" }, "correctAnswer": "B", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P6-Q41", "displayNumber": 41, "type": "multiple-choice", "text": "Gap 41", "options": { "A": "A", "B": "B", "C": "C", "D": "D", "E": "E", "F": "F", "G": "G" }, "correctAnswer": "E", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P6-Q42", "displayNumber": 42, "type": "multiple-choice", "text": "Gap 42", "options": { "A": "A", "B": "B", "C": "C", "D": "D", "E": "E", "F": "F", "G": "G" }, "correctAnswer": "A", "explanation": { "en": "TODO", "vi": "TODO" } }
           ]
         },
 
@@ -96,19 +162,19 @@
           "section": "reading",
           "title": "Part 7 - Multiple matching",
           "instruction": "For questions 43-52, choose from sections A-D. The sections may be chosen more than once.",
-          "media": {
-            "format": "blocks",
-            "blocks": [
-              { "type": "title", "text": "How physical exercise makes your brain work better" },
-              { "type": "sectionHeader", "key": "A", "text": "Section A" },
-              { "type": "paragraph", "segments": [ { "t": "text", "v": "The brain is often described as being like a muscle, however ..." } ] },
-              { "type": "sectionHeader", "key": "B", "text": "Section B" },
-              { "type": "paragraph", "segments": [ { "t": "text", "v": "Runners often get what’s referred to as a ‘runner’s high’ ..." } ] }
-            ]
-          },
+          "media": { "format": "blocks", "blocks": [ { "type": "title", "text": "How physical exercise makes your brain work better" } ] },
           "reviewPolicy": { "showExplanation": "afterSubmit", "showTranscript": "never" },
           "questions": [
-            { "id": "B2FS4-T01-RU-P7-Q46", "displayNumber": 46, "type": "matching", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "A", "explanation": { "en": { "keyQuote": "Section A: \"described ... like a muscle, however, this may not always be a helpful way\"", "whyCorrect": "It explicitly says the comparison may be misleading/unhelpful.", "whyWrong": { "B": "Discusses endorphins/hippocampus, not an analogy being misleading.", "C": "Focuses on learning/attention and warnings about extreme workouts.", "D": "Focuses on gentle exercise and creativity/problem-solving limits." }, "keyTakeaway": "In Part 7, match the stem to a unique function (here: challenging an analogy)." }, "vi": { "keyQuote": "Section A: \"described ... like a muscle, however, ... not always ... helpful\"", "whyCorrect": "Đoạn A nói thẳng phép so sánh có thể không hữu ích -> dễ gây hiểu sai.", "whyWrong": { "B": "Nói về endorphins/hippocampus, không phản biện phép so sánh.", "C": "Nói về học tập/tập luyện quá sức.", "D": "Nói về tập nhẹ/creativity và ngoại lệ." }, "keyTakeaway": "Part 7: ghép câu hỏi với chức năng nổi bật của đoạn (ở đây: phản biện so sánh)." } } }
+            { "id": "B2FS4-T01-RU-P7-Q43", "displayNumber": 43, "type": "matching", "text": "warn that exercising may have the opposite effect to that intended?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "C", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P7-Q44", "displayNumber": 44, "type": "matching", "text": "mention an increase in the size of something as the result of exercise?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "B", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P7-Q45", "displayNumber": 45, "type": "matching", "text": "say even very gentle exercise can have a positive impact?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "D", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P7-Q46", "displayNumber": 46, "type": "matching", "text": "explain why a comparison is a little misleading?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "A", "explanation": { "en": { "keyQuote": "Section A: \"described ... like a muscle, however, this may not always be a helpful way\"", "whyCorrect": "It explicitly says the comparison may be misleading/unhelpful.", "whyWrong": { "B": "Discusses endorphins/hippocampus, not an analogy being misleading.", "C": "Focuses on learning/attention and warnings about extreme workouts.", "D": "Focuses on gentle exercise and creativity/problem-solving limits." }, "keyTakeaway": "In Part 7, match the stem to a unique function (here: challenging an analogy)." }, "vi": { "keyQuote": "Section A: \"described ... like a muscle, however, ... not always ... helpful\"", "whyCorrect": "Đoạn A nói thẳng phép so sánh có thể không hữu ích -> dễ gây hiểu sai.", "whyWrong": { "B": "Nói về endorphins/hippocampus, không phản biện phép so sánh.", "C": "Nói về học tập/tập luyện quá sức.", "D": "Nói về tập nhẹ/creativity và ngoại lệ." }, "keyTakeaway": "Part 7: ghép câu hỏi với chức năng nổi bật của đoạn (ở đây: phản biện so sánh)." } } },
+            { "id": "B2FS4-T01-RU-P7-Q47", "displayNumber": 47, "type": "matching", "text": "give an example of an improvement in students’ ability to focus?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "C", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P7-Q48", "displayNumber": 48, "type": "matching", "text": "say what many people believed about the benefits of exercise has been proved correct?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "D", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P7-Q49", "displayNumber": 49, "type": "matching", "text": "give advice on how to recall information more effectively?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "C", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P7-Q50", "displayNumber": 50, "type": "matching", "text": "mention a doubt about why people sometimes experience a change of mood?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "B", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P7-Q51", "displayNumber": 51, "type": "matching", "text": "warn that a particular type of exercise may not help with problem solving?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "D", "explanation": { "en": "TODO", "vi": "TODO" } },
+            { "id": "B2FS4-T01-RU-P7-Q52", "displayNumber": 52, "type": "matching", "text": "welcome the idea of matching exercise type to particular mental challenges?", "options": { "A": "Section A", "B": "Section B", "C": "Section C", "D": "Section D" }, "correctAnswer": "A", "explanation": { "en": "TODO", "vi": "TODO" } }
           ]
         }
       ]
