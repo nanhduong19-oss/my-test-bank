@@ -1,0 +1,16 @@
+[
+  {
+    "id": "b2-schools-4-test-1",
+    "bookName": "B2 First for Schools 4",
+    "testName": "Test 1",
+    "dataFile": "FCE/B2 First for Schools 4 - Test 1.json",
+    "status": "ready"
+  },
+  {
+    "id": "b2-schools-4-test-2",
+    "bookName": "B2 First for Schools 4",
+    "testName": "Test 2",
+    "dataFile": "FCE/B2 First for Schools 4 - Test 2.json",
+    "status": "not yet"
+  }
+]
