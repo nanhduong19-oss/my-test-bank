@@ -1,0 +1,312 @@
+{
+  "schemaVersion": "2.0",
+  "testId": "pet-reading-ft01",
+  "testCode": "FT01",
+  "title": "PET Reading - Full Test 1",
+  "skill": "READING",
+  "exam": "PET",
+  "level": "B1 Preliminary",
+  "meta": {
+    "sourceType": "book_scan",
+    "sourceName": "PET Reading Source",
+    "estimatedMinutes": 45,
+    "tags": ["reading", "pet", "full-test"]
+  },
+  "parts": [
+    {
+      "partId": "PART1",
+      "partInstanceId": "pet-reading-ft01-part1",
+      "sourceTestId": "pet-reading-ft01",
+      "partNumber": 1,
+      "partType": "notice_mcq",
+      "title": "Part 1",
+      "questionRange": "1-5",
+      "instructions": "For each question, choose the correct answer.",
+      "ui": {
+        "layout": "split-left-prompt-right-options",
+        "promptFormat": "html"
+      },
+      "content": {},
+      "questions": [
+        {
+          "questionId": "pet-reading-ft01-part1-q1",
+          "number": 1,
+          "format": "html",
+          "htmlContent": "<div>...</div>",
+          "prompt": "What does the notice say?",
+          "options": [
+            { "key": "A", "text": "..." },
+            { "key": "B", "text": "..." },
+            { "key": "C", "text": "..." }
+          ],
+          "answer": "A",
+          "explanation": {
+            "correctAnswerReason": "",
+            "textEvidence": [],
+            "paraphraseMap": [],
+            "wrongOptionAnalysis": {},
+            "vocabulary": [],
+            "grammarNotes": [],
+            "strategyNote": ""
+          }
+        }
+      ],
+      "scoring": {
+        "mode": "exact_match",
+        "pointsPerQuestion": 1
+      },
+      "review": {
+        "showPerQuestion": true
+      }
+    },
+    {
+      "partId": "PART2",
+      "partInstanceId": "pet-reading-ft01-part2",
+      "sourceTestId": "pet-reading-ft01",
+      "partNumber": 2,
+      "partType": "matching_reviews",
+      "title": "Part 2",
+      "questionRange": "6-10",
+      "instructions": "For each question, choose the correct answer.",
+      "ui": {
+        "interaction": "drag_drop_or_click_match"
+      },
+      "content": {
+        "introHtml": "<p>...</p>",
+        "leftItems": [
+          {
+            "questionId": "pet-reading-ft01-part2-q6",
+            "number": 6,
+            "name": "Name",
+            "profileHtml": "<p>...</p>",
+            "answer": "A"
+          }
+        ],
+        "rightOptions": [
+          {
+            "key": "A",
+            "title": "Title A",
+            "htmlContent": "<p>...</p>"
+          }
+        ]
+      },
+      "questions": [],
+      "scoring": {
+        "mode": "exact_match",
+        "pointsPerQuestion": 1
+      },
+      "review": {
+        "explanations": [
+          {
+            "questionId": 6,
+            "correctAnswer": "A",
+            "reason": "",
+            "textEvidence": [],
+            "cohesionClues": [],
+            "paraphraseMap": [],
+            "wrongOptionAnalysis": {}
+          }
+        ]
+      }
+    },
+    {
+      "partId": "PART3",
+      "partInstanceId": "pet-reading-ft01-part3",
+      "sourceTestId": "pet-reading-ft01",
+      "partNumber": 3,
+      "partType": "reading_mcq_highlight",
+      "title": "Part 3",
+      "questionRange": "11-15",
+      "instructions": "For each question, choose the correct answer.",
+      "ui": {
+        "layout": "passage-left-questions-right",
+        "highlightEnabled": true
+      },
+      "content": {
+        "title": "Reading title",
+        "subtitle": "Reading subtitle",
+        "passageHtml": "<p>...</p>"
+      },
+      "questions": [
+        {
+          "questionId": "pet-reading-ft01-part3-q11",
+          "number": 11,
+          "question": "Question text",
+          "options": [
+            { "key": "A", "text": "..." },
+            { "key": "B", "text": "..." },
+            { "key": "C", "text": "..." },
+            { "key": "D", "text": "..." }
+          ],
+          "answer": "A",
+          "requiredEvidence": {
+            "mode": "text_span_or_keywords",
+            "acceptedQuotes": ["..."],
+            "acceptedKeywords": [
+              ["keyword1", "keyword2"]
+            ]
+          },
+          "explanation": {
+            "correctAnswerReason": "",
+            "textEvidence": [],
+            "paraphraseMap": [],
+            "wrongOptionAnalysis": {},
+            "vocabulary": [],
+            "grammarNotes": [],
+            "strategyNote": ""
+          }
+        }
+      ],
+      "scoring": {
+        "mode": "answer_plus_evidence",
+        "rules": {
+          "correctAnswerOnly": 0,
+          "correctAnswerWithEvidence": 1
+        }
+      },
+      "review": {
+        "showEvidenceFeedback": true
+      }
+    },
+    {
+      "partId": "PART4",
+      "partInstanceId": "pet-reading-ft01-part4",
+      "sourceTestId": "pet-reading-ft01",
+      "partNumber": 4,
+      "partType": "gapped_text_dragdrop",
+      "title": "Part 4",
+      "questionRange": "16-20",
+      "instructions": "Five sentences have been removed from the text below...",
+      "ui": {
+        "interaction": "drag_drop"
+      },
+      "content": {
+        "title": "Gapped text title",
+        "passageSegments": [
+          { "type": "text", "html": "<p>...</p>" },
+          { "type": "gap", "gapId": 16 },
+          { "type": "text", "html": "<p>...</p>" }
+        ],
+        "optionBank": [
+          { "key": "A", "text": "..." },
+          { "key": "B", "text": "..." },
+          { "key": "C", "text": "..." }
+        ]
+      },
+      "questions": [
+        {
+          "questionId": "pet-reading-ft01-part4-q16",
+          "number": 16,
+          "answer": "A"
+        }
+      ],
+      "scoring": {
+        "mode": "exact_match",
+        "pointsPerQuestion": 1
+      },
+      "review": {
+        "explanations": [
+          {
+            "questionId": 16,
+            "correctAnswer": "A",
+            "reason": "",
+            "textEvidence": [],
+            "cohesionClues": [],
+            "paraphraseMap": [],
+            "wrongOptionAnalysis": {}
+          }
+        ],
+        "showUnusedOptions": true
+      }
+    },
+    {
+      "partId": "PART5",
+      "partInstanceId": "pet-reading-ft01-part5",
+      "sourceTestId": "pet-reading-ft01",
+      "partNumber": 5,
+      "partType": "openable_gap_mcq",
+      "title": "Part 5",
+      "questionRange": "21-26",
+      "instructions": "For each question, choose the correct answer.",
+      "ui": {
+        "interaction": "click_gap_show_options"
+      },
+      "content": {
+        "title": "Gap-fill title",
+        "passageTemplate": "<p>... [[21]] ... [[22]] ...</p>"
+      },
+      "questions": [
+        {
+          "questionId": "pet-reading-ft01-part5-q21",
+          "number": 21,
+          "options": [
+            { "key": "A", "text": "..." },
+            { "key": "B", "text": "..." },
+            { "key": "C", "text": "..." },
+            { "key": "D", "text": "..." }
+          ],
+          "answer": "A",
+          "insertText": "answer-word",
+          "explanation": {
+            "correctAnswerReason": "",
+            "textEvidence": [],
+            "paraphraseMap": [],
+            "wrongOptionAnalysis": {},
+            "vocabulary": [],
+            "grammarNotes": [],
+            "strategyNote": ""
+          }
+        }
+      ],
+      "scoring": {
+        "mode": "exact_match",
+        "pointsPerQuestion": 1
+      },
+      "review": {
+        "showFilledPassage": true
+      }
+    },
+    {
+      "partId": "PART6",
+      "partInstanceId": "pet-reading-ft01-part6",
+      "sourceTestId": "pet-reading-ft01",
+      "partNumber": 6,
+      "partType": "inline_word_entry",
+      "title": "Part 6",
+      "questionRange": "27-32",
+      "instructions": "For each question, write the correct answer. Write one word for each gap.",
+      "ui": {
+        "interaction": "inline_text_input"
+      },
+      "content": {
+        "title": "Open cloze title",
+        "passageTemplate": "<p>... [[27]] ... [[28]] ...</p>"
+      },
+      "questions": [
+        {
+          "questionId": "pet-reading-ft01-part6-q27",
+          "number": 27,
+          "answer": ["it"],
+          "caseSensitive": false,
+          "acceptedVariants": [],
+          "explanation": {
+            "correctAnswerReason": "",
+            "textEvidence": [],
+            "paraphraseMap": [],
+            "wrongOptionAnalysis": {},
+            "vocabulary": [],
+            "grammarNotes": [],
+            "strategyNote": ""
+          }
+        }
+      ],
+      "scoring": {
+        "mode": "case_insensitive_exact_match",
+        "pointsPerQuestion": 1
+      },
+      "review": {
+        "showCorrectAnswersInline": true
+      }
+    }
+  ]
+}
