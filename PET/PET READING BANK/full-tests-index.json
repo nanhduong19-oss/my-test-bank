@@ -8,14 +8,14 @@
       "testId": "pet-reading-ft01",
       "testCode": "FT01",
       "title": "PET Reading - Full Test 1",
-      "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/data/pet-reading-ft01.json",
+      "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/PET READING BANK/pet-reading-ft01.json",
       "parts": ["PART1", "PART2", "PART3", "PART4", "PART5", "PART6"]
     },
     {
       "testId": "pet-reading-ft02",
       "testCode": "FT02",
       "title": "PET Reading - Full Test 2",
-      "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/data/pet-reading-ft02.json",
+      "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/PET READING BANK/pet-reading-ft02.json",
       "parts": ["PART1", "PART2", "PART3", "PART4", "PART5", "PART6"]
     }
   ]
