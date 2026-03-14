@@ -1,0 +1,1384 @@
+{
+  "schemaVersion": "2.0",
+  "testId": "pet-reading-ft01",
+  "testCode": "FT01",
+  "title": "PET Reading - Full Test 1",
+  "skill": "READING",
+  "exam": "PET",
+  "level": "B1 Preliminary",
+  "meta": {
+    "sourceType": "book_scan",
+    "sourceName": "PET Reading Source",
+    "estimatedMinutes": 45,
+    "tags": ["reading", "pet", "full-test"]
+  },
+  "parts": [
+    {
+      "partId": "PART1",
+      "partInstanceId": "pet-reading-ft01-part1",
+      "sourceTestId": "pet-reading-ft01",
+      "partNumber": 1,
+      "partType": "notice_mcq",
+      "title": "Part 1",
+      "questionRange": "1-5",
+      "instructions": "For each question, choose the correct answer.",
+      "ui": {
+        "layout": "split-left-prompt-right-options",
+        "promptFormat": "html"
+      },
+      "content": {},
+      "questions": [
+        {
+          "questionId": "pet-reading-ft01-part1-q1",
+          "number": 1,
+          "format": "html",
+          "htmlContent": "<div class=\"notice-card\"><div class=\"title\"><strong>College Shop</strong></div><div class=\"message\">Now is the time to buy essential items like pens and folders - prices reduced until Friday.<br><br>Open daily during lunch breaks. Also for 30 minutes after last class every day apart from Monday.</div></div>",
+          "prompt": "What does the notice say?",
+          "options": [
+            { "key": "A", "text": "Students must go to the college shop to buy certain items for their studies." },
+            { "key": "B", "text": "Students can take advantage of special offers at the college shop at the moment." },
+            { "key": "C", "text": "Students may visit the college shop at lunchtime every day except Monday." }
+          ],
+          "answer": "B",
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là B vì thông báo nói rõ rằng đây là thời điểm nên mua các đồ dùng cần thiết vì giá đang được giảm đến thứ Sáu. Điều này thể hiện học sinh đang có cơ hội hưởng ưu đãi hoặc khuyến mãi ở cửa hàng.",
+            "textEvidence": [
+              "Now is the time to buy essential items like pens and folders",
+              "prices reduced until Friday"
+            ],
+            "paraphraseMap": [
+              {
+                "fromText": "prices reduced until Friday",
+                "toOption": "can take advantage of special offers at the moment"
+              }
+            ],
+            "wrongOptionAnalysis": {
+              "A": "Sai vì thông báo không nói học sinh bắt buộc phải đến cửa hàng để mua đồ. Nội dung chỉ nói đây là thời điểm tốt để mua vì đang giảm giá.",
+              "C": "Sai vì cửa hàng mở vào giờ ăn trưa hằng ngày, không loại trừ thứ Hai. Cụm 'apart from Monday' chỉ áp dụng cho thời gian mở thêm 30 phút sau giờ học cuối cùng, không phải giờ nghỉ trưa."
+            },
+            "vocabulary": [
+              { "word": "essential items", "meaningVi": "đồ dùng cần thiết" },
+              { "word": "prices reduced", "meaningVi": "giá được giảm" },
+              { "word": "take advantage of", "meaningVi": "tận dụng" }
+            ],
+            "grammarNotes": [
+              {
+                "pattern": "apart from + noun",
+                "meaningVi": "ngoại trừ"
+              }
+            ],
+            "strategyNote": "Ở dạng notice ngắn, cần chú ý thật kỹ thông tin về thời gian và điều kiện áp dụng. Câu này bẫy ở chỗ 'apart from Monday' không áp dụng cho toàn bộ thời gian mở cửa."
+          }
+        },
+        {
+          "questionId": "pet-reading-ft01-part1-q2",
+          "number": 2,
+          "format": "html",
+          "htmlContent": "<div class=\"phone-message\"><div class=\"message\">Hi Max,<br><br>I’m afraid I’ll no longer be able to come on the shopping trip tomorrow. My aunt is visiting and didn’t give us much notice.<br><br>Jake</div></div>",
+          "prompt": "Jake is writing to",
+          "options": [
+            { "key": "A", "text": "suggest a new date for a shopping trip." },
+            { "key": "B", "text": "invite Max to meet one of his relatives." },
+            { "key": "C", "text": "cancel an arrangement he had made." }
+          ],
+          "answer": "C",
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là C vì Jake nói rằng cậu ấy 'không còn có thể đi' trong chuyến đi mua sắm vào ngày mai. Điều này cho thấy cậu ấy đang hủy một kế hoạch đã sắp xếp từ trước.",
+            "textEvidence": [
+              "I’ll no longer be able to come on the shopping trip tomorrow"
+            ],
+            "paraphraseMap": [
+              {
+                "fromText": "I’ll no longer be able to come",
+                "toOption": "cancel an arrangement he had made"
+              }
+            ],
+            "wrongOptionAnalysis": {
+              "A": "Sai vì Jake không đề xuất ngày mới nào cho chuyến đi.",
+              "B": "Sai vì Jake chỉ nói dì của mình sẽ đến thăm, chứ không mời Max gặp người thân đó."
+            },
+            "vocabulary": [
+              { "word": "no longer", "meaningVi": "không còn nữa" },
+              { "word": "shopping trip", "meaningVi": "chuyến đi mua sắm" },
+              { "word": "notice", "meaningVi": "sự báo trước, thông báo trước" },
+              { "word": "arrangement", "meaningVi": "sự sắp xếp, kế hoạch đã hẹn" }
+            ],
+            "grammarNotes": [
+              {
+                "pattern": "be able to + verb",
+                "meaningVi": "có thể làm gì"
+              }
+            ],
+            "strategyNote": "Trong tin nhắn ngắn, hãy xác định mục đích chính của người viết: mời, xin lỗi, giải thích hay hủy hẹn. Câu này có dấu hiệu rất rõ là hủy kế hoạch."
+          }
+        },
+        {
+          "questionId": "pet-reading-ft01-part1-q3",
+          "number": 3,
+          "format": "html",
+          "htmlContent": "<div class=\"notice-card\"><div class=\"title\"><strong>Special Offer</strong></div><div class=\"message\">Order any pizza by 7 p.m. and get another one half-price!</div></div>",
+          "prompt": "What does the notice say?",
+          "options": [
+            { "key": "A", "text": "All the pizzas in the restaurant are included in this offer." },
+            { "key": "B", "text": "Any pizza ordered before 7 p.m. costs less than the usual price." },
+            { "key": "C", "text": "At certain times, a customer can get two pizzas for the price of one." }
+          ],
+          "answer": "A",
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là A vì thông báo ghi 'Order any pizza by 7 p.m.' - tức là bất kỳ loại pizza nào cũng được áp dụng trong chương trình ưu đãi này.",
+            "textEvidence": [
+              "Order any pizza by 7 p.m."
+            ],
+            "paraphraseMap": [
+              {
+                "fromText": "any pizza",
+                "toOption": "All the pizzas in the restaurant are included in this offer"
+              }
+            ],
+            "wrongOptionAnalysis": {
+              "B": "Sai vì không phải bất kỳ pizza nào gọi trước 7 giờ cũng đều rẻ hơn giá thường. Thông báo nói rằng khi gọi một pizza trước 7 giờ, khách sẽ được chiếc thứ hai với giá bằng một nửa.",
+              "C": "Sai vì khách không được hai pizza với giá của một chiếc. Chiếc thứ hai chỉ được giảm một nửa giá, không phải miễn phí hoàn toàn."
+            },
+            "vocabulary": [
+              { "word": "special offer", "meaningVi": "ưu đãi đặc biệt" },
+              { "word": "half-price", "meaningVi": "giảm còn một nửa giá" },
+              { "word": "order", "meaningVi": "gọi món, đặt món" }
+            ],
+            "grammarNotes": [
+              {
+                "pattern": "get another one half-price",
+                "meaningVi": "được thêm một cái khác với giá bằng một nửa"
+              }
+            ],
+            "strategyNote": "Dạng quảng cáo ngắn rất hay đánh lừa giữa 'free', 'half-price' và 'reduced price'. Cần đọc chính xác mức ưu đãi, không suy diễn thành mua 1 tặng 1."
+          }
+        },
+        {
+          "questionId": "pet-reading-ft01-part1-q4",
+          "number": 4,
+          "format": "html",
+          "htmlContent": "<div class=\"notice-window\"><div class=\"meta\"><div><strong>From:</strong> Mr Wood</div><div><strong>To:</strong> All students</div><div><strong>Subject:</strong> Recycling</div></div><div class=\"message\">We’ve done very well with the recycling paper and plastic waste in the school this term - but we could do better! Please put any suggestions in the box outside my office.</div></div>",
+          "prompt": "What does the notice say?",
+          "options": [
+            { "key": "A", "text": "Mr Wood has made suggestions on how to recycle waste produced by the school." },
+            { "key": "B", "text": "Recycling materials should be put into the box outside Mr Wood’s office." },
+            { "key": "C", "text": "Mr Wood wants new ideas on ways to improve waste recycling in the school." }
+          ],
+          "answer": "C",
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là C vì thông báo nói nhà trường đã làm khá tốt việc tái chế, nhưng vẫn có thể làm tốt hơn nữa, và học sinh được yêu cầu bỏ các ý kiến đóng góp vào chiếc hộp ngoài văn phòng của Mr Wood. Điều này cho thấy Mr Wood đang muốn nhận thêm ý tưởng mới để cải thiện việc tái chế trong trường.",
+            "textEvidence": [
+              "but we could do better!",
+              "Please put any suggestions in the box outside my office."
+            ],
+            "paraphraseMap": [
+              {
+                "fromText": "could do better",
+                "toOption": "improve waste recycling"
+              },
+              {
+                "fromText": "put any suggestions",
+                "toOption": "wants new ideas"
+              }
+            ],
+            "wrongOptionAnalysis": {
+              "A": "Sai vì thông báo không nói Mr Wood đã đưa ra các gợi ý. Ngược lại, ông ấy đang yêu cầu người khác gửi gợi ý cho mình.",
+              "B": "Sai vì chiếc hộp ngoài văn phòng là để bỏ các đề xuất, không phải để bỏ giấy hoặc nhựa cần tái chế."
+            },
+            "vocabulary": [
+              { "word": "recycling", "meaningVi": "việc tái chế" },
+              { "word": "waste", "meaningVi": "rác thải" },
+              { "word": "suggestion", "meaningVi": "ý kiến đề xuất" },
+              { "word": "improve", "meaningVi": "cải thiện" }
+            ],
+            "grammarNotes": [
+              {
+                "pattern": "could do better",
+                "meaningVi": "có thể làm tốt hơn"
+              }
+            ],
+            "strategyNote": "Ở dạng notice ngắn, cần đọc chính xác mục đích của thông báo. Cụm 'put any suggestions' thường dẫn tới đáp án kiểu asking for ideas, không phải giving instructions about rubbish."
+          }
+        },
+        {
+          "questionId": "pet-reading-ft01-part1-q5",
+          "number": 5,
+          "format": "html",
+          "htmlContent": "<div class=\"phone-message\"><div class=\"message\">Hi Sam,<br><br>Thanks for taking me to the cinema last night. I didn’t say at the time but I was a bit frightened! I think I need to watch a comedy next time!<br><br>Mel</div></div>",
+          "prompt": "Mel is texting to",
+          "options": [
+            { "key": "A", "text": "accept Sam’s invitation to the cinema." },
+            { "key": "B", "text": "admit to Sam that she found the film scary." },
+            { "key": "C", "text": "ask when Sam can see another film with her." }
+          ],
+          "answer": "B",
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là B vì Mel nói 'I didn’t say at the time but I was a bit frightened!', nghĩa là lúc đó cô ấy chưa nói ra, nhưng bây giờ đang thừa nhận với Sam rằng mình thấy bộ phim hơi đáng sợ.",
+            "textEvidence": [
+              "I didn’t say at the time",
+              "I was a bit frightened!"
+            ],
+            "paraphraseMap": [
+              {
+                "fromText": "I didn’t say at the time",
+                "toOption": "admit"
+              },
+              {
+                "fromText": "I was a bit frightened",
+                "toOption": "found the film scary"
+              }
+            ],
+            "wrongOptionAnalysis": {
+              "A": "Sai vì chuyến đi xem phim đã diễn ra rồi vào 'last night', nên Mel không phải đang chấp nhận một lời mời trong tương lai.",
+              "C": "Sai vì Mel chỉ nói 'next time' theo nghĩa chung chung, chứ không hỏi Sam khi nào họ sẽ đi xem phim lần nữa."
+            },
+            "vocabulary": [
+              { "word": "frightened", "meaningVi": "sợ hãi" },
+              { "word": "comedy", "meaningVi": "phim hài" },
+              { "word": "admit", "meaningVi": "thừa nhận" }
+            ],
+            "grammarNotes": [
+              {
+                "pattern": "didn’t say at the time",
+                "meaningVi": "lúc đó đã không nói ra"
+              }
+            ],
+            "strategyNote": "Ở dạng text message, hãy xác định mục đích chính của người viết: cảm ơn, xin lỗi, giải thích, mời, hay thừa nhận điều gì đó."
+          }
+        }
+      ],
+      "scoring": {
+        "mode": "exact_match",
+        "pointsPerQuestion": 1
+      },
+      "review": {
+        "showPerQuestion": true
+      }
+    },
+    {
+      "partId": "PART2",
+      "partInstanceId": "pet-reading-ft01-part2",
+      "sourceTestId": "pet-reading-ft01",
+      "partNumber": 2,
+      "partType": "matching_reviews",
+      "title": "Part 2",
+      "questionRange": "6-10",
+      "instructions": "For each question, choose the correct answer.",
+      "ui": {
+        "interaction": "drag_drop_or_click_match"
+      },
+      "content": {
+        "introHtml": "<p>The people below all want to find a book to read.</p><p>On the opposite page there are eight book reviews.</p><p>Decide which book would be the most suitable for the people below.</p>",
+        "leftItems": [
+          {
+            "questionId": "pet-reading-ft01-part2-q6",
+            "number": 6,
+            "name": "Ahmed",
+            "profileHtml": "<p>Ahmed enjoys reading about real people, especially if they tell their own story. He’d like to read a book by someone who’s had to deal with difficulties in their life.</p>",
+            "answer": "G"
+          },
+          {
+            "questionId": "pet-reading-ft01-part2-q7",
+            "number": 7,
+            "name": "Pritti",
+            "profileHtml": "<p>Pritti loves doing all kinds of sport. She’d like to learn as much as possible about top sportspeople from all over the world and how they’ve managed to achieve their goals.</p>",
+            "answer": "C"
+          },
+          {
+            "questionId": "pet-reading-ft01-part2-q8",
+            "number": 8,
+            "name": "Conal",
+            "profileHtml": "<p>Conal loves nature and enjoys writing about it. He wants ideas to help him further develop his writing skills and would love to have a career as a writer.</p>",
+            "answer": "E"
+          },
+          {
+            "questionId": "pet-reading-ft01-part2-q9",
+            "number": 9,
+            "name": "Elif",
+            "profileHtml": "<p>Elif likes reading books about adventures. She loves learning about people who did brave things in the past, and how their actions have influenced the way we live today.</p>",
+            "answer": "B"
+          },
+          {
+            "questionId": "pet-reading-ft01-part2-q10",
+            "number": 10,
+            "name": "Stefan",
+            "profileHtml": "<p>Stefan enjoys travelling and is keen to discover more about other cultures. He also wants to learn how to make typical dishes from a variety of countries.</p>",
+            "answer": "H"
+          }
+        ],
+        "rightOptions": [
+          {
+            "key": "A",
+            "title": "Being Me",
+            "htmlContent": "<p>This book is full of practical advice for anyone who wants to be fit and healthy. Famous sportspeople have contributed their favourite recipes, and you’ll also find instructions for a daily exercise routine.</p>"
+          },
+          {
+            "key": "B",
+            "title": "Endless Days",
+            "htmlContent": "<p>In this book, the novelist tells the true story of the first pilots to fly across the Atlantic. With plenty of photographs and a detailed discussion of the importance of these events for the modern world, the book successfully brings history to life for readers everywhere.</p>"
+          },
+          {
+            "key": "C",
+            "title": "Action Plan",
+            "htmlContent": "<p>Action Plan is all about famous athletes, and there are some amazing photos of them competing. There are also lots of interviews about what they’ve done to succeed in their careers. You’ll find out about things like the food they eat, the number of hours they train, and what they do to prepare for important competitions.</p>"
+          },
+          {
+            "key": "D",
+            "title": "Memories",
+            "htmlContent": "<p>The prize-winning author of Memories is famous for his unusual writing style and exciting adventure stories. In this book, he takes us on a journey around the world and teaches us all about other cultures and their histories. He describes some of the world’s most beautiful nature, as well as the many interesting people he has met.</p>"
+          },
+          {
+            "key": "E",
+            "title": "Days in the Sun",
+            "htmlContent": "<p>In this book, a well-known author describes his happy early life growing up on a small Irish farm and how travelling around the countryside inspired him to become an author. He describes in detail how he improved his style, and his experiences will interest anyone who is hoping to get their own work published.</p>"
+          },
+          {
+            "key": "F",
+            "title": "Parrots in Paradise",
+            "htmlContent": "<p>This newly published adventure story is about a young girl who’s lost on a beautiful island with only birds and animals for company. The story deals with some of the difficulties she has, but there’s also lots of excitement. If you love well-written fiction, this book’s for you!</p>"
+          },
+          {
+            "key": "G",
+            "title": "Night Light",
+            "htmlContent": "<p>In Night Light, the writer tells us how he became a world-class athlete. He talks about his life as a blind person, and describes the challenges he faced on his way to the top in the world of sports. The book is written in an entertaining and amusing style, which makes it a very enjoyable read.</p>"
+          },
+          {
+            "key": "H",
+            "title": "Our Lives",
+            "htmlContent": "<p>This is the perfect book if you’re interested in how people live in different parts of the world. It also includes recipes for traditional meals from these places. There are wonderful photos, not only of the people, but also of the wildlife and scenery in each location.</p>"
+          }
+        ]
+      },
+      "questions": [],
+      "scoring": {
+        "mode": "exact_match",
+        "pointsPerQuestion": 1
+      },
+      "review": {
+        "explanations": [
+          {
+            "questionId": 6,
+            "correctAnswer": "G",
+            "reason": "Đáp án đúng là G vì Ahmed muốn đọc về người thật, nhất là người tự kể câu chuyện cuộc đời mình và đã phải vượt qua khó khăn. Cuốn 'Night Light' đúng với yêu cầu này vì do chính nhân vật kể lại hành trình trở thành vận động viên đẳng cấp thế giới, đồng thời nói rõ những thử thách anh ấy gặp phải khi sống như một người khiếm thị.",
+            "textEvidence": [
+              "the writer tells us how he became a world-class athlete",
+              "He talks about his life as a blind person",
+              "describes the challenges he faced"
+            ],
+            "cohesionClues": [],
+            "paraphraseMap": [
+              {
+                "fromQuestion": "real people",
+                "toText": "the writer tells us how he became..."
+              },
+              {
+                "fromQuestion": "tell their own story",
+                "toText": "He talks about his life..."
+              },
+              {
+                "fromQuestion": "deal with difficulties",
+                "toText": "describes the challenges he faced"
+              }
+            ],
+            "wrongOptionAnalysis": {
+              "C": "Sai vì sách này cũng nói về vận động viên, nhưng tập trung nhiều vào luyện tập, chế độ ăn và con đường thành công hơn là một câu chuyện đời thực về việc vượt khó.",
+              "E": "Sai vì đây cũng là sách mang tính tự truyện, nhưng trọng tâm là quá trình trở thành nhà văn chứ không nhấn mạnh việc đối mặt với những khó khăn lớn trong cuộc sống."
+            }
+          },
+          {
+            "questionId": 7,
+            "correctAnswer": "C",
+            "reason": "Đáp án đúng là C vì Pritti yêu thích thể thao và muốn biết nhiều nhất có thể về các vận động viên hàng đầu cũng như cách họ đạt được thành công. 'Action Plan' hoàn toàn phù hợp vì nói về các vận động viên nổi tiếng, có phỏng vấn về những điều họ đã làm để thành công, cùng thông tin về ăn uống, luyện tập và chuẩn bị cho thi đấu.",
+            "textEvidence": [
+              "all about famous athletes",
+              "interviews about what they’ve done to succeed in their careers",
+              "the number of hours they train"
+            ],
+            "cohesionClues": [],
+            "paraphraseMap": [
+              {
+                "fromQuestion": "top sportspeople",
+                "toText": "famous athletes"
+              },
+              {
+                "fromQuestion": "how they’ve managed to achieve their goals",
+                "toText": "what they’ve done to succeed"
+              }
+            ],
+            "wrongOptionAnalysis": {
+              "A": "Sai vì cuốn này có sự đóng góp của các vận động viên nổi tiếng, nhưng trọng tâm là lời khuyên sống khỏe, công thức món ăn và bài tập hằng ngày, không đi sâu vào hành trình sự nghiệp của họ.",
+              "G": "Sai vì đây chỉ là câu chuyện của một vận động viên, không phải nhiều vận động viên hàng đầu từ nhiều nơi."
+            }
+          },
+          {
+            "questionId": 8,
+            "correctAnswer": "E",
+            "reason": "Đáp án đúng là E vì Conal yêu thiên nhiên, thích viết về thiên nhiên, muốn cải thiện kỹ năng viết và mơ ước trở thành nhà văn. 'Days in the Sun' phù hợp nhất vì nhắc tới vùng quê truyền cảm hứng cho tác giả, quá trình ông ấy cải thiện văn phong và kinh nghiệm hữu ích cho những ai muốn xuất bản tác phẩm của mình.",
+            "textEvidence": [
+              "travelling around the countryside inspired him to become an author",
+              "how he improved his style",
+              "anyone who is hoping to get their own work published"
+            ],
+            "cohesionClues": [],
+            "paraphraseMap": [
+              {
+                "fromQuestion": "loves nature",
+                "toText": "countryside inspired him"
+              },
+              {
+                "fromQuestion": "develop his writing skills",
+                "toText": "improved his style"
+              },
+              {
+                "fromQuestion": "career as a writer",
+                "toText": "get their own work published"
+              }
+            ],
+            "wrongOptionAnalysis": {
+              "D": "Sai vì sách này có nói về du lịch, văn hóa và thiên nhiên, nhưng không tập trung vào việc cải thiện kỹ năng viết hay con đường trở thành nhà văn.",
+              "F": "Sai vì đây là truyện hư cấu có yếu tố thiên nhiên và phiêu lưu, không phải cuốn sách truyền cảm hứng cho người muốn viết chuyên nghiệp."
+            }
+          },
+          {
+            "questionId": 9,
+            "correctAnswer": "B",
+            "reason": "Đáp án đúng là B vì Elif thích sách phiêu lưu, thích tìm hiểu về những con người dũng cảm trong quá khứ và cách hành động của họ ảnh hưởng tới cuộc sống ngày nay. 'Endless Days' kể câu chuyện có thật về những phi công đầu tiên bay qua Đại Tây Dương và giải thích tầm quan trọng của sự kiện đó đối với thế giới hiện đại.",
+            "textEvidence": [
+              "the true story of the first pilots to fly across the Atlantic",
+              "the importance of these events for the modern world"
+            ],
+            "cohesionClues": [],
+            "paraphraseMap": [
+              {
+                "fromQuestion": "people who did brave things in the past",
+                "toText": "the first pilots to fly across the Atlantic"
+              },
+              {
+                "fromQuestion": "influenced the way we live today",
+                "toText": "importance of these events for the modern world"
+              }
+            ],
+            "wrongOptionAnalysis": {
+              "D": "Sai vì sách này nói về du lịch và các nền văn hóa, không nói về những nhân vật lịch sử dũng cảm đã tạo ảnh hưởng lớn tới hiện tại.",
+              "F": "Sai vì đây là truyện phiêu lưu hư cấu, không phải câu chuyện có thật về người thật trong quá khứ."
+            }
+          },
+          {
+            "questionId": 10,
+            "correctAnswer": "H",
+            "reason": "Đáp án đúng là H vì Stefan thích du lịch, muốn khám phá các nền văn hóa khác nhau và còn muốn học cách nấu các món ăn đặc trưng của nhiều quốc gia. 'Our Lives' đúng với nhu cầu này vì nói về cách con người sống ở các nơi khác nhau trên thế giới và có kèm công thức cho những món ăn truyền thống.",
+            "textEvidence": [
+              "how people live in different parts of the world",
+              "includes recipes for traditional meals"
+            ],
+            "cohesionClues": [],
+            "paraphraseMap": [
+              {
+                "fromQuestion": "discover more about other cultures",
+                "toText": "how people live in different parts of the world"
+              },
+              {
+                "fromQuestion": "make typical dishes",
+                "toText": "recipes for traditional meals"
+              }
+            ],
+            "wrongOptionAnalysis": {
+              "D": "Sai vì sách này có yếu tố du lịch và văn hóa, nhưng không có công thức nấu ăn.",
+              "A": "Sai vì cuốn này có công thức, nhưng là công thức liên quan đến lối sống khỏe mạnh chứ không phải các món truyền thống từ nhiều nơi trên thế giới."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "partId": "PART3",
+      "partInstanceId": "pet-reading-ft01-part3",
+      "sourceTestId": "pet-reading-ft01",
+      "partNumber": 3,
+      "partType": "reading_mcq_highlight",
+      "title": "Part 3",
+      "questionRange": "11-15",
+      "instructions": "For each question, choose the correct answer.",
+      "ui": {
+        "layout": "passage-left-questions-right",
+        "highlightEnabled": true
+      },
+      "content": {
+        "title": "Cyclist Vicky Harmiston",
+        "subtitle": "Reporter Mark Lewis writes about Vicky Harmiston, who has had a successful career as a track cyclist - a cyclist who races on special race tracks.",
+        "passageHtml": "<p>When Vicky Harmiston was a child, her parents gave her and her brother Jamie the freedom to decide what they did in their spare time. Vicky chose to do lots of different sports. She was a good swimmer, and the coach at the swimming club she went to thought she might be good enough to become a champion. But the club was a long way from home so it was difficult for her to fit in the training around her schoolwork. When they were teenagers, Jamie, who loved cycling, bought himself a special track-racing bike and started taking part in competitions. Vicky thought it looked very exciting and decided to try it for herself. She says that was the best decision she ever made. Soon she was cycling every day and doing really well. The track was near her school, which meant it was no problem for her to attend training sessions after school every day.</p><p>Vicky went on to have a successful career in track cycling and won several competitions. Then, when she was 28, she retired from competitive cycling. Vicky told me: 'For years I’d loved winning competitions but I began to get a bit tired of the whole thing - and when the excitement stops there’s no point. Luckily, I went on to have a new career.'</p><p>Vicky got a job with a charity called CycleZone. 'We work with young people who have never enjoyed sport,' she says. 'The first thing we do is teach them to ride a bike. We want them to learn to believe in themselves and their own abilities. CycleZone does a great job, and it gets young people together so they’re part of a wider group.'</p><p>The charity uses celebrities to advertise the work they do. Vicky says, 'I know some people aren’t sure whether the support of a celebrity is always positive for a charity. They say the celebrities are only doing it to push themselves forward, which prevents the public from seeing the real work of the charity. But if famous singers and actors, for example, can help, I think they should.'</p>"
+      },
+      "questions": [
+        {
+          "questionId": "pet-reading-ft01-part3-q11",
+          "number": 11,
+          "question": "When Vicky first started cycling",
+          "options": [
+            { "key": "A", "text": "she had a very good coach." },
+            { "key": "B", "text": "her parents gave her helpful advice." },
+            { "key": "C", "text": "she could get to a race track easily." },
+            { "key": "D", "text": "her brother gave her a great bike." }
+          ],
+          "answer": "C",
+          "requiredEvidence": {
+            "mode": "text_span_or_keywords",
+            "acceptedQuotes": [
+              "The track was near her school, which meant it was no problem for her to attend training sessions after school every day."
+            ],
+            "acceptedKeywords": [
+              ["track", "near", "school"],
+              ["no problem", "attend", "training"]
+            ]
+          },
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là C vì bài đọc nói đường đua ở gần trường của Vicky, nên cô ấy có thể đến đó tập luyện sau giờ học một cách dễ dàng.",
+            "textEvidence": [
+              "The track was near her school",
+              "it was no problem for her to attend training sessions"
+            ],
+            "paraphraseMap": [
+              {
+                "fromText": "The track was near her school",
+                "toOption": "she could get to a race track easily"
+              }
+            ],
+            "wrongOptionAnalysis": {
+              "A": "Sai vì huấn luyện viên được nhắc đến trước đó là huấn luyện viên bơi lội, không phải huấn luyện viên đua xe đạp.",
+              "B": "Sai vì bố mẹ cho cô ấy quyền tự lựa chọn hoạt động, chứ không đưa ra lời khuyên cụ thể về đạp xe.",
+              "D": "Sai vì Jamie mua xe cho chính mình, chứ bài không nói cậu ấy tặng xe cho Vicky."
+            },
+            "vocabulary": [
+              { "word": "track", "meaningVi": "đường đua" },
+              { "word": "training session", "meaningVi": "buổi tập luyện" }
+            ],
+            "grammarNotes": [],
+            "strategyNote": "Câu hỏi hỏi về giai đoạn Vicky mới bắt đầu đạp xe, nên phải quay lại đoạn đầu và tránh bị nhiễu bởi thông tin về bơi lội."
+          }
+        },
+        {
+          "questionId": "pet-reading-ft01-part3-q12",
+          "number": 12,
+          "question": "Why does Vicky say she stopped cycle racing?",
+          "options": [
+            { "key": "A", "text": "She felt she was too old to do it." },
+            { "key": "B", "text": "She was becoming bored with it." },
+            { "key": "C", "text": "She had won everything she wanted." },
+            { "key": "D", "text": "She was preparing for a new career." }
+          ],
+          "answer": "B",
+          "requiredEvidence": {
+            "mode": "text_span_or_keywords",
+            "acceptedQuotes": [
+              "I began to get a bit tired of the whole thing - and when the excitement stops there’s no point."
+            ],
+            "acceptedKeywords": [
+              ["tired", "whole thing"],
+              ["excitement", "stops"]
+            ]
+          },
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là B vì Vicky nói cô ấy 'bắt đầu cảm thấy chán toàn bộ chuyện đó' và khi cảm giác hào hứng không còn nữa thì tiếp tục cũng không có ý nghĩa. Điều này cho thấy cô ấy dần cảm thấy chán với việc đua xe.",
+            "textEvidence": [
+              "I began to get a bit tired of the whole thing",
+              "when the excitement stops there’s no point"
+            ],
+            "paraphraseMap": [
+              {
+                "fromText": "tired of the whole thing",
+                "toOption": "becoming bored with it"
+              }
+            ],
+            "wrongOptionAnalysis": {
+              "A": "Sai vì cô ấy không hề nói mình quá lớn tuổi để tiếp tục.",
+              "C": "Sai vì bài không nói cô ấy đã giành được tất cả những gì mình mong muốn.",
+              "D": "Sai vì công việc mới đến sau khi cô ấy giải nghệ, chứ không phải nguyên nhân trực tiếp được nêu trong bài."
+            },
+            "vocabulary": [
+              { "word": "retire", "meaningVi": "giải nghệ, nghỉ thi đấu" },
+              { "word": "excitement", "meaningVi": "sự hào hứng" }
+            ],
+            "grammarNotes": [],
+            "strategyNote": "Dạng câu hỏi 'Why' cần chọn đúng lý do mà nhân vật trực tiếp nêu ra, không chọn đáp án chỉ là suy luận thêm."
+          }
+        },
+        {
+          "questionId": "pet-reading-ft01-part3-q13",
+          "number": 13,
+          "question": "What does the charity CycleZone do for young people?",
+          "options": [
+            { "key": "A", "text": "It teaches them how to do track racing." },
+            { "key": "B", "text": "It supports those who have talent." },
+            { "key": "C", "text": "It offers them the chance to try a variety of sports." },
+            { "key": "D", "text": "It helps them become more confident." }
+          ],
+          "answer": "D",
+          "requiredEvidence": {
+            "mode": "text_span_or_keywords",
+            "acceptedQuotes": [
+              "We want them to learn to believe in themselves and their own abilities."
+            ],
+            "acceptedKeywords": [
+              ["believe", "themselves"],
+              ["their own abilities"]
+            ]
+          },
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là D vì bài đọc nói mục tiêu của CycleZone là giúp những người trẻ này học cách tin vào bản thân và khả năng của mình. Điều đó tương đương với việc giúp họ tự tin hơn.",
+            "textEvidence": [
+              "learn to believe in themselves and their own abilities"
+            ],
+            "paraphraseMap": [
+              {
+                "fromText": "believe in themselves",
+                "toOption": "become more confident"
+              }
+            ],
+            "wrongOptionAnalysis": {
+              "A": "Sai vì tổ chức này trước hết dạy họ đi xe đạp, chứ không dạy đua xe đạp đường đua.",
+              "B": "Sai vì tổ chức làm việc với những người trẻ chưa từng thích thể thao, không chỉ với những người có năng khiếu.",
+              "C": "Sai vì bài không nói họ được thử nhiều môn thể thao khác nhau."
+            },
+            "vocabulary": [
+              { "word": "ability", "meaningVi": "khả năng" },
+              { "word": "confident", "meaningVi": "tự tin" }
+            ],
+            "grammarNotes": [],
+            "strategyNote": "Hãy chú ý mục tiêu sâu hơn của tổ chức, không chỉ hoạt động bề mặt như 'teach them to ride a bike'."
+          }
+        },
+        {
+          "questionId": "pet-reading-ft01-part3-q14",
+          "number": 14,
+          "question": "According to Vicky, some people believe that celebrities can",
+          "options": [
+            { "key": "A", "text": "take attention away from what a charity does." },
+            { "key": "B", "text": "help people understand a charity’s work." },
+            { "key": "C", "text": "make the public care less about a charity." },
+            { "key": "D", "text": "encourage more people to become involved with a charity." }
+          ],
+          "answer": "A",
+          "requiredEvidence": {
+            "mode": "text_span_or_keywords",
+            "acceptedQuotes": [
+              "They say the celebrities are only doing it to push themselves forward, which prevents the public from seeing the real work of the charity."
+            ],
+            "acceptedKeywords": [
+              ["push themselves forward"],
+              ["prevents", "public", "seeing", "real work"]
+            ]
+          },
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là A vì theo một số người, người nổi tiếng chỉ đang quảng bá bản thân và điều đó khiến công chúng không nhìn thấy công việc thực sự của tổ chức từ thiện. Nói cách khác, sự chú ý bị lệch khỏi điều mà tổ chức thật sự làm.",
+            "textEvidence": [
+              "push themselves forward",
+              "prevents the public from seeing the real work of the charity"
+            ],
+            "paraphraseMap": [
+              {
+                "fromText": "prevents the public from seeing the real work",
+                "toOption": "take attention away from what a charity does"
+              }
+            ],
+            "wrongOptionAnalysis": {
+              "B": "Sai vì đây là cách hiểu tích cực hơn mà Vicky gợi ra ở cuối đoạn, không phải ý kiến phê phán của 'some people'.",
+              "C": "Sai vì bài nói về việc công chúng không thấy rõ công việc thật của tổ chức, chứ không nói họ quan tâm ít hơn.",
+              "D": "Sai vì đây là lợi ích có thể có, không phải lời phê phán được nêu trong bài."
+            },
+            "vocabulary": [
+              { "word": "charity", "meaningVi": "tổ chức từ thiện" },
+              { "word": "prevent", "meaningVi": "ngăn cản" }
+            ],
+            "grammarNotes": [],
+            "strategyNote": "Câu này bẫy ở chỗ có hai quan điểm khác nhau - ý kiến của người khác và ý kiến của Vicky. Phải chọn đúng theo cụm 'some people believe'."
+          }
+        },
+        {
+          "questionId": "pet-reading-ft01-part3-q15",
+          "number": 15,
+          "question": "What would Vicky say on her blog?",
+          "options": [
+            { "key": "A", "text": "As a child, I always knew what I wanted to do when I grew up. But I never expected to become so famous." },
+            { "key": "B", "text": "If you join CycleZone, you’ll get to meet celebrities and learn how they’ve become successful." },
+            { "key": "C", "text": "Although track cycling is not the only sport I’ve been good at, I’ve never regretted my choice of career." },
+            { "key": "D", "text": "In my spare time I love going to schools and helping groups of children learn to ride bikes." }
+          ],
+          "answer": "C",
+          "requiredEvidence": {
+            "mode": "text_span_or_keywords",
+            "acceptedQuotes": [
+              "Vicky chose to do lots of different sports.",
+              "She says that was the best decision she ever made."
+            ],
+            "acceptedKeywords": [
+              ["different sports"],
+              ["best decision", "ever made"]
+            ]
+          },
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là C vì bài đọc cho biết Vicky từng chơi nhiều môn thể thao khác nhau và việc thử sức với đua xe đạp là 'quyết định tốt nhất cô ấy từng đưa ra'. Ý này khớp với câu C.",
+            "textEvidence": [
+              "Vicky chose to do lots of different sports",
+              "that was the best decision she ever made"
+            ],
+            "paraphraseMap": [
+              {
+                "fromText": "lots of different sports",
+                "toOption": "not the only sport I’ve been good at"
+              },
+              {
+                "fromText": "best decision she ever made",
+                "toOption": "I’ve never regretted my choice"
+              }
+            ],
+            "wrongOptionAnalysis": {
+              "A": "Sai vì khi còn nhỏ cô ấy được tự do lựa chọn và thử nhiều môn thể thao khác nhau, chứ không phải luôn biết rõ mình sẽ làm gì sau này.",
+              "B": "Sai vì bài không nói tham gia CycleZone sẽ được gặp người nổi tiếng hay học cách họ thành công.",
+              "D": "Sai vì bài không nói cô ấy làm việc đó trong thời gian rảnh hoặc cụ thể là tới trường để dạy trẻ em đi xe đạp."
+            },
+            "vocabulary": [
+              { "word": "regret", "meaningVi": "hối tiếc" },
+              { "word": "career", "meaningVi": "sự nghiệp" }
+            ],
+            "grammarNotes": [],
+            "strategyNote": "Ở dạng blog statement, cần chọn câu mà nhân vật có thể tự nói dựa đúng trên thông tin trong bài, không thêm chi tiết ngoài văn bản."
+          }
+        }
+      ],
+      "scoring": {
+        "mode": "answer_plus_evidence",
+        "rules": {
+          "correctAnswerOnly": 0,
+          "correctAnswerWithEvidence": 1
+        }
+      },
+      "review": {
+        "showEvidenceFeedback": true
+      }
+    },
+    {
+      "partId": "PART4",
+      "partInstanceId": "pet-reading-ft01-part4",
+      "sourceTestId": "pet-reading-ft01",
+      "partNumber": 4,
+      "partType": "gapped_text_dragdrop",
+      "title": "Part 4",
+      "questionRange": "16-20",
+      "instructions": "Five sentences have been removed from the text below. For each question, choose the correct answer. There are three extra sentences which you do not need to use.",
+      "ui": {
+        "interaction": "drag_drop"
+      },
+      "content": {
+        "title": "At home together",
+        "passageSegments": [
+          {
+            "type": "text",
+            "html": "<p>Taimi Taskinen is an 83-year-old woman who lives in a care home called Rudolf House in Helsinki, Finland. A care home is a place where old people can live and be looked after if they don’t live with their families. At Rudolf House, there are lots of stairs, so there are some rooms which elderly people can’t access easily. As a result, the city council decided to rent these spare rooms to young people. They called this new housing programme ‘The House that Fits’.</p><p>When Taimi heard about the council’s plan, she wondered how it was going to work.</p>"
+          },
+          { "type": "gap", "gapId": 16 },
+          {
+            "type": "text",
+            "html": "<p>She couldn’t imagine what she’d have in common with young people who weren’t family members. Then, one morning a few days later, a young man appeared outside her room.</p>"
+          },
+          { "type": "gap", "gapId": 17 },
+          {
+            "type": "text",
+            "html": "<p>‘Hi! I’m your new neighbour,’ the young man said. ‘My name’s Jonatan Shaya. Mind if I come in?’ ‘Please do,’ she replied, immediately curious. ‘I’ll make coffee,’ he announced, going into her tiny kitchen. ‘Why don’t you tell me about yourself?’ he asked, as he brought their drinks to the table.</p>"
+          },
+          { "type": "gap", "gapId": 18 },
+          {
+            "type": "text",
+            "html": "<p>She also told him about her family and how much she loved making art.</p><p>In turn, 20-year-old Jonatan told Taimi he’d been living in Helsinki with his mother and younger brother until they moved away. He was in the middle of a course in the city, training to become a chef.</p>"
+          },
+          { "type": "gap", "gapId": 19 },
+          {
+            "type": "text",
+            "html": "<p>That’s when he heard about ‘The House that Fits’ on social media. The council’s post resulted in over 300 young people applying to live at Rudolf House. They had face-to-face interviews and wrote short essays about why they wanted to live there.</p>"
+          },
+          { "type": "gap", "gapId": 20 },
+          {
+            "type": "text",
+            "html": "<p>And that’s how the unlikely friendship between Taimi and Jonatan began.</p>"
+          }
+        ],
+        "optionBank": [
+          { "key": "A", "text": "Surprising herself, she talked about growing up in a lakeside town in eastern Finland." },
+          { "key": "B", "text": "Therefore, he needed to find somewhere to live." },
+          { "key": "C", "text": "As a result, she wasn’t sure whether the young people had arrived." },
+          { "key": "D", "text": "She’d left the door open, as she always did in the morning." },
+          { "key": "E", "text": "In the end, three of them, including Jonatan, were chosen." },
+          { "key": "F", "text": "Because of this, Jonatan has to be a good neighbour and spend 30 hours a month with Taimi." },
+          { "key": "G", "text": "It would be the first time that anything like this had happened at Rudolf House." },
+          { "key": "H", "text": "Instead, they just talked, as if they’d known each other forever." }
+        ]
+      },
+      "questions": [
+        {
+          "questionId": "pet-reading-ft01-part4-q16",
+          "number": 16,
+          "answer": "G"
+        },
+        {
+          "questionId": "pet-reading-ft01-part4-q17",
+          "number": 17,
+          "answer": "D"
+        },
+        {
+          "questionId": "pet-reading-ft01-part4-q18",
+          "number": 18,
+          "answer": "A"
+        },
+        {
+          "questionId": "pet-reading-ft01-part4-q19",
+          "number": 19,
+          "answer": "B"
+        },
+        {
+          "questionId": "pet-reading-ft01-part4-q20",
+          "number": 20,
+          "answer": "E"
+        }
+      ],
+      "scoring": {
+        "mode": "exact_match",
+        "pointsPerQuestion": 1
+      },
+      "review": {
+        "explanations": [
+          {
+            "questionId": 16,
+            "correctAnswer": "G",
+            "reason": "Đáp án đúng là G vì trước chỗ trống, bài nói Taimi nghe về kế hoạch của hội đồng thành phố. Ngay sau chỗ trống, bà ấy thắc mắc không biết việc này sẽ hoạt động ra sao. Câu G nối rất tự nhiên vì nó giải thích rằng đây sẽ là lần đầu tiên một việc như thế xảy ra ở Rudolf House, nên việc bà ấy lo lắng là hoàn toàn hợp lý.",
+            "textEvidence": [],
+            "cohesionClues": [
+              "she wondered how it was going to work",
+              "first time"
+            ],
+            "paraphraseMap": [
+              {
+                "fromText": "wondered how it was going to work",
+                "toOption": "It would be the first time that anything like this had happened"
+              }
+            ],
+            "wrongOptionAnalysis": {}
+          },
+          {
+            "questionId": 17,
+            "correctAnswer": "D",
+            "reason": "Đáp án đúng là D vì sau chỗ trống, một chàng trai trẻ xuất hiện bên ngoài phòng của bà. Câu D giải thích hợp lý vì sao điều đó xảy ra - bà đã để cửa mở như mọi buổi sáng, nên cậu ấy có thể đứng ngoài và bắt chuyện.",
+            "textEvidence": [],
+            "cohesionClues": [
+              "a young man appeared outside her room",
+              "the door open"
+            ],
+            "paraphraseMap": [
+              {
+                "fromOption": "She’d left the door open",
+                "toText": "a young man appeared outside her room"
+              }
+            ],
+            "wrongOptionAnalysis": {}
+          },
+          {
+            "questionId": 18,
+            "correctAnswer": "A",
+            "reason": "Đáp án đúng là A vì ngay trước chỗ trống, Jonatan hỏi bà hãy kể về bản thân mình. Ngay sau chỗ trống, bài viết tiếp rằng 'She also told him...', nên câu A rất hợp lý để mở đầu cho nội dung bà kể về mình - tuổi thơ ở một thị trấn ven hồ phía đông Phần Lan.",
+            "textEvidence": [],
+            "cohesionClues": [
+              "tell me about yourself",
+              "She also told him..."
+            ],
+            "paraphraseMap": [
+              {
+                "fromText": "tell me about yourself",
+                "toOption": "she talked about growing up..."
+              }
+            ],
+            "wrongOptionAnalysis": {}
+          },
+          {
+            "questionId": 19,
+            "correctAnswer": "B",
+            "reason": "Đáp án đúng là B vì trước chỗ trống, bài nói Jonatan sống với mẹ và em trai cho tới khi họ chuyển đi nơi khác, trong khi cậu ấy vẫn đang học ở Helsinki. Hệ quả logic là cậu ấy cần tìm một nơi ở mới. Câu B nối ý hoàn hảo.",
+            "textEvidence": [],
+            "cohesionClues": [
+              "until they moved away",
+              "That’s when he heard about..."
+            ],
+            "paraphraseMap": [
+              {
+                "fromText": "his mother and younger brother ... moved away",
+                "toOption": "he needed to find somewhere to live"
+              }
+            ],
+            "wrongOptionAnalysis": {}
+          },
+          {
+            "questionId": 20,
+            "correctAnswer": "E",
+            "reason": "Đáp án đúng là E vì trước chỗ trống, bài mô tả quá trình tuyển chọn với hơn 300 người trẻ nộp đơn, tham gia phỏng vấn trực tiếp và viết bài ngắn. Câu E đưa ra kết quả cuối cùng của quá trình đó - chỉ có ba người, trong đó có Jonatan, được chọn.",
+            "textEvidence": [],
+            "cohesionClues": [
+              "over 300 young people applying",
+              "interviews",
+              "short essays"
+            ],
+            "paraphraseMap": [
+              {
+                "fromText": "application process",
+                "toOption": "three of them ... were chosen"
+              }
+            ],
+            "wrongOptionAnalysis": {}
+          }
+        ],
+        "showUnusedOptions": true,
+        "unusedOptions": ["C", "F", "H"]
+      }
+    },
+    {
+      "partId": "PART5",
+      "partInstanceId": "pet-reading-ft01-part5",
+      "sourceTestId": "pet-reading-ft01",
+      "partNumber": 5,
+      "partType": "openable_gap_mcq",
+      "title": "Part 5",
+      "questionRange": "21-26",
+      "instructions": "For each question, choose the correct answer.",
+      "ui": {
+        "interaction": "click_gap_show_options"
+      },
+      "content": {
+        "title": "The invention of crisps",
+        "passageTemplate": "<p>Potato crisps were invented by accident in 1853, by a chef called George Crum. He was extremely [[21]] of his cookery skills, and the expensive hotel where he worked attracted customers who were [[22]] to eating only the best food.</p><p>One evening, a particularly difficult-to-please guest complained about Crum’s fried potatoes. ‘They’re too thick,’ he said, ‘too soft, and have no flavour.’ He [[23]] that they should be replaced.</p><p>The customer’s negative [[24]] made Crum extremely angry, so he decided to annoy the customer. He cut a potato into paper-thin slices, fried the pieces until they were hard, then put far too much salt on them. ‘He’ll hate them,’ Crum thought. But the customer loved them and ordered more.</p><p>News of this new snack travelled fast and an absolutely [[25]] global industry has grown from Crum’s invention - even though his fried potatoes were actually [[26]] to taste disgusting!</p>"
+      },
+      "questions": [
+        {
+          "questionId": "pet-reading-ft01-part5-q21",
+          "number": 21,
+          "options": [
+            { "key": "A", "text": "proud" },
+            { "key": "B", "text": "satisfied" },
+            { "key": "C", "text": "pleased" },
+            { "key": "D", "text": "impressed" }
+          ],
+          "answer": "A",
+          "insertText": "proud",
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là A vì cụm đúng là 'proud of'. Câu nói rằng George Crum rất tự hào về kỹ năng nấu ăn của mình.",
+            "textEvidence": [
+              "He was extremely [[21]] of his cookery skills"
+            ],
+            "paraphraseMap": [
+              {
+                "fromGapContext": "of his cookery skills",
+                "toAnswer": "proud"
+              }
+            ],
+            "wrongOptionAnalysis": {
+              "B": "Sai vì ta nói 'satisfied with', không nói 'satisfied of' trong ngữ cảnh này.",
+              "C": "Sai vì ta nói 'pleased with/about', không nói 'pleased of'.",
+              "D": "Sai vì ta nói 'impressed by/with', không nói 'impressed of'."
+            },
+            "vocabulary": [
+              { "word": "cookery", "meaningVi": "nấu ăn" }
+            ],
+            "grammarNotes": [
+              {
+                "pattern": "be proud of + noun",
+                "meaningVi": "tự hào về"
+              }
+            ],
+            "strategyNote": "Part 5 thường kiểm tra collocation. Khi thấy giới từ đi sau chỗ trống, hãy kiểm tra cụm cố định."
+          }
+        },
+        {
+          "questionId": "pet-reading-ft01-part5-q22",
+          "number": 22,
+          "options": [
+            { "key": "A", "text": "prepared" },
+            { "key": "B", "text": "familiar" },
+            { "key": "C", "text": "used" },
+            { "key": "D", "text": "known" }
+          ],
+          "answer": "C",
+          "insertText": "used",
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là C vì cấu trúc đúng là 'be used to + V-ing', nghĩa là 'quen với việc gì'. Câu này nói những vị khách đó quen với việc chỉ ăn những món ngon nhất.",
+            "textEvidence": [
+              "customers who were [[22]] to eating only the best food"
+            ],
+            "paraphraseMap": [
+              {
+                "fromGapContext": "to eating",
+                "toAnswer": "used"
+              }
+            ],
+            "wrongOptionAnalysis": {
+              "A": "Sai vì 'prepared to eat' có thể dùng ở ngữ cảnh khác với nghĩa 'sẵn sàng ăn', nhưng không có nghĩa 'quen với'.",
+              "B": "Sai vì 'familiar to eating' sai ngữ pháp.",
+              "D": "Sai vì 'known to eating' cũng sai ngữ pháp."
+            },
+            "vocabulary": [
+              { "word": "used to", "meaningVi": "quen với" }
+            ],
+            "grammarNotes": [
+              {
+                "pattern": "be used to + noun / V-ing",
+                "meaningVi": "quen với"
+              }
+            ],
+            "strategyNote": "Khi thấy 'to + V-ing' trong Part 5, rất hay đó là dấu hiệu của cấu trúc 'be used to'."
+          }
+        },
+        {
+          "questionId": "pet-reading-ft01-part5-q23",
+          "number": 23,
+          "options": [
+            { "key": "A", "text": "convinced" },
+            { "key": "B", "text": "wanted" },
+            { "key": "C", "text": "needed" },
+            { "key": "D", "text": "demanded" }
+          ],
+          "answer": "D",
+          "insertText": "demanded",
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là D vì người khách này đang phàn nàn một cách gay gắt và muốn món khoai tây phải được thay thế. Động từ phù hợp nhất là 'demanded' - đòi hỏi mạnh mẽ.",
+            "textEvidence": [
+              "a particularly difficult-to-please guest complained",
+              "He [[23]] that they should be replaced."
+            ],
+            "paraphraseMap": [
+              {
+                "fromText": "complained strongly",
+                "toAnswer": "demanded"
+              }
+            ],
+            "wrongOptionAnalysis": {
+              "A": "Sai vì 'convinced that' không phù hợp với nghĩa của ngữ cảnh này.",
+              "B": "Sai vì 'wanted that they should be replaced' không phải cấu trúc tự nhiên trong câu này.",
+              "C": "Sai vì 'needed that' là sai ngữ pháp."
+            },
+            "vocabulary": [
+              { "word": "demand", "meaningVi": "đòi hỏi, yêu cầu mạnh mẽ" }
+            ],
+            "grammarNotes": [
+              {
+                "pattern": "demand that + clause",
+                "meaningVi": "yêu cầu rằng..."
+              }
+            ],
+            "strategyNote": "Hãy để ý sắc thái nghĩa. Người khách này không chỉ 'muốn' mà đang phàn nàn gay gắt và đòi thay món."
+          }
+        },
+        {
+          "questionId": "pet-reading-ft01-part5-q24",
+          "number": 24,
+          "options": [
+            { "key": "A", "text": "comments" },
+            { "key": "B", "text": "notes" },
+            { "key": "C", "text": "reasons" },
+            { "key": "D", "text": "explanations" }
+          ],
+          "answer": "A",
+          "insertText": "comments",
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là A vì cụm tự nhiên nhất là 'negative comments' - những lời nhận xét chê bai. Người khách đã đưa ra các nhận xét tiêu cực về món ăn, và điều đó làm Crum tức giận.",
+            "textEvidence": [
+              "The customer’s negative [[24]] made Crum extremely angry"
+            ],
+            "paraphraseMap": [
+              {
+                "fromText": "complained ... too thick, too soft, no flavour",
+                "toAnswer": "negative comments"
+              }
+            ],
+            "wrongOptionAnalysis": {
+              "B": "Sai vì 'notes' không phù hợp với kiểu lời chê trực tiếp trong bối cảnh này.",
+              "C": "Sai vì ông ấy không đưa ra 'negative reasons' mà đưa ra các lời nhận xét chê bai.",
+              "D": "Sai vì 'negative explanations' không tự nhiên trong ngữ cảnh này."
+            },
+            "vocabulary": [
+              { "word": "comment", "meaningVi": "nhận xét, bình luận" }
+            ],
+            "grammarNotes": [],
+            "strategyNote": "Khi có nhiều từ gần nghĩa, hãy chọn từ kết hợp tự nhiên nhất với tính từ đứng trước."
+          }
+        },
+        {
+          "questionId": "pet-reading-ft01-part5-q25",
+          "number": 25,
+          "options": [
+            { "key": "A", "text": "big" },
+            { "key": "B", "text": "huge" },
+            { "key": "C", "text": "large" },
+            { "key": "D", "text": "wide" }
+          ],
+          "answer": "B",
+          "insertText": "huge",
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là B vì cụm tự nhiên nhất trong câu là 'an absolutely huge global industry'. Từ 'huge' kết hợp tốt với 'absolutely' và phù hợp với ý nói về quy mô rất lớn của ngành công nghiệp khoai tây chiên.",
+            "textEvidence": [
+              "an absolutely [[25]] global industry"
+            ],
+            "paraphraseMap": [
+              {
+                "fromText": "absolutely",
+                "toAnswer": "huge"
+              }
+            ],
+            "wrongOptionAnalysis": {
+              "A": "Sai vì 'absolutely big' nghe yếu và không tự nhiên bằng.",
+              "C": "Sai vì 'absolutely large' ít tự nhiên hơn trong văn phong này.",
+              "D": "Sai vì 'wide global industry' không đúng nghĩa và không đúng collocation."
+            },
+            "vocabulary": [
+              { "word": "industry", "meaningVi": "ngành công nghiệp" }
+            ],
+            "grammarNotes": [],
+            "strategyNote": "Các trạng từ như 'absolutely' thường đi với những tính từ mạnh như 'huge', 'amazing', 'terrible'."
+          }
+        },
+        {
+          "questionId": "pet-reading-ft01-part5-q26",
+          "number": 26,
+          "options": [
+            { "key": "A", "text": "hoped" },
+            { "key": "B", "text": "intended" },
+            { "key": "C", "text": "attempted" },
+            { "key": "D", "text": "tried" }
+          ],
+          "answer": "B",
+          "insertText": "intended",
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là B vì Crum cố ý làm món khoai tây đó có vị kinh khủng để chọc tức khách. Ý nghĩa cần ở đây là 'được chủ ý để...', nên 'intended' là lựa chọn đúng nhất.",
+            "textEvidence": [
+              "He’ll hate them",
+              "were actually [[26]] to taste disgusting"
+            ],
+            "paraphraseMap": [
+              {
+                "fromText": "He’ll hate them",
+                "toAnswer": "intended"
+              }
+            ],
+            "wrongOptionAnalysis": {
+              "A": "Sai vì không nói 'were hoped to taste disgusting'.",
+              "C": "Sai vì 'attempted to taste' sai cả nghĩa lẫn ngữ pháp - bản thân món ăn không thể 'cố gắng'.",
+              "D": "Sai vì 'were tried to taste disgusting' là sai ngữ pháp."
+            },
+            "vocabulary": [
+              { "word": "intend", "meaningVi": "có chủ đích, dự định" },
+              { "word": "disgusting", "meaningVi": "kinh khủng, ghê" }
+            ],
+            "grammarNotes": [
+              {
+                "pattern": "be intended to + verb",
+                "meaningVi": "được chủ định để..."
+              }
+            ],
+            "strategyNote": "Hãy xác định đúng chủ thể và nghĩa logic của câu. Chỉ 'intended' phù hợp cả về ngữ pháp lẫn ngữ nghĩa."
+          }
+        }
+      ],
+      "scoring": {
+        "mode": "exact_match",
+        "pointsPerQuestion": 1
+      },
+      "review": {
+        "showFilledPassage": true
+      }
+    },
+    {
+      "partId": "PART6",
+      "partInstanceId": "pet-reading-ft01-part6",
+      "sourceTestId": "pet-reading-ft01",
+      "partNumber": 6,
+      "partType": "inline_word_entry",
+      "title": "Part 6",
+      "questionRange": "27-32",
+      "instructions": "For each question, write the correct answer. Write one word for each gap.",
+      "ui": {
+        "interaction": "inline_text_input"
+      },
+      "content": {
+        "title": "Moving house",
+        "passageTemplate": "<p>Hi Alex,</p><p>How are you? This week’s been a very busy one for me - I finally moved house!</p><p>[[27]] wasn’t until I started to pack a few days ago that I realised how much stuff I had. I really think moving house is one of the [[28]] stressful things I’ve ever done! I was sad to leave my old house - after [[29]], I’d lived there my whole life so I have lots of good memories.</p><p>Anyway, I’m looking [[30]] to being in this new house. It’s not as big as the old one, but [[31]] least it’s got a great garden. I’m planning to have a small party on Saturday night. Are you free then? Why don’t you come along [[32]] you are? I hope you can make it. Let me know.</p><p>All the best,</p><p>Sam</p>"
+      },
+      "questions": [
+        {
+          "questionId": "pet-reading-ft01-part6-q27",
+          "number": 27,
+          "answer": ["it"],
+          "caseSensitive": false,
+          "acceptedVariants": [],
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là 'it' vì cấu trúc cố định là 'It wasn’t until ... that ...', nghĩa là 'Mãi đến khi... thì...'.",
+            "textEvidence": [
+              "___ wasn’t until I started to pack"
+            ],
+            "paraphraseMap": [
+              {
+                "fromStructure": "It wasn’t until ... that ...",
+                "toAnswer": "it"
+              }
+            ],
+            "wrongOptionAnalysis": {},
+            "vocabulary": [],
+            "grammarNotes": [
+              {
+                "pattern": "It wasn’t until + clause/time + that + clause",
+                "meaningVi": "Mãi đến... thì..."
+              }
+            ],
+            "strategyNote": "Part 6 thường kiểm tra cụm cố định và cấu trúc ngữ pháp, không chỉ từ vựng đơn lẻ."
+          }
+        },
+        {
+          "questionId": "pet-reading-ft01-part6-q28",
+          "number": 28,
+          "answer": ["most"],
+          "caseSensitive": false,
+          "acceptedVariants": [],
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là 'most' vì cấu trúc đúng là 'one of the most + adjective + plural noun'. Câu này có nghĩa là chuyển nhà là một trong những việc căng thẳng nhất mà Sam từng làm.",
+            "textEvidence": [
+              "one of the ___ stressful things"
+            ],
+            "paraphraseMap": [
+              {
+                "fromStructure": "one of the most stressful things",
+                "toAnswer": "most"
+              }
+            ],
+            "wrongOptionAnalysis": {},
+            "vocabulary": [
+              { "word": "stressful", "meaningVi": "gây căng thẳng" }
+            ],
+            "grammarNotes": [
+              {
+                "pattern": "one of the most + adjective + plural noun",
+                "meaningVi": "một trong những ... nhất"
+              }
+            ],
+            "strategyNote": "Khi thấy 'one of the', gần như chắc chắn ta cần dạng so sánh nhất."
+          }
+        },
+        {
+          "questionId": "pet-reading-ft01-part6-q29",
+          "number": 29,
+          "answer": ["all"],
+          "caseSensitive": false,
+          "acceptedVariants": [],
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là 'all' vì cụm cố định là 'after all', nghĩa là 'xét cho cùng' hoặc 'dù sao thì'. Ở đây Sam đang giải thích vì sao mình buồn khi rời ngôi nhà cũ.",
+            "textEvidence": [
+              "after ___, I’d lived there my whole life"
+            ],
+            "paraphraseMap": [
+              {
+                "fromMeaning": "this is understandable because...",
+                "toAnswer": "after all"
+              }
+            ],
+            "wrongOptionAnalysis": {},
+            "vocabulary": [
+              { "word": "after all", "meaningVi": "xét cho cùng, dù sao thì" }
+            ],
+            "grammarNotes": [],
+            "strategyNote": "Nếu câu phía sau là lý do giải thích cho cảm xúc hay nhận định phía trước, 'after all' là một cụm rất hay gặp."
+          }
+        },
+        {
+          "questionId": "pet-reading-ft01-part6-q30",
+          "number": 30,
+          "answer": ["forward"],
+          "caseSensitive": false,
+          "acceptedVariants": [],
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là 'forward' vì cụm đúng là 'look forward to + noun/V-ing', nghĩa là 'mong chờ'. Sam đang nói mình mong được sống trong ngôi nhà mới.",
+            "textEvidence": [
+              "I’m looking ___ to being in this new house"
+            ],
+            "paraphraseMap": [
+              {
+                "fromStructure": "look forward to being",
+                "toAnswer": "forward"
+              }
+            ],
+            "wrongOptionAnalysis": {},
+            "vocabulary": [
+              { "word": "look forward to", "meaningVi": "mong chờ" }
+            ],
+            "grammarNotes": [
+              {
+                "pattern": "look forward to + noun / V-ing",
+                "meaningVi": "mong chờ điều gì"
+              }
+            ],
+            "strategyNote": "Đừng nhầm 'to' ở đây là dấu hiệu của động từ nguyên mẫu. Trong cụm này, 'to' là giới từ nên phía sau phải là danh từ hoặc V-ing."
+          }
+        },
+        {
+          "questionId": "pet-reading-ft01-part6-q31",
+          "number": 31,
+          "answer": ["at"],
+          "caseSensitive": false,
+          "acceptedVariants": [],
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là 'at' vì cụm cố định là 'at least', nghĩa là 'ít nhất thì'. Sam muốn nói rằng dù nhà mới không lớn bằng nhà cũ, nhưng ít nhất nó có một khu vườn đẹp.",
+            "textEvidence": [
+              "but ___ least it’s got a great garden"
+            ],
+            "paraphraseMap": [
+              {
+                "fromPhrase": "at least",
+                "toAnswer": "at"
+              }
+            ],
+            "wrongOptionAnalysis": {},
+            "vocabulary": [
+              { "word": "at least", "meaningVi": "ít nhất thì" }
+            ],
+            "grammarNotes": [],
+            "strategyNote": "Hãy chú ý các cụm nối ý rất quen thuộc trong thư hoặc tin nhắn thân mật."
+          }
+        },
+        {
+          "questionId": "pet-reading-ft01-part6-q32",
+          "number": 32,
+          "answer": ["if"],
+          "caseSensitive": false,
+          "acceptedVariants": [],
+          "explanation": {
+            "correctAnswerReason": "Đáp án đúng là 'if' vì câu mang nghĩa 'Tại sao bạn không đến nếu bạn rảnh?'. Từ cần điền phải thể hiện điều kiện.",
+            "textEvidence": [
+              "Why don’t you come along ___ you are?"
+            ],
+            "paraphraseMap": [
+              {
+                "fromPreviousSentence": "Are you free then?",
+                "toAnswer": "if"
+              }
+            ],
+            "wrongOptionAnalysis": {},
+            "vocabulary": [],
+            "grammarNotes": [
+              {
+                "pattern": "if + clause",
+                "meaningVi": "nếu"
+              }
+            ],
+            "strategyNote": "Trong Part 6, đôi khi phải dùng câu trước để hiểu logic của chỗ trống, không chỉ nhìn riêng câu chứa gap."
+          }
+        }
+      ],
+      "scoring": {
+        "mode": "case_insensitive_exact_match",
+        "pointsPerQuestion": 1
+      },
+      "review": {
+        "showCorrectAnswersInline": true
+      }
+    }
+  ]
+}
