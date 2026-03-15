@@ -13,17 +13,7 @@
         "partType": "notice_mcq",
         "title": "PET Reading FT01 - Part 1",
         "questionRange": "1-5",
-        "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/PET READING BANK/pet-reading-ft01.json"
-      },
-      {
-        "partInstanceId": "pet-reading-ft02-part1",
-        "sourceTestId": "pet-reading-ft02",
-        "testCode": "FT02",
-        "partId": "PART1",
-        "partType": "notice_mcq",
-        "title": "PET Reading FT02 - Part 1",
-        "questionRange": "1-5",
-        "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/data/pet-reading-ft02.json"
+        "url": "https://raw.githubusercontent.com/nanhduong19-oss/my-test-bank/main/PET/PET%20READING%20BANK/pet-reading-ft01.json"
       }
     ],
     "PART2": [
@@ -35,17 +25,7 @@
         "partType": "matching_reviews",
         "title": "PET Reading FT01 - Part 2",
         "questionRange": "6-10",
-        "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/PET READING BANK/pet-reading-ft01.json"
-      },
-      {
-        "partInstanceId": "pet-reading-ft02-part2",
-        "sourceTestId": "pet-reading-ft02",
-        "testCode": "FT02",
-        "partId": "PART2",
-        "partType": "matching_reviews",
-        "title": "PET Reading FT02 - Part 2",
-        "questionRange": "6-10",
-        "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/data/pet-reading-ft02.json"
+        "url": "https://raw.githubusercontent.com/nanhduong19-oss/my-test-bank/main/PET/PET%20READING%20BANK/pet-reading-ft01.json"
       }
     ],
     "PART3": [
@@ -57,17 +37,7 @@
         "partType": "reading_mcq_highlight",
         "title": "PET Reading FT01 - Part 3",
         "questionRange": "11-15",
-        "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/PET READING BANK/pet-reading-ft01.json"
-      },
-      {
-        "partInstanceId": "pet-reading-ft02-part3",
-        "sourceTestId": "pet-reading-ft02",
-        "testCode": "FT02",
-        "partId": "PART3",
-        "partType": "reading_mcq_highlight",
-        "title": "PET Reading FT02 - Part 3",
-        "questionRange": "11-15",
-        "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/data/pet-reading-ft02.json"
+        "url": "https://raw.githubusercontent.com/nanhduong19-oss/my-test-bank/main/PET/PET%20READING%20BANK/pet-reading-ft01.json"
       }
     ],
     "PART4": [
@@ -79,17 +49,7 @@
         "partType": "gapped_text_dragdrop",
         "title": "PET Reading FT01 - Part 4",
         "questionRange": "16-20",
-        "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/PET READING BANK/pet-reading-ft01.json"
-      },
-      {
-        "partInstanceId": "pet-reading-ft02-part4",
-        "sourceTestId": "pet-reading-ft02",
-        "testCode": "FT02",
-        "partId": "PART4",
-        "partType": "gapped_text_dragdrop",
-        "title": "PET Reading FT02 - Part 4",
-        "questionRange": "16-20",
-        "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/data/pet-reading-ft02.json"
+        "url": "https://raw.githubusercontent.com/nanhduong19-oss/my-test-bank/main/PET/PET%20READING%20BANK/pet-reading-ft01.json"
       }
     ],
     "PART5": [
@@ -101,17 +61,7 @@
         "partType": "openable_gap_mcq",
         "title": "PET Reading FT01 - Part 5",
         "questionRange": "21-26",
-        "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/PET READING BANK/pet-reading-ft01.json"
-      },
-      {
-        "partInstanceId": "pet-reading-ft02-part5",
-        "sourceTestId": "pet-reading-ft02",
-        "testCode": "FT02",
-        "partId": "PART5",
-        "partType": "openable_gap_mcq",
-        "title": "PET Reading FT02 - Part 5",
-        "questionRange": "21-26",
-        "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/data/pet-reading-ft02.json"
+        "url": "https://raw.githubusercontent.com/nanhduong19-oss/my-test-bank/main/PET/PET%20READING%20BANK/pet-reading-ft01.json"
       }
     ],
     "PART6": [
@@ -123,17 +73,7 @@
         "partType": "inline_word_entry",
         "title": "PET Reading FT01 - Part 6",
         "questionRange": "27-32",
-        "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/PET READING BANK/pet-reading-ft01.json"
-      },
-      {
-        "partInstanceId": "pet-reading-ft02-part6",
-        "sourceTestId": "pet-reading-ft02",
-        "testCode": "FT02",
-        "partId": "PART6",
-        "partType": "inline_word_entry",
-        "title": "PET Reading FT02 - Part 6",
-        "questionRange": "27-32",
-        "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/data/pet-reading-ft02.json"
+        "url": "https://raw.githubusercontent.com/nanhduong19-oss/my-test-bank/main/PET/PET%20READING%20BANK/pet-reading-ft01.json"
       }
     ]
   }
